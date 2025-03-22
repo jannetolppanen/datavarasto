@@ -1,0 +1,807 @@
+[
+    {
+        "name": "Luettelo Helsingin puistoista",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Luettelo_Helsingin_puistoista",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.2388,
+            "lon": 25.1041,
+            "format": "decimal",
+            "original": "60.2388°N, 25.1041°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Aimo Tukiaisen puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Aimo_Tukiaisen_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.151666666666664,
+            "lon": 24.888333333333332,
+            "format": "decimal",
+            "original": "wgCoordinates: 60.151666666666664, 24.888333333333332",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Alli Tryggin puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Alli_Tryggin_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.18294,
+            "lon": 24.95616,
+            "format": "decimal",
+            "original": "60.18294°N, 24.95616°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Alppipuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Alppipuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.19011111111111,
+            "lon": 24.93611111111111,
+            "format": "DMS",
+            "original": "60°11′24.4″N, 024°56′10.0″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Asentajanpuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Asentajanpuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot"
+    },
+    {
+        "name": "Dallapénpuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Dallapénpuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.189722222222215,
+            "lon": 24.958333333333332,
+            "format": "DMS",
+            "original": "60°11′23″N, 024°57′30″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Eläintarha",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Eläintarha_(Helsinki)",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.191191,
+            "lon": 24.930126,
+            "format": "decimal",
+            "original": "60.191191°N, 24.930126°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Esplanadin puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Esplanadin_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.1675,
+            "lon": 24.947777777777777,
+            "format": "DMS",
+            "original": "60°10′03″N, 24°56′52″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Haagan Alppiruusupuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Haagan_Alppiruusupuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.2219,
+            "lon": 24.8932,
+            "format": "decimal",
+            "original": "60.2219°N, 24.8932°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Helsingin keskuspuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helsingin_keskuspuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.223055555555554,
+            "lon": 24.91916666666667,
+            "format": "DMS",
+            "original": "60°13′23″N, 024°55′09″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hesperian esplanadi",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hesperian_esplanadi",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.177,
+            "lon": 24.92338888888889,
+            "format": "DMS",
+            "original": "60°10′37.2″N, 024°55′24.2″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hesperianpuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hesperianpuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.179944444444445,
+            "lon": 24.93025,
+            "format": "DMS",
+            "original": "60°10′47.8″N, 024°55′48.9″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hyväntoivonpuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hyväntoivonpuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.15689722222222,
+            "lon": 24.916619444444443,
+            "format": "DMS",
+            "original": "60°09′24.83″N, 24°54′59.83″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Ilolanpuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ilolanpuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot"
+    },
+    {
+        "name": "Josafatin kalliot",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Josafatin_kalliot",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.1868,
+            "lon": 24.9449,
+            "format": "decimal",
+            "original": "60.1868°N, 24.9449°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kaisaniemen puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kaisaniemen_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.17472222222222,
+            "lon": 24.945833333333333,
+            "format": "DMS",
+            "original": "60°10′29″N, 024°56′45″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kaivantopuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kaivantopuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.25333333333333,
+            "lon": 25.068666666666665,
+            "format": "decimal",
+            "original": "wgCoordinates: 60.25333333333333, 25.068666666666665",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Kaivopuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kaivopuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.15694444444444,
+            "lon": 24.956944444444442,
+            "format": "DMS",
+            "original": "60°09′25″N, 024°57′25″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kalasatamanpuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kalasatamanpuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.184475,
+            "lon": 24.976758333333333,
+            "format": "DMS",
+            "original": "60°11′04.11″N, 24°58′36.33″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Karhupuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Karhupuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.18388888888889,
+            "lon": 24.952222222222222,
+            "format": "DMS",
+            "original": "60°11′02″N, 024°57′08″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Katri Valan puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Katri_Valan_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.18647,
+            "lon": 24.9642,
+            "format": "decimal",
+            "original": "60.18647°N, 24.96420°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kirsikkapuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kirsikkapuisto_(Helsinki)",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.19661111111111,
+            "lon": 25.049111111111113,
+            "format": "DMS",
+            "original": "60°11′47.8″N, 025°02′56.8″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kirurgisen sairaalan veistospuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kirurgisen_sairaalan_veistospuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.1608,
+            "lon": 24.9492,
+            "format": "decimal",
+            "original": "60.1608°N, 24.9492°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kolmikulma",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kolmikulma_(Helsinki)",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.165,
+            "lon": 24.943333333333335,
+            "format": "DMS",
+            "original": "60°09′54″N, 024°56′36″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Konepajanpuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Konepajanpuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "address": "Vallila, Helsinki"
+    },
+    {
+        "name": "Kontulan kelkkapuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kontulan_kelkkapuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot"
+    },
+    {
+        "name": "Kumtähden kenttä",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kumtähden_kenttä",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.20413333333334,
+            "lon": 24.967302777777775,
+            "format": "DMS",
+            "original": "60°12′14.88″N, 24°58′2.29″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Lapinlahden puistikko",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lapinlahden_puistikko",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.1662,
+            "lon": 24.9314,
+            "format": "decimal",
+            "original": "60.1662°N, 24.9314°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Lastenlehto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lastenlehto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.16638888888889,
+            "lon": 24.928055555555556,
+            "format": "DMS",
+            "original": "60°09′59″N, 024°55′41″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Leikkipuisto Tuhkimo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Leikkipuisto_Tuhkimo",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.198055555555555,
+            "lon": 25.052777777777777,
+            "format": "DMS",
+            "original": "60°11′53″N, 25°03′10″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Lenininpuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lenininpuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.19000555555555,
+            "lon": 24.942977777777777,
+            "format": "DMS",
+            "original": "60°11′24.02″N, 24°56′34.72″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Leppisaaren puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Leppisaaren_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.19,
+            "lon": 25.06,
+            "format": "decimal",
+            "original": "geo microformat: 60.19; 25.06",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Liisanpuistikko",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Liisanpuistikko",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.17382,
+            "lon": 24.96055,
+            "format": "decimal",
+            "original": "60.17382°N, 24.96055°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Makasiinipuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Makasiinipuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.174641666666666,
+            "lon": 24.937183333333333,
+            "format": "DMS",
+            "original": "60°10′28.71″N, 24°56′13.86″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Maria Hammarénin mäki",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Maria_Hammarénin_mäki",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.19611111111111,
+            "lon": 25.051666666666666,
+            "format": "DMS",
+            "original": "60°11′46″N, 25°03′06″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Matti Heleniuksen puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Matti_Heleniuksen_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.18394,
+            "lon": 24.95385,
+            "format": "decimal",
+            "original": "60.18394°N, 24.95385°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Merikylpylän puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Merikylpylän_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.155277777777776,
+            "lon": 24.874444444444446,
+            "format": "DMS",
+            "original": "60°09′19″N, 24°52′28″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Meripuisto)",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Meripuisto_(Helsinki)",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.15496666666667,
+            "lon": 24.945408333333333,
+            "format": "DMS",
+            "original": "60°9′17.88″N, 24°56′43.47″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Merisatama",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Merisatama",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot"
+    },
+    {
+        "name": "Micropolis",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Micropolis",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.19179444444444,
+            "lon": 24.928427777777777,
+            "format": "DMS",
+            "original": "60°11′30.46″N, 24°55′42.34″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Munkinpuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Munkinpuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.200833333333335,
+            "lon": 24.86916666666667,
+            "format": "DMS",
+            "original": "60°12′03″N, 024°52′09″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Mustikkamaa",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Mustikkamaa",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.18055555555555,
+            "lon": 24.991666666666667,
+            "format": "DMS",
+            "original": "60°10′50″N, 24°59′30″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Mäntymäki",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Mäntymäki_(Helsinki)",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.183611111111105,
+            "lon": 24.929444444444446,
+            "format": "DMS",
+            "original": "60°11′01″N, 24°55′46″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Otto-Iivari Meurmanin puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Otto-Iivari_Meurmanin_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.216972222222225,
+            "lon": 24.955694444444443,
+            "format": "DMS",
+            "original": "60°13′01.1″N, 024°57′20.5″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Paasivuorenpuistikko",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Paasivuorenpuistikko",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.17827777777777,
+            "lon": 24.947666666666667,
+            "format": "DMS",
+            "original": "60°10′41.8″N, 024°56′51.6″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Pakilanpuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pakilanpuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.24277777777778,
+            "lon": 24.93166666666667,
+            "format": "DMS",
+            "original": "60°14′34″N, 024°55′54″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Pengerpuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pengerpuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.18517,
+            "lon": 24.95735,
+            "format": "decimal",
+            "original": "60.18517°N, 24.95735°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Porolahdenpuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Porolahdenpuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot"
+    },
+    {
+        "name": "Roihuvuoren aluepuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Roihuvuoren_aluepuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot"
+    },
+    {
+        "name": "Roihuvuoren japanilaistyylinen puutarha",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Roihuvuoren_japanilaistyylinen_puutarha",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.19916666666666,
+            "lon": 25.056944444444444,
+            "format": "DMS",
+            "original": "60°11′57″N, 025°03′25″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Savelanpuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Savelanpuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot"
+    },
+    {
+        "name": "Sibeliuksen puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sibeliuksen_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.181666666666665,
+            "lon": 24.913333333333334,
+            "format": "decimal",
+            "original": "wgCoordinates: 60.181666666666665, 24.913333333333334",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Sinebrychoffin puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sinebrychoffin_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.1625,
+            "lon": 24.9325,
+            "format": "DMS",
+            "original": "60°09′45″N, 24°55′57″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Syötävä Puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Syötävä_Puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot"
+    },
+    {
+        "name": "Taivallahden sotilashautausmaa",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Taivallahden_sotilashautausmaa",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.175926,
+            "lon": 24.916182,
+            "format": "decimal",
+            "original": "60.175926°N, 24.916182°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Talinhuippu",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Talinhuippu",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.212,
+            "lon": 24.847666666666665,
+            "format": "decimal",
+            "original": "wgCoordinates: 60.212, 24.847666666666665",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Tapio Wirkkalan puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tapio_Wirkkalan_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.2074,
+            "lon": 24.9784,
+            "format": "decimal",
+            "original": "60.2074°N, 24.9784°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tarja Halosen puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tarja_Halosen_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.182046,
+            "lon": 24.941026,
+            "format": "decimal",
+            "original": "60.182046°N, 24.941026°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tauno Palon puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tauno_Palon_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.18604194444444,
+            "lon": 24.947109444444443,
+            "format": "DMS",
+            "original": "60°11′9.751″N, 24°56′49.594″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tehtaanpuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tehtaanpuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.15871111111111,
+            "lon": 24.940144444444446,
+            "format": "DMS",
+            "original": "60°9′31.36″N, 24°56′24.52″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tokoinranta",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tokoinranta",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.18003196,
+            "lon": 24.94095076,
+            "format": "decimal",
+            "original": "60.18003196°N, 24.94095076°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Torkkelinpuistikko",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Torkkelinpuistikko",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.18561666666666,
+            "lon": 24.955391666666667,
+            "format": "DMS",
+            "original": "60°11′8.22″N, 24°57′19.41″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tove Janssonin puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tove_Janssonin_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.168055555555554,
+            "lon": 24.961305555555555,
+            "format": "DMS",
+            "original": "60°10′5″N, 024°57′40.7″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tullisaari",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tullisaari",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.17872,
+            "lon": 25.03054,
+            "format": "decimal",
+            "original": "geo microformat: 60.17872; 25.03054",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Tähtitornin vuori",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tähtitornin_vuori",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.161833333333334,
+            "lon": 24.954722222222223,
+            "format": "DMS",
+            "original": "60°9′42.6″N, 024°57′17″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Töölönlahden puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Töölönlahden_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.17684166666666,
+            "lon": 24.93659166666667,
+            "format": "DMS",
+            "original": "60°10′36.63″N, 24°56′11.73″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Vallilanlaakso",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vallilanlaakso",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot"
+    },
+    {
+        "name": "Vanha kirkkopuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vanha_kirkkopuisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.16611111111111,
+            "lon": 24.939722222222223,
+            "format": "DMS",
+            "original": "60°09′58″N, 024°56′23″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Vanhanväylän puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vanhanväylän_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot"
+    },
+    {
+        "name": "Varsapuistikko",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Varsapuistikko",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.17333333333333,
+            "lon": 24.95,
+            "format": "decimal",
+            "original": "wgCoordinates: 60.17333333333333, 24.95",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Vartiokylän kaatopaikka",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vartiokylän_kaatopaikka",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.21888888888889,
+            "lon": 25.071666666666665,
+            "format": "DMS",
+            "original": "60°13′08″N, 025°04′18″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Viikin arboretum",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Viikin_arboretum",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot"
+    },
+    {
+        "name": "Vuosaarenhuippu",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vuosaarenhuippu",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.22694444444445,
+            "lon": 25.162777777777777,
+            "format": "DMS",
+            "original": "60°13′37″N, 025°09′46″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Väinö Valveen puisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Väinö_Valveen_puisto",
+        "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+        "coordinates": {
+            "lat": 60.20590833333333,
+            "lon": 25.043236111111113,
+            "format": "DMS",
+            "original": "60°12′21.27″N, 25°2′35.65″E",
+            "method": "method_1"
+        }
+    }
+]

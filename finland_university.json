@@ -1,0 +1,120 @@
+[
+    {
+        "name": "Helsingin yliopisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helsingin_yliopisto",
+        "address": "Helsinki, Suomi"
+    },
+    {
+        "name": "Svenska handelshögskolan",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hanken_Svenska_handelsh%C3%B6gskolan",
+        "address": "Helsinki ja Vaasa,"
+    },
+    {
+        "name": "Åbo Akademi",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/%C3%85bo_Akademi",
+        "coordinates": {
+            "lat": 60.451097222222224,
+            "lon": 22.27746111111111,
+            "format": "DMS",
+            "original": "60°27′3.95″N, 22°16′38.86″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Turun yliopisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Turun_yliopisto",
+        "coordinates": {
+            "lat": 60.45416666666667,
+            "lon": 22.284722222222225,
+            "format": "DMS",
+            "original": "60°27′15″N, 22°17′5″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Jyväskylän yliopisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Jyv%C3%A4skyl%C3%A4n_yliopisto",
+        "coordinates": {
+            "lat": 62.23638888888889,
+            "lon": 25.731944444444444,
+            "format": "DMS",
+            "original": "62°14′11″N, 025°43′55″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Oulun yliopisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Oulun_yliopisto",
+        "coordinates": {
+            "lat": 65.05916666666667,
+            "lon": 25.46611111111111,
+            "format": "DMS",
+            "original": "65°03′33″N, 025°27′58″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Vaasan yliopisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vaasan_yliopisto",
+        "address": "Vaasa, Suomi"
+    },
+    {
+        "name": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lappeenrannan_teknillinen_yliopisto",
+        "coordinates": {
+            "lat": 61.0648,
+            "lon": 28.0942,
+            "format": "decimal",
+            "original": "61.0648°N, 28.0942°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Lapin yliopisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lapin_yliopisto",
+        "coordinates": {
+            "lat": 66.48527777777778,
+            "lon": 25.715,
+            "format": "DMS",
+            "original": "66°29′07″N, 025°42′54″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Maanpuolustuskorkeakoulu",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Maanpuolustuskorkeakoulu",
+        "coordinates": {
+            "lat": 60.1536,
+            "lon": 25.0547,
+            "format": "decimal",
+            "original": "geo microformat: 60.1536; 25.0547",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Itä-Suomen yliopisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/It%C3%A4-Suomen_yliopisto",
+        "address": "Joensuu ja Kuopio, Suomi"
+    },
+    {
+        "name": "Aalto-yliopisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Aalto-yliopisto",
+        "address": "Espoo, Suomi"
+    },
+    {
+        "name": "Taideyliopisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Taideyliopisto",
+        "address": "Helsinki, Kuopio, Seinäjoki, Suomi"
+    },
+    {
+        "name": "Tampereen yliopisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tampereen_yliopisto",
+        "coordinates": {
+            "lat": 61.494166666666665,
+            "lon": 23.778055555555554,
+            "format": "DMS",
+            "original": "61°29′39″N, 023°46′41″E",
+            "method": "method_1"
+        }
+    }
+]

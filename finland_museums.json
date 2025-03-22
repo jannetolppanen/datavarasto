@@ -1,0 +1,5724 @@
+[
+    {
+        "name": "Aarresaaren kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Aarresaaren_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.93,
+            "lon": 25.15611111111111,
+            "format": "DMS",
+            "original": "61°55′48″N, 25°09′22″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Aboa Vetus &amp; Ars Nova",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Aboa_Vetus_%26_Ars_Nova",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.44972222222222,
+            "lon": 22.27361111111111,
+            "format": "DMS",
+            "original": "60°26′59″N, 022°16′25″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Ahola",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ahola_(J%C3%A4rvenp%C3%A4%C3%A4)",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 60.45583333333334,
+            "lon": 25.080833333333334,
+            "format": "DMS",
+            "original": "60°27′21″N, 025°04′51″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Ahti Karjalaisen syntymäkotimuseo Lepola",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ahti_Karjalaisen_synnyinkotimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.74862,
+            "lon": 26.51317,
+            "format": "decimal",
+            "original": "61.74862°N, 26.51317°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Ahvenanmaan metsästys- ja kalastusmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ahvenanmaan_mets%C3%A4stys-_ja_kalastusmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.23222222222223,
+            "lon": 19.540000000000003,
+            "format": "DMS",
+            "original": "60°13′56″N, 19°32′24″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Ahvenanmaan museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ahvenanmaan_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.096944444444446,
+            "lon": 19.945,
+            "format": "DMS",
+            "original": "60°05′49″N, 19°56′42″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Aineen taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Aineen_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 65.84583333333333,
+            "lon": 24.140555555555554,
+            "format": "DMS",
+            "original": "65°50′45″N, 24°08′26″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Ainola",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ainola",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 60.453611111111115,
+            "lon": 25.08722222222222,
+            "format": "DMS",
+            "original": "60°27′13″N, 025°05′14″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Aitonevan turvemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Aitonevan_turvemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 62.19499999999999,
+            "lon": 23.306944444444444,
+            "format": "DMS",
+            "original": "62°11′42″N, 23°18′25″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Alatornion pitäjämuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Alatornion_pit%C3%A4j%C3%A4museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 65.82805555555555,
+            "lon": 24.15694444444444,
+            "format": "DMS",
+            "original": "65°49′41″N, 24°09′25″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Albert Edelfeltin ateljeemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Albert_Edelfeltin_ateljeemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 60.346944444444446,
+            "lon": 25.621944444444445,
+            "format": "DMS",
+            "original": "60°20′49″N, 25°37′19″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Aleksis Kiven koti",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Aleksis_Kiven_syntym%C3%A4koti",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.42227777777777,
+            "lon": 24.86502777777778,
+            "format": "DMS",
+            "original": "60°25′20.2″N, 24°51′54.1″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Aleksis Kiven kuolinmökki",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Aleksis_Kiven_kuolinm%C3%B6kki",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 60.42361111111111,
+            "lon": 25.046111111111113,
+            "format": "DMS",
+            "original": "60°25′25″N, 025°02′46″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Alikartano",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Alikartano",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 60.552499999999995,
+            "lon": 25.275555555555556,
+            "format": "DMS",
+            "original": "60°33′09″N, 025°16′32″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Alvar Aalto -museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Alvar_Aalto_-museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Henkilömuseo"
+        },
+        "coordinates": {
+            "lat": 62.2338,
+            "lon": 25.7313,
+            "format": "decimal",
+            "original": "62.2338°N, 025.7313°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Amos Rex",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Amos_Rex",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.16833333333333,
+            "lon": 24.93722222222222,
+            "format": "DMS",
+            "original": "60°10′06″N, 24°56′14″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Amurin työläismuseokortteli",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Amurin_ty%C3%B6l%C3%A4ismuseokortteli",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.49927777777778,
+            "lon": 23.743361111111113,
+            "format": "DMS",
+            "original": "61°29′57.4″N, 23°44′36.1″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Ankkapurhan teollisuusmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ankkapurhan_teollisuusmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Teollisuusmuseo"
+        },
+        "coordinates": {
+            "lat": 60.70388888888889,
+            "lon": 26.815,
+            "format": "DMS",
+            "original": "60°42′14″N, 26°48′54″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Annalan kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Annalan_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 64.46916666666667,
+            "lon": 24.269444444444442,
+            "format": "DMS",
+            "original": "64°28′09″N, 24°16′10″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Apteekkimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Apteekkimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.4485,
+            "lon": 22.2677,
+            "format": "decimal",
+            "original": "60.4485°N, 22.2677°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Arkkitehtuurimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_arkkitehtuurimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen valtakunnalliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.16305555555555,
+            "lon": 24.9475,
+            "format": "DMS",
+            "original": "60°09′47″N, 024°56′51″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Askolan kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Askolan_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.53111111111111,
+            "lon": 25.596944444444443,
+            "format": "DMS",
+            "original": "60°31′52″N, 25°35′49″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Ateneumin taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ateneumin_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Valtakunnallinen taiteen keskusmuseo"
+        },
+        "coordinates": {
+            "lat": 60.169999999999995,
+            "lon": 24.944166666666668,
+            "format": "DMS",
+            "original": "60°10′12″N, 024°56′39″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Biologinen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Biologinen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen luonnontieteellinen museo"
+        },
+        "coordinates": {
+            "lat": 60.44444444444444,
+            "lon": 22.264444444444443,
+            "format": "DMS",
+            "original": "60°26′40″N, 22°15′52″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Cygnaeuksen galleria",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Cygnaeuksen_galleria",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.15936111111111,
+            "lon": 24.959,
+            "format": "DMS",
+            "original": "60°09′33.7″N, 24°57′32.4″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Designmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Designmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen valtakunnalliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.16305555555555,
+            "lon": 24.94638888888889,
+            "format": "DMS",
+            "original": "60°09′47″N, 024°56′47″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Didrichsenin taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Didrichsenin_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.18527777777778,
+            "lon": 24.85638888888889,
+            "format": "DMS",
+            "original": "60°11′07″N, 24°51′23″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Eduskuntamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sanssin_koulu",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        }
+    },
+    {
+        "name": "Ehrensvärd-museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ehrensv%C3%A4rd-museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.14427777777778,
+            "lon": 24.985647222222223,
+            "format": "DMS",
+            "original": "60°8′39.4″N, 24°59′8.33″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Einari Junttila -taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Einari_Junttila_-taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Henkilömuseo"
+        },
+        "coordinates": {
+            "lat": 67.6538888888889,
+            "lon": 24.91,
+            "format": "DMS",
+            "original": "67°39′14″N, 24°54′36″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Elävän kuvan museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/El%C3%A4v%C3%A4n_kuvan_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.19,
+            "lon": 24.98,
+            "format": "decimal",
+            "original": "geo microformat: 60.19; 24.98",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Emil Aaltosen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Emil_Aaltosen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 61.49305555555556,
+            "lon": 23.746111111111112,
+            "format": "DMS",
+            "original": "61°29′35″N, 23°44′46″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Emil Cedercreutzin museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Emil_Cedercreutzin_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.294376,
+            "lon": 22.188674,
+            "format": "decimal",
+            "original": "61.294376°N, 22.188674°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Enontekiön kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Enonteki%C3%B6n_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 68.39611111111111,
+            "lon": 23.696944444444444,
+            "format": "DMS",
+            "original": "68°23′46″N, 23°41′49″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Eräjärven kivimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Er%C3%A4j%C3%A4rven_kivimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen luonnontieteellinen museo"
+        },
+        "coordinates": {
+            "lat": 61.57805555555556,
+            "lon": 24.56388888888889,
+            "format": "DMS",
+            "original": "61°34′41″N, 24°33′50″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Espoon Automuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Espoon_Automuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Automuseo"
+        },
+        "coordinates": {
+            "lat": 60.275,
+            "lon": 24.668055555555558,
+            "format": "DMS",
+            "original": "60°16′30″N, 24°40′05″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Espoon kaupunginmuseo KAMU",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Espoon_kaupunginmuseo#KAMU",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.17858,
+            "lon": 24.79452,
+            "format": "decimal",
+            "original": "geo microformat: 60.17858; 24.79452",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Espoon modernin taiteen museo Emma",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Emma_(taidemuseo)",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.178888888888885,
+            "lon": 24.79388888888889,
+            "format": "DMS",
+            "original": "60°10′44″N, 24°47′38″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Etelä-Karjalan Automuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Etel%C3%A4-Karjalan_Automuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Automuseo"
+        },
+        "coordinates": {
+            "lat": 61.17388888888889,
+            "lon": 28.70111111111111,
+            "format": "DMS",
+            "original": "61°10′26″N, 28°42′04″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Etelä-Karjalan museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Etel%C3%A4-Karjalan_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen maakuntamuseot"
+        },
+        "coordinates": {
+            "lat": 61.067378,
+            "lon": 28.183347,
+            "format": "decimal",
+            "original": "61.067378°N, 28.183347°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Etelä-Pohjanmaan maakuntamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Etel%C3%A4-Pohjanmaan_maakuntamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen maakuntamuseot"
+        },
+        "coordinates": {
+            "lat": 62.761543,
+            "lon": 22.839589,
+            "format": "decimal",
+            "original": "62.761543°N, 22.839589°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Etelä-Pohjanmaan traktorimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Etel%C3%A4-Pohjanmaan_traktorimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 62.817194444444446,
+            "lon": 22.92577777777778,
+            "format": "DMS",
+            "original": "62°49′1.9″N, 22°55′32.8″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Ett Hem",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ett_Hem",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 60.45388888888889,
+            "lon": 22.27861111111111,
+            "format": "DMS",
+            "original": "60°27′14″N, 22°16′43″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Fiskarsin museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Fiskarsin_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.13194444444444,
+            "lon": 23.555,
+            "format": "DMS",
+            "original": "60°07′55″N, 23°33′18″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Forssan luonnonhistoriallinen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Forssan_luonnonhistoriallinen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen luonnontieteellinen museo"
+        },
+        "coordinates": {
+            "lat": 60.814471811,
+            "lon": 23.62145753,
+            "format": "decimal",
+            "original": "60.814471811°N, 23.621457530°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Forssan museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Forssan_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.815,
+            "lon": 23.621111111111112,
+            "format": "DMS",
+            "original": "60°48′54″N, 23°37′16″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Forum Marinum",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Forum_Marinum",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen valtakunnalliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.43666666666666,
+            "lon": 22.234166666666667,
+            "format": "DMS",
+            "original": "60°26′12″N, 022°14′03″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Friitalan nahkamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Friitalan_nahkamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.43,
+            "lon": 21.87,
+            "format": "decimal",
+            "original": "wgCoordinates: 61.43, 21.87",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Gallen-Kallelan museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Gallen-Kallelan_Museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.20638888888889,
+            "lon": 24.83833333333333,
+            "format": "DMS",
+            "original": "60°12′23″N, 024°50′18″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Galleria Oskari Jauhiainen",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Oskari_Jauhiaisen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 65.12847222222221,
+            "lon": 25.78888888888889,
+            "format": "DMS",
+            "original": "65°07′42.5″N, 25°47′20.0″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Gillesgården",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Gillesg%C3%A5rden",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.059999999999995,
+            "lon": 23.40111111111111,
+            "format": "DMS",
+            "original": "60°03′36″N, 23°24′04″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hakamäen museoalue",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hakam%C3%A4en_museoalue",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.20305555555556,
+            "lon": 27.685,
+            "format": "DMS",
+            "original": "61°12′11″N, 27°41′06″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hakasalmen huvila",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helsingin_kaupunginmuseo#Hakasalmen_huvila",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.16888888888889,
+            "lon": 24.954166666666666,
+            "format": "DMS",
+            "original": "60°10′08″N, 024°57′15″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Halosenniemi",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Halosenniemi",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.43555555555555,
+            "lon": 25.054722222222225,
+            "format": "DMS",
+            "original": "60°26′08″N, 025°03′17″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Halsuan kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Halsuan_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 63.48111111111111,
+            "lon": 24.148888888888887,
+            "format": "DMS",
+            "original": "63°28′52″N, 24°08′56″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Haminan kaupunginmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Haminan_kaupunginmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.57,
+            "lon": 27.2,
+            "format": "decimal",
+            "original": "geo microformat: 60.57; 27.2",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Harjamäen sairaalamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Harjam%C3%A4en_sairaala",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Terveydenhuoltomuseo"
+        },
+        "coordinates": {
+            "lat": 63.07694,
+            "lon": 27.61008,
+            "format": "decimal",
+            "original": "63.07694°N, 27.61008°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hausjärven kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hausj%C3%A4rven_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.77611111111111,
+            "lon": 24.93305555555556,
+            "format": "DMS",
+            "original": "60°46′34″N, 24°55′59″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Heinolan kaupunginmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Heinolan_museot",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "address": "Heinola"
+    },
+    {
+        "name": "Heinäveden kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hein%C3%A4veden_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 62.43137,
+            "lon": 28.6302,
+            "format": "decimal",
+            "original": "62.43137°N, 28.63020°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Helinä Rautavaaran museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helin%C3%A4_Rautavaara#Helinä_Rautavaaran_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Henkilömuseo"
+        }
+    },
+    {
+        "name": "Helsingin Diakonissalaitoksen museo Diamus",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helsingin_Diakonissalaitos#Museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.18472222222222,
+            "lon": 24.93888888888889,
+            "format": "DMS",
+            "original": "60°11′05″N, 024°56′20″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Helsingin Väestönsuojelumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helsingin_V%C3%A4est%C3%B6nsuojelumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.17611111111111,
+            "lon": 24.953888888888887,
+            "format": "DMS",
+            "original": "60°10′34″N, 24°57′14″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Helsingin kaupunginmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helsingin_kaupunginmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.16888888888889,
+            "lon": 24.954166666666666,
+            "format": "DMS",
+            "original": "60°10′08″N, 024°57′15″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Helsingin observatorio",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helsingin_yliopiston_Observatorio",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.16191666666666,
+            "lon": 24.951666666666664,
+            "format": "DMS",
+            "original": "60°09′42.9″N, 024°57′06.0″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Helsingin pitäjän kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helsingin_pit%C3%A4j%C3%A4n_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.2828,
+            "lon": 24.9843,
+            "format": "decimal",
+            "original": "60.2828°N, 24.9843°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Helsingin taidehalli",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Taidehalli_(Helsinki)",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.17205555555555,
+            "lon": 24.93111111111111,
+            "format": "DMS",
+            "original": "60°10′19.4″N, 24°55′52″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Helsingin taidemuseo HAM",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helsingin_taidemuseo_HAM",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.16888888888889,
+            "lon": 24.93111111111111,
+            "format": "DMS",
+            "original": "60°10′08″N, 24°55′52″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Helsingin yliopistomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helsingin_yliopistomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.1703,
+            "lon": 24.9536,
+            "format": "decimal",
+            "original": "geo microformat: 60.1703; 24.9536",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Helsingin yliopiston kasvitieteellinen puutarha",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helsingin_yliopiston_kasvitieteellinen_puutarha",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Valtakunnallinen luonnontieteellinen keskusmuseo"
+        }
+    },
+    {
+        "name": "Herraskosken kanavamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Herraskosken_kanava",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 62.26083333333333,
+            "lon": 23.728055555555553,
+            "format": "DMS",
+            "original": "62°15′39″N, 023°43′41″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Herttoniemen kartanon museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Herttoniemen_kartano",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.19015833333333,
+            "lon": 25.041969444444447,
+            "format": "DMS",
+            "original": "60°11′24.57″N, 025°02′31.09″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hiekan taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hiekan_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 61.49777777777778,
+            "lon": 23.748333333333335,
+            "format": "DMS",
+            "original": "61°29′52″N, 23°44′54″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hiihtomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hiihtomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Urheilumuseo"
+        },
+        "coordinates": {
+            "lat": 60.98441666666667,
+            "lon": 25.63277777777778,
+            "format": "DMS",
+            "original": "60°59′03.9″N, 25°37′58″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hollolan kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hollolan_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.05305555555555,
+            "lon": 25.426944444444445,
+            "format": "DMS",
+            "original": "61°03′11″N, 25°25′37″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hotelli- ja ravintolamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hotelli-_ja_ravintolamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.161944444444444,
+            "lon": 24.905555555555555,
+            "format": "DMS",
+            "original": "60°09′43″N, 024°54′20″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Huittisten museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Huittisten_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.18,
+            "lon": 22.693333333333335,
+            "format": "DMS",
+            "original": "61°10′48″N, 022°41′36″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Huvilamuseo Villa Rulludd",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Espoon_kaupunginmuseo#Huvilamuseo_Villa_Rulludd",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.17858,
+            "lon": 24.79452,
+            "format": "decimal",
+            "original": "geo microformat: 60.17858; 24.79452",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Hvitträsk",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hvittr%C3%A4sk",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 60.18138888888889,
+            "lon": 24.52,
+            "format": "DMS",
+            "original": "60°10′53″N, 024°31′12″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hyvinkään kaupunginmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hyvink%C3%A4%C3%A4n_kaupunginmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.6336,
+            "lon": 24.8693,
+            "format": "decimal",
+            "original": "60.6336°N, 24.8693°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hyvinkään taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hyvink%C3%A4%C3%A4n_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.631,
+            "lon": 24.861,
+            "format": "decimal",
+            "original": "60.6310°N, 24.8610°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hämeen linna",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/H%C3%A4meen_linna",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.00361111111111,
+            "lon": 24.459722222222222,
+            "format": "DMS",
+            "original": "61°00′13″N, 024°27′35″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hämeen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/H%C3%A4meen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        }
+    },
+    {
+        "name": "Hämeenlinnan kaupungin historiallinen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/H%C3%A4meenlinnan_kaupungin_historiallinen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen maakuntamuseot"
+        },
+        "coordinates": {
+            "lat": 60.9969,
+            "lon": 24.4682,
+            "format": "decimal",
+            "original": "60.9969°N, 24.4682°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hämeenlinnan kaupunginmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/H%C3%A4meenlinnan_kaupunginmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.9969,
+            "lon": 24.4682,
+            "format": "decimal",
+            "original": "60.9969°N, 24.4682°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hämeenlinnan taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/H%C3%A4meenlinnan_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.9978,
+            "lon": 24.475,
+            "format": "decimal",
+            "original": "60.9978°N, 24.4750°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Härkätien museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/H%C3%A4rk%C3%A4tien_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.89388888888889,
+            "lon": 24.28611111111111,
+            "format": "DMS",
+            "original": "60°53′38″N, 24°17′10″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Iisakin Jussin tupa",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Iisakin_Jussin_tupa",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 63.096111111111114,
+            "lon": 23.02111111111111,
+            "format": "DMS",
+            "original": "63°05′46″N, 23°01′16″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Ilmajoen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ilmajoen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 62.731944444444444,
+            "lon": 22.57,
+            "format": "DMS",
+            "original": "62°43′55″N, 22°34′12″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Imatran taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Imatran_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 61.1919,
+            "lon": 28.7788,
+            "format": "decimal",
+            "original": "61.1919°N, 28.7788°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "J. L. Runebergin koti",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Runebergin_koti",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.390277777777776,
+            "lon": 25.66361111111111,
+            "format": "DMS",
+            "original": "60°23′25″N, 025°39′49″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "J. V. Snellmanin kotimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/J._V._Snellmanin_kotimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 62.891,
+            "lon": 27.691,
+            "format": "decimal",
+            "original": "62.8910°N, 27.6910°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Jakokosken museokanava",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Jakokosken_museokanava",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 62.740833333333335,
+            "lon": 30.03888888888889,
+            "format": "DMS",
+            "original": "62°44′27″N, 030°02′20″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Jan Karlsgården -ulkomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Jan_Karlsg%C3%A5rden",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.23083333333334,
+            "lon": 20.08277777777778,
+            "format": "DMS",
+            "original": "60°13′51″N, 20°04′58″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Joensuun taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Joensuun_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 62.6013,
+            "lon": 29.7585,
+            "format": "decimal",
+            "original": "62.6013°N, 29.7585°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Johannes Linnankosken nuoruudenkoti",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Johannes_Linnankosken_nuoruudenkoti",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.52302777777778,
+            "lon": 25.587249999999997,
+            "format": "DMS",
+            "original": "60°31′22.9″N, 25°35′14.1″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Johannes Lohilammen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lohilammen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.294999999999995,
+            "lon": 23.801111111111112,
+            "format": "DMS",
+            "original": "60°17′42″N, 23°48′04″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Jokioisten museorautatie",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Jokioisten_Museorautatie",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.8628,
+            "lon": 23.4381,
+            "format": "decimal",
+            "original": "geo microformat: 60.8628; 23.4381",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Juankosken tehtaan ja työväen museo Masuuni Brunou",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Masuuni_Brunou",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Teollisuusmuseo"
+        },
+        "coordinates": {
+            "lat": 63.0673,
+            "lon": 28.3378,
+            "format": "decimal",
+            "original": "63.0673°N, 28.3378°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Juutilan valimomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Juutilan_valimo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Teollisuusmuseo"
+        },
+        "coordinates": {
+            "lat": 63.07166666666667,
+            "lon": 28.440277777777776,
+            "format": "DMS",
+            "original": "63°04′18″N, 028°26′25″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Jyrkkäkosken ruukki",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Jyrkk%C3%A4kosken_ruukki",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Teollisuusmuseo"
+        },
+        "coordinates": {
+            "lat": 63.777499999999996,
+            "lon": 27.808611111111112,
+            "format": "DMS",
+            "original": "63°46′39″N, 27°48′31″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Jyväskylän taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Jyv%C3%A4skyl%C3%A4n_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Aluetaidemuseo"
+        },
+        "coordinates": {
+            "lat": 62.2414,
+            "lon": 25.7446,
+            "format": "decimal",
+            "original": "62.2414°N, 25.7446°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Järvenpään taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/J%C3%A4rvenp%C3%A4%C3%A4n_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.4747,
+            "lon": 25.0929,
+            "format": "decimal",
+            "original": "60.4747°N, 25.0929°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Järviseudun museo Väinöntalo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/V%C3%A4in%C3%B6ntalo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        }
+    },
+    {
+        "name": "Jäänmurtaja Tarmo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/J%C3%A4%C3%A4nmurtaja_Tarmo_(1907)",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Museolaiva"
+        },
+        "coordinates": {
+            "lat": 60.473333333333336,
+            "lon": 26.944277777777778,
+            "format": "DMS",
+            "original": "60°28′24″N, 26°56′39.4″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "K. H. Renlundin museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/K._H._Renlundin_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 63.837252,
+            "lon": 23.130157,
+            "format": "decimal",
+            "original": "63.837252°N, 23.130157°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "K. H. Renlundin museo – Keski-Pohjanmaan maakuntamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/K._H._Renlundin_museo_%E2%80%93_Keski-Pohjanmaan_maakuntamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen maakuntamuseot"
+        },
+        "coordinates": {
+            "lat": 63.837252,
+            "lon": 23.130157,
+            "format": "decimal",
+            "original": "63.837252°N, 23.130157°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kainuun Museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kainuun_Museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 64.221706,
+            "lon": 27.737854,
+            "format": "decimal",
+            "original": "64.221706°N, 27.737854°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kajaanin taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kajaanin_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 64.22680555555556,
+            "lon": 27.7275,
+            "format": "DMS",
+            "original": "64°13′36.5″N, 27°43′39.0″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kalan torppa",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kalan_torppa",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 63.051944444444445,
+            "lon": 23.01388888888889,
+            "format": "DMS",
+            "original": "63°03′07″N, 23°00′50″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kalela",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kalela",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 61.96541666666667,
+            "lon": 24.1475,
+            "format": "DMS",
+            "original": "61°57′55.5″N, 024°08′51.0″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kallioniemi",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kallioniemi",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 65.50122222222222,
+            "lon": 28.575388888888888,
+            "format": "DMS",
+            "original": "65°30′04.4″N, 028°34′31.4″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kalvolan kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kalvolan_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.0954,
+            "lon": 24.1131,
+            "format": "decimal",
+            "original": "61.0954°N, 24.1131°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kangasalan kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kangasalan_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.465,
+            "lon": 24.06888888888889,
+            "format": "DMS",
+            "original": "61°27′54″N, 24°04′08″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kansallisgalleria",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kansallisgalleria_(Suomi)",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Valtakunnallinen taiteen keskusmuseo"
+        },
+        "coordinates": {
+            "lat": 60.1717,
+            "lon": 24.9369,
+            "format": "decimal",
+            "original": "geo microformat: 60.1717; 24.9369",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Karhulan ilmailukerhon lentomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Karhulan_ilmailukerhon_lentomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.575,
+            "lon": 26.8975,
+            "format": "DMS",
+            "original": "60°34′30″N, 026°53′51″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Karkkilan ruukkimuseo Senkka",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/H%C3%B6gforsin_ruukki",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Teollisuusmuseo"
+        },
+        "coordinates": {
+            "lat": 60.53361111111111,
+            "lon": 24.199722222222224,
+            "format": "DMS",
+            "original": "60°32′01″N, 24°11′59″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kaskisten kalastusmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kaskisten_kalastusmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 62.39194444444444,
+            "lon": 21.22611111111111,
+            "format": "DMS",
+            "original": "62°23′31″N, 21°13′34″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kastelholman linna",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kastelholman_linna",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.23305555555556,
+            "lon": 20.080555555555556,
+            "format": "DMS",
+            "original": "60°13′59″N, 020°04′50″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kasvimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kasvimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Valtakunnallinen luonnontieteellinen keskusmuseo"
+        },
+        "coordinates": {
+            "lat": 60.17527777777777,
+            "lon": 24.947777777777777,
+            "format": "DMS",
+            "original": "60°10′31″N, 24°56′52″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kauhajoen kirkkomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kauhajoen_kirkko",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kirkkomuseo"
+        },
+        "coordinates": {
+            "lat": 62.421388888888885,
+            "lon": 22.178611111111113,
+            "format": "DMS",
+            "original": "62°25′17″N, 022°10′43″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kauhajoen kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kauhajoen_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 62.42805555555555,
+            "lon": 22.17,
+            "format": "DMS",
+            "original": "62°25′41″N, 22°10′12″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kaunislehdon talomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kaunislehdon_talomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 64.623867,
+            "lon": 28.374873,
+            "format": "decimal",
+            "original": "geo microformat: 64.623867; 28.374873",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Keitele-museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Keitele-museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 62.56888888888889,
+            "lon": 25.85388888888889,
+            "format": "DMS",
+            "original": "62°34′08″N, 25°51′14″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kellokosken sairaalamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kellokosken_sairaalamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Terveydenhuoltomuseo"
+        },
+        "coordinates": {
+            "lat": 60.53194444444444,
+            "lon": 25.110000000000003,
+            "format": "DMS",
+            "original": "60°31′55″N, 25°06′36″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kemijärven kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kemij%C3%A4rven_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 66.72,
+            "lon": 27.401944444444442,
+            "format": "DMS",
+            "original": "66°43′12″N, 27°24′07″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kemijärven moottorikelkka- ja sahamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kemij%C3%A4rven_moottorikelkka-_ja_sahamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 66.72194444444445,
+            "lon": 27.40611111111111,
+            "format": "DMS",
+            "original": "66°43′19″N, 27°24′22″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kemin historiallinen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kemin_historiallinen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 65.73513888888888,
+            "lon": 24.564305555555556,
+            "format": "DMS",
+            "original": "65°44′06.5″N, 24°33′51.5″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kemin taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kemin_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 65.73583333333333,
+            "lon": 24.5575,
+            "format": "DMS",
+            "original": "65°44′09″N, 24°33′27″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kenkämuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kenk%C3%A4museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.50301388888889,
+            "lon": 23.760358333333333,
+            "format": "DMS",
+            "original": "61°30′10.85″N, 23°45′37.29″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Keravan taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Keravan_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.401111111111106,
+            "lon": 25.10888888888889,
+            "format": "DMS",
+            "original": "60°24′04″N, 25°06′32″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Keski-Suomen luontomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Keski-Suomen_luontomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen luonnontieteellinen museo"
+        },
+        "coordinates": {
+            "lat": 62.24305555555556,
+            "lon": 25.740000000000002,
+            "format": "DMS",
+            "original": "62°14′35″N, 25°44′24″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Keski-Suomen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Keski-Suomen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen maakuntamuseot"
+        },
+        "coordinates": {
+            "lat": 62.2338,
+            "lon": 25.7313,
+            "format": "decimal",
+            "original": "62.2338°N, 25.7313°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Keuruun museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Keuruun_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 62.25388888888889,
+            "lon": 24.706944444444442,
+            "format": "DMS",
+            "original": "62°15′14″N, 24°42′25″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kierikkikeskus",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kierikkikeskus",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 65.36055555555555,
+            "lon": 25.948055555555555,
+            "format": "DMS",
+            "original": "65°21′38″N, 025°56′53″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kimmo Pyykkö -taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kangasala-talo#Kimmo_Pyykkö_-taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 61.46333333333334,
+            "lon": 24.073055555555555,
+            "format": "DMS",
+            "original": "61°27′48″N, 024°04′23″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kittilän kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kittil%C3%A4n_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 67.6588888888889,
+            "lon": 24.94388888888889,
+            "format": "DMS",
+            "original": "67°39′32″N, 24°56′38″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kivikauden kylä",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kivikauden_kyl%C3%A4",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 62.66611111111111,
+            "lon": 25.34,
+            "format": "DMS",
+            "original": "62°39′58″N, 25°20′24″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Klaavolan talo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Klaavolan_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.401944444444446,
+            "lon": 25.03611111111111,
+            "format": "DMS",
+            "original": "60°24′07″N, 25°02′10″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kokemäen maatalousmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kokem%C3%A4en_maatalousmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.257595,
+            "lon": 22.351084,
+            "format": "decimal",
+            "original": "61.257595°N, 022.351084°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kokkolan luonnontieteellinen museo Kieppi",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kieppi,_Kokkolan_luonnontieteellinen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen luonnontieteellinen museo"
+        }
+    },
+    {
+        "name": "Kolttien perinnetalo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kolttien_perinnetalo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 69.50888888888889,
+            "lon": 28.593888888888888,
+            "format": "DMS",
+            "original": "69°30′32″N, 28°35′38″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Koskenjalan kenkä- ja nahkamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Koskenjalan_kenk%C3%A4-_ja_nahkamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.794999999999995,
+            "lon": 24.371111111111112,
+            "format": "DMS",
+            "original": "61°47′42″N, 24°22′16″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kotiseututalo Puistola",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kotiseututalo_Puistola",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 67.28888888888889,
+            "lon": 28.153888888888886,
+            "format": "DMS",
+            "original": "67°17′20″N, 28°09′14″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kotkaniemi",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kotkaniemi",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.96819444444445,
+            "lon": 27.832083333333333,
+            "format": "DMS",
+            "original": "60°58′05.5″N, 027°49′55.5″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Koulumuseo Lagstad",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Espoon_kaupunginmuseo#Koulumuseo_Lagstad",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.17858,
+            "lon": 24.79452,
+            "format": "decimal",
+            "original": "geo microformat: 60.17858; 24.79452",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Kouvolan putkiradiomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kouvolan_milj%C3%B6%C3%B6-_ja_radiomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.866,
+            "lon": 26.68891,
+            "format": "decimal",
+            "original": "60.86600°N, 26.68891°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kovjoen museorautatie",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kovjoen_museorautatie",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        }
+    },
+    {
+        "name": "Kruununvankila Vita Björn",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vita_Bj%C3%B6rn",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.23111111111111,
+            "lon": 20.083055555555557,
+            "format": "DMS",
+            "original": "60°13′52″N, 20°04′59″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kuddnäs",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kuddn%C3%A4s",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 63.5303,
+            "lon": 22.5339,
+            "format": "decimal",
+            "original": "geo microformat: 63.5303; 22.5339",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Kuhmalahden kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kuhmalahden_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.50611111111111,
+            "lon": 24.563055555555557,
+            "format": "DMS",
+            "original": "61°30′22″N, 24°33′47″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kultamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kultamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 68.17805555555556,
+            "lon": 27.101944444444445,
+            "format": "DMS",
+            "original": "68°10′41″N, 27°06′07″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kulttuurien museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kulttuurien_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        }
+    },
+    {
+        "name": "Kuntsin modernin taiteen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kuntsin_modernin_taiteen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 63.1,
+            "lon": 26.52,
+            "format": "decimal",
+            "original": "geo microformat: 63.1; 26.52",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Kuokkalan museoraitti",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kuokkalan_museoraitti",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.33083333333334,
+            "lon": 23.745,
+            "format": "DMS",
+            "original": "61°19′51″N, 23°44′42″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kuopion kulttuurihistoriallinen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kuopion_kulttuurihistoriallinen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 62.89194444444444,
+            "lon": 27.686944444444446,
+            "format": "DMS",
+            "original": "62°53′31″N, 27°41′13″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kuopion luonnontieteellinen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kuopion_luonnontieteellinen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 62.89222222222222,
+            "lon": 27.686944444444446,
+            "format": "DMS",
+            "original": "62°53′32″N, 027°41′13″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kuopion taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kuopion_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 62.89194444444444,
+            "lon": 27.68277777777778,
+            "format": "DMS",
+            "original": "62°53′31″N, 027°40′58″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kurun ulkomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kurun_ulkomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.871944444444445,
+            "lon": 23.724999999999998,
+            "format": "DMS",
+            "original": "61°52′19″N, 23°43′30″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kuurojen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kuurojen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.50138888888889,
+            "lon": 23.759444444444444,
+            "format": "DMS",
+            "original": "61°30′05″N, 23°45′34″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kuvataiteen keskusarkisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kuvataiteen_keskusarkisto",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Valtakunnallinen taiteen keskusmuseo"
+        }
+    },
+    {
+        "name": "Kymenlaakson museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kymenlaakson_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.47277777777778,
+            "lon": 26.945,
+            "format": "DMS",
+            "original": "60°28′22″N, 026°56′42″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Lahden historiallinen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lahden_historiallinen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen maakuntamuseot"
+        },
+        "coordinates": {
+            "lat": 60.986111111111114,
+            "lon": 25.65111111111111,
+            "format": "DMS",
+            "original": "60°59′10″N, 25°39′04″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Lahden kaupunginmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lahden_kaupunginmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.99194444444444,
+            "lon": 25.56388888888889,
+            "format": "DMS",
+            "original": "60°59′31″N, 25°33′50″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Lahden taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lahden_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Aluetaidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.98388888888889,
+            "lon": 25.661944444444444,
+            "format": "DMS",
+            "original": "60°59′02″N, 25°39′43″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Langinkosken keisarillinen kalastusmaja",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Langinkosken_keisarillinen_kalastusmaja",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.48924,
+            "lon": 26.88565,
+            "format": "decimal",
+            "original": "geo microformat: 60.48924; 26.88565",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Lapin maakuntamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lapin_maakuntamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 66.5075,
+            "lon": 25.726,
+            "format": "decimal",
+            "original": "66.5075°N, 25.7260°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Lapin metsämuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lapin_mets%C3%A4museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 66.47805555555556,
+            "lon": 25.756944444444443,
+            "format": "DMS",
+            "original": "66°28′41″N, 25°45′25″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Lappajärven museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lappaj%C3%A4rven_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 63.211111111111116,
+            "lon": 23.63611111111111,
+            "format": "DMS",
+            "original": "63°12′40″N, 23°38′10″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Lappeenrannan museot",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lappeenrannan_museot",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 61.054993,
+            "lon": 28.189663,
+            "format": "decimal",
+            "original": "geo microformat: 61.054993; 28.189663",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Lappeenrannan taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lappeenrannan_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Aluetaidemuseo"
+        },
+        "coordinates": {
+            "lat": 61.064734,
+            "lon": 28.182972,
+            "format": "decimal",
+            "original": "61.064734°N, 28.182972°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Lauri Viita -museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lauri_Viita_-museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Henkilömuseo"
+        },
+        "coordinates": {
+            "lat": 61.50388888888889,
+            "lon": 23.710277777777776,
+            "format": "DMS",
+            "original": "61°30′14″N, 23°42′37″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Lavian kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lavian_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.595,
+            "lon": 22.598055555555554,
+            "format": "DMS",
+            "original": "61°35′42″N, 22°35′53″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Lenin-museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lenin-museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Henkilömuseo"
+        },
+        "coordinates": {
+            "lat": 61.49583333333334,
+            "lon": 23.751666666666665,
+            "format": "DMS",
+            "original": "61°29′45″N, 23°45′06″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Lepikon torppa",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lepikon_torppa",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 63.22138888888889,
+            "lon": 26.783611111111114,
+            "format": "DMS",
+            "original": "63°13′17″N, 026°47′01″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Liedon Vanhalinna",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Liedon_Vanhalinna",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.48663446,
+            "lon": 22.37690639,
+            "format": "decimal",
+            "original": "60.48663446°N, 22.37690639°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Loimaan kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Loimaan_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.875,
+            "lon": 22.974999999999998,
+            "format": "DMS",
+            "original": "60°52′30″N, 22°58′30″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Louhisaaren kartano",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Louhisaaren_kartano",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.57091666666667,
+            "lon": 21.831055555555555,
+            "format": "DMS",
+            "original": "60°34′15.3″N, 021°49′51.8″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Luonnontieteellinen keskusmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Luonnontieteellinen_keskusmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Valtakunnallinen luonnontieteellinen keskusmuseo"
+        },
+        "coordinates": {
+            "lat": 60.1713,
+            "lon": 24.9312,
+            "format": "decimal",
+            "original": "60.1713°N, 24.9312°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Luonnontieteellinen museo (Helsinki)",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Luonnontieteellinen_museo_(Helsinki)",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Valtakunnallinen luonnontieteellinen keskusmuseo"
+        },
+        "coordinates": {
+            "lat": 60.17111111111111,
+            "lon": 24.93111111111111,
+            "format": "DMS",
+            "original": "60°10′16″N, 24°55′52″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Luontotalo Arkki",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Luontotalo_Arkki",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen luonnontieteellinen museo"
+        },
+        "coordinates": {
+            "lat": 61.486547,
+            "lon": 21.791666,
+            "format": "decimal",
+            "original": "61.486547°N, 021.791666°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Luostarinmäen käsityöläismuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Luostarinm%C3%A4en_k%C3%A4sity%C3%B6l%C3%A4ismuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.44694444444444,
+            "lon": 22.2775,
+            "format": "DMS",
+            "original": "60°26′49″N, 22°16′39″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Lusto – metsämuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lusto_(museo)",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen valtakunnalliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 61.799166666666665,
+            "lon": 29.321944444444444,
+            "format": "DMS",
+            "original": "61°47′57″N, 029°19′19″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Länsi-Uudenmaan maakuntamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tammisaaren_museokeskus_EKTA",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen maakuntamuseot"
+        },
+        "coordinates": {
+            "lat": 59.974074,
+            "lon": 23.43784,
+            "format": "decimal",
+            "original": "59.974074°N, 23.43784°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Länsi-Uudenmaan sairaalamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/L%C3%A4nsi-Uudenmaan_sairaalamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Terveydenhuoltomuseo"
+        }
+    },
+    {
+        "name": "Lönnströmin taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/L%C3%B6nnstr%C3%B6min_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 61.14111111111111,
+            "lon": 21.483055555555556,
+            "format": "DMS",
+            "original": "61°08′28″N, 21°28′59″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "M/S Bore",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/M/S_Bore",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Museolaiva"
+        },
+        "coordinates": {
+            "lat": 60.435018,
+            "lon": 22.233662,
+            "format": "decimal",
+            "original": "geo microformat: 60.435018; 22.233662",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Maitolaiturimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Maitolaiturimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.75194444444445,
+            "lon": 23.93611111111111,
+            "format": "DMS",
+            "original": "61°45′07″N, 23°56′10″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Majakkalaiva Kemi",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Majakkalaiva_Kemi",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Museolaiva"
+        },
+        "coordinates": {
+            "lat": 60.472778,
+            "lon": 26.945,
+            "format": "decimal",
+            "original": "geo microformat: 60.472778; 26.945",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Malkkimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Malkkimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 61.49175,
+            "lon": 23.751527777777778,
+            "format": "DMS",
+            "original": "61°29′30.3″N, 23°45′05.5″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Mannerheim-museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Mannerheim-museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Henkilömuseo"
+        },
+        "coordinates": {
+            "lat": 60.15888888888889,
+            "lon": 24.960277777777776,
+            "format": "DMS",
+            "original": "60°09′32″N, 024°57′37″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Marela",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Marela",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 61.128159,
+            "lon": 21.515096,
+            "format": "decimal",
+            "original": "61.128159°N, 21.515096°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Marttilan kirkkomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Marttilan_kirkko",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kirkkomuseo"
+        },
+        "coordinates": {
+            "lat": 60.583194444444445,
+            "lon": 22.9,
+            "format": "DMS",
+            "original": "60°34′59.5″N, 022°54′00.0″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Maskun museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Maskun_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.56194444444444,
+            "lon": 22.103055555555557,
+            "format": "DMS",
+            "original": "60°33′43″N, 22°06′11″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Mediamuseo Rupriikki",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Mediamuseo_Rupriikki",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.50301388888889,
+            "lon": 23.760358333333333,
+            "format": "DMS",
+            "original": "61°30′10.85″N, 23°45′37.29″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Median museo ja arkisto Merkki",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Median_museo_ja_arkisto_Merkki",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.1656,
+            "lon": 24.9456,
+            "format": "decimal",
+            "original": "60.1656°N, 24.9456°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Merenkurkun luontokeskus Terranova",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pohjanmaan_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen luonnontieteellinen museo"
+        },
+        "coordinates": {
+            "lat": 63.0995,
+            "lon": 21.6016,
+            "format": "decimal",
+            "original": "63.0995°N, 21.6016°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Merimiehenkotimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Merimiehenkotimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 65.01722222222222,
+            "lon": 25.458055555555553,
+            "format": "DMS",
+            "original": "65°01′02″N, 025°27′29″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Miinan mökki",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Miinan_m%C3%B6kki",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.35236888,
+            "lon": 23.8007305,
+            "format": "decimal",
+            "original": "geo microformat: 60.35236888; 23.8007305",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Mikkelin taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Mikkelin_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Aluetaidemuseo"
+        },
+        "coordinates": {
+            "lat": 61.6889,
+            "lon": 27.2681,
+            "format": "decimal",
+            "original": "61.6889°N, 27.2681°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Milavida",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Museo_Milavida",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.50416666666667,
+            "lon": 23.7525,
+            "format": "DMS",
+            "original": "61°30′15″N, 23°45′09″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Mobilia",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Mobilia",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Automuseo"
+        },
+        "coordinates": {
+            "lat": 61.44027777777777,
+            "lon": 24.130277777777778,
+            "format": "DMS",
+            "original": "61°26′25″N, 024°07′49″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Moision sairaalamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Moision_sairaala",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Terveydenhuoltomuseo"
+        },
+        "coordinates": {
+            "lat": 61.655251,
+            "lon": 27.277455,
+            "format": "decimal",
+            "original": "geo microformat: 61.655251; 27.277455",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Muistokoti Aappola",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Limingan_museoalue",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 64.80361111111111,
+            "lon": 25.403055555555554,
+            "format": "DMS",
+            "original": "64°48′13″N, 025°24′11″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Muovikassimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Muovikassimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        }
+    },
+    {
+        "name": "Murtovaaran talomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Murtovaaran_talomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 63.79805555555556,
+            "lon": 28.908055555555553,
+            "format": "DMS",
+            "original": "63°47′53″N, 28°54′29″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Museo- ja tiedekeskus Luuppi",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Museo-_ja_tiedekeskus_Luuppi",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        }
+    },
+    {
+        "name": "Museo-Galleria Alariesto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Museo-galleria_Alariesto",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 67.415,
+            "lon": 26.593888888888888,
+            "format": "DMS",
+            "original": "67°24′54″N, 26°35′38″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Museokeskus Vapriikki",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Museokeskus_Vapriikki",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 61.503055555555555,
+            "lon": 23.760277777777777,
+            "format": "DMS",
+            "original": "61°30′11″N, 023°45′37″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Muumimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Muumimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 61.49583333333333,
+            "lon": 23.781666666666666,
+            "format": "decimal",
+            "original": "wgCoordinates: 61.49583333333333, 23.781666666666666",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Myllysaaren museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Myllysaaren_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.265,
+            "lon": 24.028888888888886,
+            "format": "DMS",
+            "original": "61°15′54″N, 24°01′44″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Mynämäen kirkkomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Myn%C3%A4m%C3%A4en_kirkko",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kirkkomuseo"
+        },
+        "coordinates": {
+            "lat": 60.67916666666667,
+            "lon": 21.989722222222223,
+            "format": "DMS",
+            "original": "60°40′45″N, 021°59′23″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Myrskylän kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Myrskyl%C3%A4n_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.66749,
+            "lon": 25.85179,
+            "format": "decimal",
+            "original": "60.66749°N, 25.85179°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Naantalin museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Naantalin_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.466944444444444,
+            "lon": 22.01888888888889,
+            "format": "DMS",
+            "original": "60°28′01″N, 22°01′08″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Nastolan kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nastolan_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.95,
+            "lon": 25.93,
+            "format": "decimal",
+            "original": "wgCoordinates: 60.95, 25.93",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Nelimarkka-museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nelimarkka-museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 63.0149,
+            "lon": 23.83443,
+            "format": "decimal",
+            "original": "63.0149°N, 23.83443°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Nordean pankkimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nordean_pankkimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.16888888888889,
+            "lon": 24.948055555555555,
+            "format": "DMS",
+            "original": "60°10′08″N, 24°56′53″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Nukke- ja pukumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nukke-_ja_pukumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        }
+    },
+    {
+        "name": "Nurmeksen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nurmeksen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        }
+    },
+    {
+        "name": "Nurmon museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nurmon_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 62.835,
+            "lon": 22.916944444444447,
+            "format": "DMS",
+            "original": "62°50′06″N, 22°55′01″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Nykytaiteen museo Kiasma",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kiasma",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Valtakunnallinen taiteen keskusmuseo"
+        },
+        "coordinates": {
+            "lat": 60.17166666666667,
+            "lon": 24.936944444444446,
+            "format": "DMS",
+            "original": "60°10′18″N, 024°56′13″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Näkövammaismuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/N%C3%A4k%C3%B6vammaismuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.20805555555556,
+            "lon": 25.075,
+            "format": "DMS",
+            "original": "60°12′29″N, 25°04′30″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Olavinlinna",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Olavinlinna",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.86388888888889,
+            "lon": 28.90083333333333,
+            "format": "DMS",
+            "original": "61°51′50″N, 028°54′03″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Orimattilan kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Orimattilan_museot#Orimattilan_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        }
+    },
+    {
+        "name": "Orimattilan pullomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Orimattilan_museot",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        }
+    },
+    {
+        "name": "Oulun Automuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Oulun_Automuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Automuseo"
+        },
+        "coordinates": {
+            "lat": 64.96305555555556,
+            "lon": 25.503055555555555,
+            "format": "DMS",
+            "original": "64°57′47″N, 025°30′11″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Oulun taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Oulun_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Aluetaidemuseo"
+        },
+        "coordinates": {
+            "lat": 65.01833333333333,
+            "lon": 25.481944444444444,
+            "format": "DMS",
+            "original": "65°01′06″N, 025°28′55″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Oulunsalon kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Oulunsalon_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 64.93611111111112,
+            "lon": 25.41611111111111,
+            "format": "DMS",
+            "original": "64°56′10″N, 25°24′58″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Outokummun kaivosmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Outokummun_kaivos#Kaivosmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 62.72944444444445,
+            "lon": 29.00638888888889,
+            "format": "DMS",
+            "original": "62°43′46″N, 29°00′23″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Paikkarin torppa",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Paikkarin_torppa",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 60.352333333333334,
+            "lon": 23.804916666666667,
+            "format": "DMS",
+            "original": "60°21′08.4″N, 23°48′17.7″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Palanderin talo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Palanderin_talo_(H%C3%A4meenlinna)",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 60.99916666666667,
+            "lon": 24.465,
+            "format": "DMS",
+            "original": "60°59′57″N, 024°27′54″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Palsa-museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Palsa-museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Henkilömuseo"
+        },
+        "coordinates": {
+            "lat": 67.655,
+            "lon": 24.903888888888886,
+            "format": "DMS",
+            "original": "67°39′18″N, 24°54′14″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Paraisten kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Paraisten_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.29888888888889,
+            "lon": 22.298055555555557,
+            "format": "DMS",
+            "original": "60°17′56″N, 22°17′53″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Parkanon metsämuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Parkanon_mets%C3%A4museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 62.080000000000005,
+            "lon": 23.058055555555555,
+            "format": "DMS",
+            "original": "62°04′48″N, 23°03′29″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Pateniemen sahan museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pateniemen_sahamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 65.08694444444444,
+            "lon": 25.391944444444444,
+            "format": "DMS",
+            "original": "65°05′13″N, 25°23′31″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Pelastusarmeijan museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pelastusarmeijan_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.16305555555555,
+            "lon": 24.93611111111111,
+            "format": "DMS",
+            "original": "60°09′47″N, 24°56′10″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Peltolan Mäkitupalaismuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Peltolan_M%C3%A4kitupalaismuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.83305555555556,
+            "lon": 25.805,
+            "format": "DMS",
+            "original": "61°49′59″N, 25°48′18″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Perttelin kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Perttelin_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.44888888888889,
+            "lon": 23.240000000000002,
+            "format": "DMS",
+            "original": "60°26′56″N, 23°14′24″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Pielisen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pielisen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 63.31111111111111,
+            "lon": 30.03111111111111,
+            "format": "DMS",
+            "original": "63°18′40″N, 30°01′52″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Pohjois-Karjalan museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pohjois-Karjalan_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 62.5998,
+            "lon": 29.7615,
+            "format": "decimal",
+            "original": "62.5998°N, 29.7615°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Pohjois-Pohjanmaan museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pohjois-Pohjanmaan_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen maakuntamuseot"
+        },
+        "coordinates": {
+            "lat": 65.01777777777778,
+            "lon": 25.475277777777777,
+            "format": "DMS",
+            "original": "65°01′04″N, 025°28′31″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Poliisimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Poliisimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.45305555555556,
+            "lon": 23.851944444444445,
+            "format": "DMS",
+            "original": "61°27′11″N, 23°51′07″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Polyteekkarimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Polyteekkarimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.18805555555555,
+            "lon": 24.838055555555556,
+            "format": "DMS",
+            "original": "60°11′17″N, 24°50′17″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Pommern",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pommern_(laiva)",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Museolaiva"
+        },
+        "coordinates": {
+            "lat": 60.09713888888889,
+            "lon": 19.925305555555557,
+            "format": "DMS",
+            "original": "60°05′49.7″N, 019°55′31.1″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Porin taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Porin_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 61.49013888888889,
+            "lon": 21.79416666666667,
+            "format": "DMS",
+            "original": "61°29′24.5″N, 21°47′39.0″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Porlammin kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Porlammin_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.675,
+            "lon": 26.018055555555556,
+            "format": "DMS",
+            "original": "60°40′30″N, 26°01′05″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Porvoon museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Porvoon_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.39611111111111,
+            "lon": 25.658055555555553,
+            "format": "DMS",
+            "original": "60°23′46″N, 25°39′29″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Posion kotiseutumuseo‎",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Posion_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 66.04888888888888,
+            "lon": 28.633888888888887,
+            "format": "DMS",
+            "original": "66°02′56″N, 28°38′02″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Postimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Postimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.50301388888889,
+            "lon": 23.760358333333333,
+            "format": "DMS",
+            "original": "61°30′10.85″N, 23°45′37.29″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Postimäki",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Postim%C3%A4ki",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.455,
+            "lon": 25.755,
+            "format": "decimal",
+            "original": "geo microformat: 60.455; 25.755",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Pukkilan kartano",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pukkilan_kartano",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.43222222222222,
+            "lon": 22.469166666666666,
+            "format": "DMS",
+            "original": "60°25′56″N, 22°28′09″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Pukstaavi",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pukstaavi",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.3425,
+            "lon": 22.910277777777775,
+            "format": "DMS",
+            "original": "61°20′33″N, 022°54′37″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Raatteen vartiomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Raatteen_vartiomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 64.80805555555555,
+            "lon": 29.678055555555556,
+            "format": "DMS",
+            "original": "64°48′29″N, 29°40′41″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Radio- ja tv-museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Radio-_ja_tv-museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.979416666666665,
+            "lon": 25.64886111111111,
+            "format": "DMS",
+            "original": "60°58′45.9″N, 25°38′55.9″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Ragvaldsin museoalue",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ragvaldsin_museoalue",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.12277777777778,
+            "lon": 24.12,
+            "format": "DMS",
+            "original": "60°07′22″N, 24°07′12″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Rakennusalan työvälinemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Rakennusalan_ty%C3%B6v%C3%A4linemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.278888888888886,
+            "lon": 24.5,
+            "format": "DMS",
+            "original": "60°16′44″N, 24°30′00″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Ranuan pappila- ja pitäjämuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ranuan_pappila-_ja_pit%C3%A4j%C3%A4museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 65.93111111111112,
+            "lon": 26.53111111111111,
+            "format": "DMS",
+            "original": "65°55′52″N, 26°31′52″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Ratikkamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ratikkamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.18402777777777,
+            "lon": 24.92011111111111,
+            "format": "DMS",
+            "original": "60°11′02.5″N, 24°55′12.4″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Rauman museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Rauman_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.127916666666664,
+            "lon": 21.51125,
+            "format": "DMS",
+            "original": "61°07′40.5″N, 021°30′40.5″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Rauman taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Rauman_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 61.128194444444446,
+            "lon": 21.5175,
+            "format": "DMS",
+            "original": "61°07′41.5″N, 21°31′03.0″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Rautalammin museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Rautalammin_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 62.6214,
+            "lon": 26.8337,
+            "format": "decimal",
+            "original": "62.6214°N, 26.8337°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Retretti",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Retretti",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 61.80333333333333,
+            "lon": 29.290000000000003,
+            "format": "DMS",
+            "original": "61°48′12″N, 029°17′24″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Riihimäen taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Riihim%C3%A4en_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.73638888888889,
+            "lon": 24.767777777777777,
+            "format": "DMS",
+            "original": "60°44′11″N, 24°46′04″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Rikosmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Keskusrikospoliisin_Rikosmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.2928,
+            "lon": 25.0527,
+            "format": "decimal",
+            "original": "60.2928°N, 25.0527°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Riuttalan talonpoikaismuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Riuttalan_talonpoikaismuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 62.9872,
+            "lon": 27.1153,
+            "format": "decimal",
+            "original": "62.9872°N, 27.1153°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Rosenlew-museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Rosenlew-museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Teollisuusmuseo"
+        },
+        "coordinates": {
+            "lat": 61.489404,
+            "lon": 21.812136,
+            "format": "decimal",
+            "original": "61.489404°N, 21.812136°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Rovaniemen kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Rovaniemen_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 66.48,
+            "lon": 25.741944444444446,
+            "format": "DMS",
+            "original": "66°28′48″N, 25°44′31″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Rovaniemen taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Rovaniemen_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 66.5008,
+            "lon": 25.718,
+            "format": "decimal",
+            "original": "66.5008°N, 25.7180°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Ränkimäen talomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/R%C3%A4nkim%C3%A4en_talomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 62.971111111111114,
+            "lon": 23.040000000000003,
+            "format": "DMS",
+            "original": "62°58′16″N, 23°02′24″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "S/S Santtu",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/S/S_Santtu",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Museolaiva"
+        },
+        "coordinates": {
+            "lat": 61.615421,
+            "lon": 21.441788,
+            "format": "decimal",
+            "original": "61.615421°N, 21.441788°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Saamelaismuseo Siida",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Siida",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 68.91083333333334,
+            "lon": 27.01361111111111,
+            "format": "DMS",
+            "original": "68°54′39″N, 027°00′49″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Saarijärven museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Saarij%C3%A4rven_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 62.70611111111111,
+            "lon": 25.235833333333336,
+            "format": "DMS",
+            "original": "62°42′22″N, 25°14′09″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Saarion voimalaitosmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Saarion_voimalaitosmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 62.249107,
+            "lon": 30.497651,
+            "format": "decimal",
+            "original": "62.249107°N, 30.497651°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Sagalundin museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sagalundin_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.16305555555555,
+            "lon": 22.711944444444445,
+            "format": "DMS",
+            "original": "60°09′47″N, 22°42′43″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Sakkola-museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sakkola-museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.331388888888895,
+            "lon": 23.747222222222224,
+            "format": "DMS",
+            "original": "61°19′53″N, 23°44′50″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Sallan sota- ja jälleenrakennusajan museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sallan_sota-_ja_j%C3%A4lleenrakennusajan_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 66.83611111111111,
+            "lon": 28.671111111111113,
+            "format": "DMS",
+            "original": "66°50′10″N, 28°40′16″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Salon taidemuseo Veturitalli",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Salon_taidemuseo_Veturitalli",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.39,
+            "lon": 23.12,
+            "format": "decimal",
+            "original": "geo microformat: 60.39; 23.12",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Sara Hildénin taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sara_Hild%C3%A9nin_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 61.5051,
+            "lon": 23.74067,
+            "format": "decimal",
+            "original": "61.5051°N, 23.74067°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Satakunnan Museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Satakunnan_Museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 61.48994,
+            "lon": 21.791247,
+            "format": "decimal",
+            "original": "61.48994°N, 21.791247°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Satakunnan museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Satakunnan_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen maakuntamuseot"
+        },
+        "coordinates": {
+            "lat": 61.48994,
+            "lon": 21.791247,
+            "format": "decimal",
+            "original": "61.48994°N, 21.791247°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Saukkojärven kotiseutu- ja koulumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Saukkoj%C3%A4rven_kotiseutu-_ja_koulumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Koulumuseo"
+        },
+        "coordinates": {
+            "lat": 66.08083333333333,
+            "lon": 26.438333333333333,
+            "format": "DMS",
+            "original": "66°04′51″N, 26°26′18″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Savilahden kivisakasti",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Savilahden_kivisakasti",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kirkkomuseo"
+        },
+        "coordinates": {
+            "lat": 61.69499999999999,
+            "lon": 27.278888888888886,
+            "format": "DMS",
+            "original": "61°41′42″N, 027°16′44″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Savon radan museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Savon_radan_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 62.301111111111105,
+            "lon": 27.168055555555558,
+            "format": "DMS",
+            "original": "62°18′04″N, 27°10′05″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Savonlinnan maakuntamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Savonlinnan_maakuntamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 61.86361111111111,
+            "lon": 28.89527777777778,
+            "format": "DMS",
+            "original": "61°51′49″N, 028°53′43″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Savonlinnan museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Riihisaari_%E2%80%93_Savonlinnan_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen maakuntamuseot"
+        },
+        "coordinates": {
+            "lat": 61.86361111111111,
+            "lon": 28.89527777777778,
+            "format": "DMS",
+            "original": "61°51′49″N, 028°53′43″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Serlachius-museo Gustaf",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Serlachius-museo_Gustaf",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 62.02611111111111,
+            "lon": 24.613055555555558,
+            "format": "DMS",
+            "original": "62°01′34″N, 24°36′47″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Serlachius-museo Gösta",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Serlachius-museo_G%C3%B6sta",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 62.028055555555554,
+            "lon": 24.575,
+            "format": "DMS",
+            "original": "62°01′41″N, 24°34′30″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Seurasaaren ulkomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Seurasaari",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.18111111111111,
+            "lon": 24.884722222222223,
+            "format": "DMS",
+            "original": "60°10′52″N, 024°53′05″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Sibbesgården",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sibbesg%C3%A5rden",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.33305555555556,
+            "lon": 25.27,
+            "format": "DMS",
+            "original": "60°19′59″N, 25°16′12″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Sibeliuksen syntymäkoti",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sibeliuksen_syntym%C3%A4koti",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 60.996427,
+            "lon": 24.462412,
+            "format": "decimal",
+            "original": "geo microformat: 60.996427; 24.462412",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Sibelius-museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sibelius-museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Henkilömuseo"
+        },
+        "coordinates": {
+            "lat": 60.453611111111115,
+            "lon": 22.2775,
+            "format": "DMS",
+            "original": "60°27′13″N, 22°16′39″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Sigyn",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sigyn",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Museolaiva"
+        },
+        "coordinates": {
+            "lat": 60.4385,
+            "lon": 22.242066666666666,
+            "format": "decimal",
+            "original": "wgCoordinates: 60.4385, 22.242066666666666",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Sikurimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sikurimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 63.70805555555556,
+            "lon": 22.69388888888889,
+            "format": "DMS",
+            "original": "63°42′29″N, 22°41′38″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Sinebrychoffin taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sinebrychoffin_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Valtakunnallinen taiteen keskusmuseo"
+        },
+        "coordinates": {
+            "lat": 60.16305555555555,
+            "lon": 24.93305555555556,
+            "format": "DMS",
+            "original": "60°09′47″N, 24°55′59″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Sipoon koulumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sipoon_koulumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Koulumuseo"
+        },
+        "coordinates": {
+            "lat": 60.401944444444446,
+            "lon": 25.191944444444445,
+            "format": "DMS",
+            "original": "60°24′07″N, 25°11′31″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Sipoon maatalousmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sipoon_maatalousmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.36805555555556,
+            "lon": 25.251944444444444,
+            "format": "DMS",
+            "original": "60°22′05″N, 25°15′07″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Sodankylän kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sodankyl%C3%A4n_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 67.40305555555557,
+            "lon": 26.59,
+            "format": "DMS",
+            "original": "67°24′11″N, 26°35′24″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Sotamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sotamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.14611111111111,
+            "lon": 24.98888888888889,
+            "format": "DMS",
+            "original": "60°08′46″N, 24°59′20″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Strengbergin Tupakkamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Strengbergin_tupakkatehdas",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        }
+    },
+    {
+        "name": "Stundarsin museo ja kulttuurikeskus",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Stundarsin_ulkoilmamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 63.013888888888886,
+            "lon": 21.645,
+            "format": "DMS",
+            "original": "63°00′50″N, 21°38′42″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Sukellusvene Vesikko",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sukellusvene_Vesikko",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Museolaiva"
+        },
+        "coordinates": {
+            "lat": 60.142538888888886,
+            "lon": 24.98958888888889,
+            "format": "DMS",
+            "original": "60°08′33.14″N, 24°59′22.52″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen Joutsen",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_Joutsen",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Museolaiva"
+        },
+        "coordinates": {
+            "lat": 60.43633333333333,
+            "lon": 22.237111111111112,
+            "format": "DMS",
+            "original": "60°26′10.8″N, 022°14′13.6″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen Rautatiemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_Rautatiemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.62638888888889,
+            "lon": 24.850555555555555,
+            "format": "DMS",
+            "original": "60°37′35″N, 024°51′02″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen asutusmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_asutusmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 63.2092,
+            "lon": 27.5477,
+            "format": "decimal",
+            "original": "63.2092°N, 27.5477°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen hevosurheilumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_Hevosurheilumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Urheilumuseo"
+        },
+        "coordinates": {
+            "lat": 60.803126,
+            "lon": 23.295157,
+            "format": "decimal",
+            "original": "geo microformat: 60.803126; 23.295157",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Suomen ilmailumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_ilmailumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen valtakunnalliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.30421666666667,
+            "lon": 24.960866666666668,
+            "format": "decimal",
+            "original": "wgCoordinates: 60.30421666666667, 24.960866666666668",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Suomen jalkapallomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_Jalkapallomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Urheilumuseo"
+        },
+        "coordinates": {
+            "lat": 61.26611111111111,
+            "lon": 24.028888888888886,
+            "format": "DMS",
+            "original": "61°15′58″N, 24°01′44″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen jäähdytystekniikan museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_j%C3%A4%C3%A4hdytystekniikan_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.595,
+            "lon": 23.67,
+            "format": "DMS",
+            "original": "61°35′42″N, 23°40′12″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen jääkiekkomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_J%C3%A4%C3%A4kiekkomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Urheilumuseo"
+        },
+        "coordinates": {
+            "lat": 61.503055555555555,
+            "lon": 23.760277777777777,
+            "format": "DMS",
+            "original": "61°30′11″N, 023°45′37″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen kantelemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_kantelemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Soitinmuseo"
+        },
+        "coordinates": {
+            "lat": 62.29194444444444,
+            "lon": 25.716944444444444,
+            "format": "DMS",
+            "original": "62°17′31″N, 25°43′01″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen kellomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_kellomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.178888888888885,
+            "lon": 24.79388888888889,
+            "format": "DMS",
+            "original": "60°10′44″N, 24°47′38″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen koripallomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Koripallomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Urheilumuseo"
+        }
+    },
+    {
+        "name": "Suomen koulumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_koulumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Koulumuseo"
+        },
+        "coordinates": {
+            "lat": 61.50163888888889,
+            "lon": 23.78463888888889,
+            "format": "DMS",
+            "original": "61°30′05.9″N, 23°47′04.7″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen käsityön museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_k%C3%A4sity%C3%B6n_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen valtakunnalliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 62.242225,
+            "lon": 25.745858,
+            "format": "decimal",
+            "original": "62.242225°N, 25.745858°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen lasimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_lasimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen valtakunnalliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.73216666666667,
+            "lon": 24.736611111111113,
+            "format": "DMS",
+            "original": "60°43′55.8″N, 24°44′11.8″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen maatalousmuseo Sarka",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_maatalousmuseo_Sarka",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen valtakunnalliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.833919,
+            "lon": 22.987531,
+            "format": "decimal",
+            "original": "60.833919°N, 22.987531°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen nyrkkeilymuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_nyrkkeilymuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Urheilumuseo"
+        },
+        "coordinates": {
+            "lat": 61.496944444444445,
+            "lon": 23.76888888888889,
+            "format": "DMS",
+            "original": "61°29′49″N, 23°46′08″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen partiomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_Partiomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.45623333333334,
+            "lon": 22.264025,
+            "format": "DMS",
+            "original": "60°27′22.44″N, 22°15′50.49″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen pelimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_pelimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.50301388888889,
+            "lon": 23.760358333333333,
+            "format": "DMS",
+            "original": "61°30′10.85″N, 23°45′37.29″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen tietokonemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_tietokonemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 62.23111111111111,
+            "lon": 25.911944444444444,
+            "format": "DMS",
+            "original": "62°13′52″N, 25°54′43″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen valokuvataiteen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_valokuvataiteen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen valtakunnalliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.162,
+            "lon": 24.90572222222222,
+            "format": "DMS",
+            "original": "60°09′43.2″N, 24°54′20.6″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomenlinnan lelumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomenlinnan_lelumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.14575,
+            "lon": 24.99138888888889,
+            "format": "DMS",
+            "original": "60°8′44.7″N, 24°59′29.0″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomussalmen kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomussalmen_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 64.9152,
+            "lon": 28.989373,
+            "format": "decimal",
+            "original": "geo microformat: 64.9152; 28.989373",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Suur-Savon museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suur-Savon_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.68626,
+            "lon": 27.25442,
+            "format": "decimal",
+            "original": "61.68626°N, 27.25442°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Säräisniemen kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/S%C3%A4r%C3%A4isniemen_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 64.44500000000001,
+            "lon": 26.77,
+            "format": "DMS",
+            "original": "64°26′42″N, 26°46′12″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Söderlångvikin kartano",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/S%C3%B6derl%C3%A5ngvikin_kartano",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 60.033055555555556,
+            "lon": 22.433888888888887,
+            "format": "DMS",
+            "original": "60°01′59″N, 022°26′02″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Taidekeskus Kasarmi",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Taidekeskus_Kasarmi",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.40138,
+            "lon": 25.02688,
+            "format": "decimal",
+            "original": "60.40138°N, 25.02688°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Taidemuseo Eemil",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Taidemuseo_Eemil",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 63.363055555555555,
+            "lon": 27.38,
+            "format": "DMS",
+            "original": "63°21′47″N, 27°22′48″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Taipaleen kanavamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Taipaleen_kanavamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 62.30305555555555,
+            "lon": 27.91,
+            "format": "DMS",
+            "original": "62°18′11″N, 027°54′36″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Talomuseo Glims",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Glims",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.22083333333334,
+            "lon": 24.682222222222222,
+            "format": "DMS",
+            "original": "60°13′15″N, 024°40′56″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Talonpoikaismuseo Yli-Kirra",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Talonpoikaismuseo_Yli-Kirra",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.10916666666667,
+            "lon": 23.134166666666665,
+            "format": "DMS",
+            "original": "61°06′33″N, 23°08′03″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tamminiemi",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tamminiemi",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 60.189722222222215,
+            "lon": 24.883055555555558,
+            "format": "DMS",
+            "original": "60°11′23″N, 24°52′59″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tampereen kaupunginmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tampereen_kaupunginmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.483333333333334,
+            "lon": 23.750833333333333,
+            "format": "DMS",
+            "original": "61°29′00″N, 23°45′03″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tampereen kivimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tampereen_Kivimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen luonnontieteellinen museo"
+        },
+        "coordinates": {
+            "lat": 61.503055555555555,
+            "lon": 23.760277777777777,
+            "format": "DMS",
+            "original": "61°30′11″N, 023°45′37″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tampereen luonnontieteellinen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tampereen_luonnontieteellinen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen luonnontieteellinen museo"
+        },
+        "coordinates": {
+            "lat": 61.50301388888889,
+            "lon": 23.760358333333333,
+            "format": "DMS",
+            "original": "61°30′10.85″N, 23°45′37.29″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tampereen nykytaiteen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tampereen_nykytaiteen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "address": "(ei omaa näyttelytilaa)Hallinto:Tampereen taidemuseoPuutarhakatu 3433230 Tampere"
+    },
+    {
+        "name": "Tampereen palomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tampereen_palomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.50138888888889,
+            "lon": 23.765555555555554,
+            "format": "DMS",
+            "original": "61°30′05″N, 23°45′56″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tampereen siirtolapuutarhamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tampereen_siirtolapuutarhamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.51958333333333,
+            "lon": 23.891055555555557,
+            "format": "DMS",
+            "original": "61°31′10.5″N, 23°53′27.8″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tampereen taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tampereen_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 61.49861111111111,
+            "lon": 23.74388888888889,
+            "format": "DMS",
+            "original": "61°29′55″N, 023°44′38″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tarvasjoen kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tarvasjoen_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.5859603,
+            "lon": 22.7372826,
+            "format": "decimal",
+            "original": "geo microformat: 60.5859603; 22.7372826",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Teatterimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Teatterimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen valtakunnalliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.16203,
+            "lon": 24.90579,
+            "format": "decimal",
+            "original": "geo microformat: 60.16203; 24.90579",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Teiskon kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Teiskon_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 61.67525,
+            "lon": 23.850194444444448,
+            "format": "DMS",
+            "original": "61°40′30.9″N, 23°51′00.7″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tekniikan museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tekniikan_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen valtakunnalliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.21638888888889,
+            "lon": 24.982499999999998,
+            "format": "DMS",
+            "original": "60°12′59″N, 024°58′57″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Teresia ja Rafael Lönnströmin kotimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Teresia_ja_Rafael_L%C3%B6nnstr%C3%B6min_kotimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 61.1408,
+            "lon": 21.4833,
+            "format": "decimal",
+            "original": "geo microformat: 61.1408; 21.4833",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Tervajärven talomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tervaj%C3%A4rven_talomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 64.2038888888889,
+            "lon": 28.733055555555556,
+            "format": "DMS",
+            "original": "64°12′14″N, 28°43′59″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tiedekeskus Tietomaa",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tiedekeskus_Tietomaa",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 65.01805555555555,
+            "lon": 25.484166666666667,
+            "format": "DMS",
+            "original": "65°01′05″N, 025°29′03″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tikanojan taidekoti",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tikanojan_taidekoti",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 63.0946,
+            "lon": 21.6065,
+            "format": "decimal",
+            "original": "geo microformat: 63.0946; 21.6065",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Tornionlaakson maakuntamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tornionlaakson_maakuntamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen maakuntamuseot"
+        },
+        "coordinates": {
+            "lat": 65.845853,
+            "lon": 24.142242,
+            "format": "decimal",
+            "original": "65.845853°N, 24.142242°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tornionlaakson museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tornionlaakson_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 65.845853,
+            "lon": 24.142242,
+            "format": "decimal",
+            "original": "65.845853°N, 24.142242°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Turjanlinna",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Turjanlinna",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 64.905,
+            "lon": 28.88888888888889,
+            "format": "DMS",
+            "original": "64°54′18″N, 028°53′20″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Turkansaaren ulkomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Turkansaari",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 64.94833333333334,
+            "lon": 25.706944444444442,
+            "format": "DMS",
+            "original": "64°56′54″N, 025°42′25″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Turun linna",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Turun_linna",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.43527777777778,
+            "lon": 22.22861111111111,
+            "format": "DMS",
+            "original": "60°26′07″N, 022°13′43″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Turun museokeskus",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Turun_museokeskus",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen alueelliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.451813,
+            "lon": 22.26663,
+            "format": "decimal",
+            "original": "geo microformat: 60.451813; 22.26663",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Turun taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Turun_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Aluetaidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.454,
+            "lon": 22.262,
+            "format": "decimal",
+            "original": "60.4540°N, 22.2620°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Turun terveydenhuoltomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Turun_terveydenhuoltomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Terveydenhuoltomuseo"
+        }
+    },
+    {
+        "name": "Turun tuomiokirkkomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Turun_tuomiokirkko",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kirkkomuseo"
+        },
+        "coordinates": {
+            "lat": 60.4525,
+            "lon": 22.278333333333332,
+            "format": "DMS",
+            "original": "60°27′09″N, 022°16′42″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Turun vesilaitosmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Turun_vesilaitosmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        }
+    },
+    {
+        "name": "Turun yliopiston eläinmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Turun_yliopiston_el%C3%A4inmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen luonnontieteellinen museo"
+        },
+        "coordinates": {
+            "lat": 60.45527777777778,
+            "lon": 22.283333333333335,
+            "format": "DMS",
+            "original": "60°27′19″N, 22°17′00″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Turun yliopiston kasvimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Turun_yliopiston_kasvimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen luonnontieteellinen museo"
+        }
+    },
+    {
+        "name": "Tuusulan työläiskotimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tuusulan_ty%C3%B6l%C3%A4iskotimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.411944444444444,
+            "lon": 25.033055555555556,
+            "format": "DMS",
+            "original": "60°24′43″N, 25°01′59″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tyrnävän kotiseutumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tyrn%C3%A4v%C3%A4n_kotiseutumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 64.76791666666666,
+            "lon": 25.6399,
+            "format": "decimal",
+            "original": "wgCoordinates: 64.76791666666666, 25.6399",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Tytyrin kaivosmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tytyrin_kaivos",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.2605,
+            "lon": 24.066666666666666,
+            "format": "DMS",
+            "original": "60°15′37.8″N, 024°4′0″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Työväenasuntomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helsingin_kaupunginmuseo#Työväenasuntomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.16888888888889,
+            "lon": 24.954166666666666,
+            "format": "DMS",
+            "original": "60°10′08″N, 024°57′15″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Työväenmuseo Werstas",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Ty%C3%B6v%C3%A4enmuseo_Werstas",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen valtakunnalliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 61.50138888888889,
+            "lon": 23.759444444444444,
+            "format": "DMS",
+            "original": "61°30′05″N, 23°45′34″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Urajärven kartano",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Uraj%C3%A4rven_kartano",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 61.1375,
+            "lon": 25.79297,
+            "format": "decimal",
+            "original": "geo microformat: 61.1375; 25.79297",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Urheilun ja liikunnan kulttuurikeskus Tahto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Urheilun_ja_liikunnan_kulttuurikeskus_Tahto",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen valtakunnalliset vastuumuseot"
+        },
+        "coordinates": {
+            "lat": 60.18740833333333,
+            "lon": 24.92524166666667,
+            "format": "DMS",
+            "original": "60°11′14.67″N, 024°55′30.87″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Uudenkaupungin automuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Uudenkaupungin_automuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Automuseo"
+        },
+        "coordinates": {
+            "lat": 60.8105099,
+            "lon": 21.4471255,
+            "format": "decimal",
+            "original": "geo microformat: 60.8105099; 21.4471255",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Vakoilumuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vakoilumuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.50111111111111,
+            "lon": 23.760833333333334,
+            "format": "DMS",
+            "original": "61°30′04″N, 23°45′39″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Vallilan siirtolapuutarhamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vallilan_siirtolapuutarhamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.20033333333333,
+            "lon": 24.95627777777778,
+            "format": "DMS",
+            "original": "60°12′01.2″N, 24°57′22.6″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Valvillan tehdasmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Valvillan_tehdasmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Teollisuusmuseo"
+        },
+        "coordinates": {
+            "lat": 60.63291666666667,
+            "lon": 24.86852777777778,
+            "format": "DMS",
+            "original": "60°37′58.5″N, 24°52′06.7″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Vankilamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vankilamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.0029,
+            "lon": 24.4592,
+            "format": "decimal",
+            "original": "61.0029°N, 24.4592°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Vantaan kaupunginmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vantaan_kaupunginmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.2909,
+            "lon": 25.043,
+            "format": "decimal",
+            "original": "60.2909°N, 25.0430°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Vantaan maatalousmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vantaan_maatalousmuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 60.2874,
+            "lon": 24.876,
+            "format": "decimal",
+            "original": "60.2874°N, 24.8760°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Vantaan taidemuseo Artsi",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vantaan_taidemuseo_Artsi",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.26149,
+            "lon": 24.85323,
+            "format": "decimal",
+            "original": "60.26149°N, 24.85323°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Varalan liikuntamuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Varalan_liikuntamuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Urheilumuseo"
+        },
+        "coordinates": {
+            "lat": 61.49388888888889,
+            "lon": 23.714166666666667,
+            "format": "DMS",
+            "original": "61°29′38″N, 23°42′51″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Varsamäen hevosajoneuvomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Varsam%C3%A4en_hevosajoneuvomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.43805555555555,
+            "lon": 23.991111111111113,
+            "format": "DMS",
+            "original": "61°26′17″N, 23°59′28″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Vehmaan museot",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vehmaan_museot",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 60.68284,
+            "lon": 21.75224,
+            "format": "decimal",
+            "original": "geo microformat: 60.68284; 21.75224",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Vehoniemen automuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vehoniemen_automuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Automuseo"
+        },
+        "coordinates": {
+            "lat": 61.40833333333333,
+            "lon": 24.157777777777778,
+            "format": "DMS",
+            "original": "61°24′30″N, 024°09′28″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Verlan tehdasmuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Verla",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Teollisuusmuseo"
+        }
+    },
+    {
+        "name": "Veturimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Veturimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 61.1718,
+            "lon": 23.8599,
+            "format": "decimal",
+            "original": "61.1718°N, 23.8599°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Villa Aalto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Villa_Aalto",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 60.19680555555555,
+            "lon": 24.876472222222223,
+            "format": "DMS",
+            "original": "60°11′48.5″N, 24°52′35.3″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Villa Gyllenberg",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Villa_Gyllenberg",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.18416666666666,
+            "lon": 24.851944444444445,
+            "format": "DMS",
+            "original": "60°11′03″N, 24°51′07″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Villa Kokkonen",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Villa_Kokkonen",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 60.46,
+            "lon": 25.06,
+            "format": "decimal",
+            "original": "geo microformat: 60.46; 25.06",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Visavuori",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Visavuori",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 61.175,
+            "lon": 24.020833333333332,
+            "format": "DMS",
+            "original": "61°10′30″N, 024°01′15″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Vuolukivimuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Vuolukivimuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Erikoismuseo"
+        },
+        "coordinates": {
+            "lat": 63.17630555555555,
+            "lon": 29.435222222222222,
+            "format": "DMS",
+            "original": "63°10′34.7″N, 29°26′06.8″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Willa MAC",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Willa_MAC",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 61.49513888888889,
+            "lon": 23.73902777777778,
+            "format": "DMS",
+            "original": "61°29′42.5″N, 23°44′20.5″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Wolkoffin talomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Wolkoffin_talomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Kotimuseo"
+        },
+        "coordinates": {
+            "lat": 61.059999999999995,
+            "lon": 28.185,
+            "format": "DMS",
+            "original": "61°03′36″N, 28°11′06″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Wäinö Aaltosen museo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/W%C3%A4in%C3%B6_Aaltosen_museo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 60.44499999999999,
+            "lon": 22.260277777777777,
+            "format": "DMS",
+            "original": "60°26′42″N, 022°15′37″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Yli-Lauroselan talomuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Yli-Lauroselan_talomuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen kulttuurihistoriallinen museo"
+        },
+        "coordinates": {
+            "lat": 62.73388888888889,
+            "lon": 22.56888888888889,
+            "format": "DMS",
+            "original": "62°44′02″N, 22°34′08″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Ylämyllyn Wanha Automuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Yl%C3%A4mylly#Automuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Automuseo"
+        },
+        "coordinates": {
+            "lat": 62.61388888888889,
+            "lon": 29.545833333333334,
+            "format": "DMS",
+            "original": "62°36′50″N, 29°32′45″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Yrjö Liipolan taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Yrj%C3%B6_Liipolan_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        }
+    },
+    {
+        "name": "Äänekosken taidemuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/%C3%84%C3%A4nekosken_taidemuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Muu suomalainen taidemuseo"
+        },
+        "coordinates": {
+            "lat": 62.6,
+            "lon": 25.731111111111108,
+            "format": "DMS",
+            "original": "62°36′00″N, 25°43′52″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Suomen kansallismuseo",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Suomen_kansallismuseo",
+        "type": {
+            "main": "Suomen museot",
+            "category": "Suomen kansallismuseo"
+        },
+        "coordinates": {
+            "lat": 60.175,
+            "lon": 24.931944444444447,
+            "format": "DMS",
+            "original": "60°10′30″N, 24°55′55″E",
+            "method": "method_1"
+        }
+    }
+]

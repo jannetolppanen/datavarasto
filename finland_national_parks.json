@@ -1,0 +1,453 @@
+[
+    {
+        "name": "Etelä-Konneveden kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Etel%C3%A4-Konneveden_kansallispuisto",
+        "coordinates": {
+            "lat": 62.55,
+            "lon": 26.633333333333333,
+            "format": "decimal",
+            "original": "wgCoordinates: 62.55, 26.633333333333333",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Helvetinjärven kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helvetinj%C3%A4rven_kansallispuisto",
+        "coordinates": {
+            "lat": 62.03333333333333,
+            "lon": 23.85,
+            "format": "decimal",
+            "original": "wgCoordinates: 62.03333333333333, 23.85",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Hiidenportin kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hiidenportin_kansallispuisto",
+        "coordinates": {
+            "lat": 63.87277777777778,
+            "lon": 29.058611111111112,
+            "format": "DMS",
+            "original": "63°52′22″N, 029°03′31″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Hossan kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hossan_kansallispuisto",
+        "coordinates": {
+            "lat": 65.48972222222223,
+            "lon": 29.32361111111111,
+            "format": "DMS",
+            "original": "65°29′23″N, 029°19′25″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Isojärven kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Isoj%C3%A4rven_kansallispuisto",
+        "coordinates": {
+            "lat": 61.69833333333333,
+            "lon": 25.010833333333334,
+            "format": "DMS",
+            "original": "61°41′54″N, 025°00′39″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Itäisen Suomenlahden kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/It%C3%A4isen_Suomenlahden_kansallispuisto",
+        "coordinates": {
+            "lat": 60.25,
+            "lon": 27.166666666666668,
+            "format": "decimal",
+            "original": "wgCoordinates: 60.25, 27.166666666666668",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Kauhanevan–Pohjankankaan kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kauhanevan%E2%80%93Pohjankankaan_kansallispuisto",
+        "coordinates": {
+            "lat": 62.18333333333333,
+            "lon": 22.4,
+            "format": "decimal",
+            "original": "wgCoordinates: 62.18333333333333, 22.4",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Kolin kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kolin_kansallispuisto",
+        "coordinates": {
+            "lat": 63.0575,
+            "lon": 29.88722222,
+            "format": "decimal",
+            "original": "map element: data-lat=63.0575, data-lon=29.88722222",
+            "method": "method_6"
+        }
+    },
+    {
+        "name": "Koloveden kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Koloveden_kansallispuisto",
+        "coordinates": {
+            "lat": 62.24305555555556,
+            "lon": 28.83611111111111,
+            "format": "DMS",
+            "original": "62°14′35″N, 028°50′10″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Kurjenrahkan kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kurjenrahkan_kansallispuisto",
+        "coordinates": {
+            "lat": 60.733333333333334,
+            "lon": 22.416666666666668,
+            "format": "decimal",
+            "original": "wgCoordinates: 60.733333333333334, 22.416666666666668",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Lauhanvuoren kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lauhanvuoren_kansallispuisto",
+        "coordinates": {
+            "lat": 62.151944444444446,
+            "lon": 22.175,
+            "format": "DMS",
+            "original": "62°09′07″N, 022°10′30″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Leivonmäen kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Leivonm%C3%A4en_kansallispuisto",
+        "coordinates": {
+            "lat": 61.93333333333333,
+            "lon": 26.033333333333335,
+            "format": "decimal",
+            "original": "wgCoordinates: 61.93333333333333, 26.033333333333335",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Lemmenjoen kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lemmenjoen_kansallispuisto",
+        "coordinates": {
+            "lat": 68.5,
+            "lon": 25.5,
+            "format": "decimal",
+            "original": "wgCoordinates: 68.5, 25.5",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Liesjärven kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Liesj%C3%A4rven_kansallispuisto",
+        "coordinates": {
+            "lat": 60.68055556,
+            "lon": 23.85833333,
+            "format": "decimal",
+            "original": "map element: data-lat=60.68055556, data-lon=23.85833333",
+            "method": "method_6"
+        }
+    },
+    {
+        "name": "Linnansaaren kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Linnansaaren_kansallispuisto",
+        "coordinates": {
+            "lat": 62.109722222222224,
+            "lon": 28.519444444444442,
+            "format": "DMS",
+            "original": "62°06′35″N, 028°31′10″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Nuuksion kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nuuksion_kansallispuisto",
+        "coordinates": {
+            "lat": 60.31666666666667,
+            "lon": 24.466666666666665,
+            "format": "DMS",
+            "original": "60°19′00″N, 024°28′00″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Oulangan kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Oulangan_kansallispuisto",
+        "coordinates": {
+            "lat": 66.36666666666666,
+            "lon": 29.333333333333332,
+            "format": "decimal",
+            "original": "wgCoordinates: 66.36666666666666, 29.333333333333332",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Pallas-Yllästunturin kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pallas-Yll%C3%A4stunturin_kansallispuisto",
+        "coordinates": {
+            "lat": 68.07,
+            "lon": 24.05,
+            "format": "decimal",
+            "original": "68.07°N, 24.05°E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Patvinsuon kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Patvinsuon_kansallispuisto",
+        "coordinates": {
+            "lat": 63.11138889,
+            "lon": 30.70444444,
+            "format": "decimal",
+            "original": "map element: data-lat=63.11138889, data-lon=30.70444444",
+            "method": "method_6"
+        }
+    },
+    {
+        "name": "Perämeren kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Per%C3%A4meren_kansallispuisto",
+        "coordinates": {
+            "lat": 65.61666666666666,
+            "lon": 24.316666666666666,
+            "format": "decimal",
+            "original": "wgCoordinates: 65.61666666666666, 24.316666666666666",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Petkeljärven kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Petkelj%C3%A4rven_kansallispuisto",
+        "coordinates": {
+            "lat": 62.583333333333336,
+            "lon": 31.183333333333334,
+            "format": "decimal",
+            "original": "wgCoordinates: 62.583333333333336, 31.183333333333334",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Puurijärven ja Isosuon kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Puurij%C3%A4rven_ja_Isosuon_kansallispuisto",
+        "coordinates": {
+            "lat": 61.24916666666667,
+            "lon": 22.566944444444445,
+            "format": "DMS",
+            "original": "61°14′57″N, 22°34′01″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Pyhä-Häkin kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4-H%C3%A4kin_kansallispuisto",
+        "coordinates": {
+            "lat": 62.845555555555556,
+            "lon": 25.472499999999997,
+            "format": "DMS",
+            "original": "62°50′44″N, 025°28′21″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Pyhä-Luoston kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4-Luoston_kansallispuisto",
+        "coordinates": {
+            "lat": 67.06638889,
+            "lon": 26.97361111,
+            "format": "decimal",
+            "original": "map element: data-lat=67.06638889, data-lon=26.97361111",
+            "method": "method_6"
+        }
+    },
+    {
+        "name": "Päijänteen kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/P%C3%A4ij%C3%A4nteen_kansallispuisto",
+        "coordinates": {
+            "lat": 61.36666666666667,
+            "lon": 25.45,
+            "format": "decimal",
+            "original": "wgCoordinates: 61.36666666666667, 25.45",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Repoveden kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Repoveden_kansallispuisto",
+        "coordinates": {
+            "lat": 61.18333333333333,
+            "lon": 26.883333333333333,
+            "format": "decimal",
+            "original": "wgCoordinates: 61.18333333333333, 26.883333333333333",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Riisitunturin kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Riisitunturin_kansallispuisto",
+        "coordinates": {
+            "lat": 66.23333333333333,
+            "lon": 28.5,
+            "format": "decimal",
+            "original": "wgCoordinates: 66.23333333333333, 28.5",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Rokuan kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Rokuan_kansallispuisto",
+        "coordinates": {
+            "lat": 64.55611111111111,
+            "lon": 26.51,
+            "format": "DMS",
+            "original": "64°33′22″N, 026°30′36″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Saaristomeren kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Saaristomeren_kansallispuisto",
+        "coordinates": {
+            "lat": 59.916666666666664,
+            "lon": 21.7,
+            "format": "DMS",
+            "original": "59°55′00″N, 021°42′00″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Salamajärven kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Salamaj%C3%A4rven_kansallispuisto",
+        "coordinates": {
+            "lat": 63.266666666666666,
+            "lon": 24.75,
+            "format": "decimal",
+            "original": "wgCoordinates: 63.266666666666666, 24.75",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Sallan kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sallan_kansallispuisto",
+        "coordinates": {
+            "lat": 66.78333333333333,
+            "lon": 28.866666666666667,
+            "format": "decimal",
+            "original": "wgCoordinates: 66.78333333333333, 28.866666666666667",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Seitsemisen kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Seitsemisen_kansallispuisto",
+        "coordinates": {
+            "lat": 61.916666666666664,
+            "lon": 23.433333333333334,
+            "format": "decimal",
+            "original": "wgCoordinates: 61.916666666666664, 23.433333333333334",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Selkämeren kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Selk%C3%A4meren_kansallispuisto",
+        "coordinates": {
+            "lat": 60.979,
+            "lon": 21.0986,
+            "format": "decimal",
+            "original": "map element: data-lat=60.979, data-lon=21.0986",
+            "method": "method_6"
+        }
+    },
+    {
+        "name": "Sipoonkorven kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sipoonkorven_kansallispuisto",
+        "coordinates": {
+            "lat": 60.315,
+            "lon": 25.21888889,
+            "format": "decimal",
+            "original": "map element: data-lat=60.315, data-lon=25.21888889",
+            "method": "method_6"
+        }
+    },
+    {
+        "name": "Syötteen kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sy%C3%B6tteen_kansallispuisto",
+        "coordinates": {
+            "lat": 65.70138888888889,
+            "lon": 27.572222222222223,
+            "format": "DMS",
+            "original": "65°42′05″N, 027°34′20″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tammisaaren saariston kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tammisaaren_saariston_kansallispuisto",
+        "coordinates": {
+            "lat": 59.82277778,
+            "lon": 23.45416667,
+            "format": "decimal",
+            "original": "map element: data-lat=59.82277778, data-lon=23.45416667",
+            "method": "method_6"
+        }
+    },
+    {
+        "name": "Teijon kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Teijon_kansallispuisto",
+        "coordinates": {
+            "lat": 60.223888888888894,
+            "lon": 22.960277777777776,
+            "format": "DMS",
+            "original": "60°13′26″N, 022°57′37″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Tiilikkajärven kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tiilikkaj%C3%A4rven_kansallispuisto",
+        "coordinates": {
+            "lat": 63.666666666666664,
+            "lon": 28.3,
+            "format": "decimal",
+            "original": "wgCoordinates: 63.666666666666664, 28.3",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Torronsuon kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Torronsuon_kansallispuisto",
+        "coordinates": {
+            "lat": 60.733333333333334,
+            "lon": 23.616666666666667,
+            "format": "decimal",
+            "original": "wgCoordinates: 60.733333333333334, 23.616666666666667",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Urho Kekkosen kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Urho_Kekkosen_kansallispuisto",
+        "coordinates": {
+            "lat": 68.33333333333333,
+            "lon": 28.0,
+            "format": "decimal",
+            "original": "wgCoordinates: 68.33333333333333, 28.0",
+            "method": "method_4"
+        }
+    },
+    {
+        "name": "Valkmusan kansallispuisto",
+        "wikipedia_link": "https://fi.wikipedia.org/wiki/Valkmusan_kansallispuisto",
+        "coordinates": {
+            "lat": 60.56666666666667,
+            "lon": 26.733333333333334,
+            "format": "decimal",
+            "original": "wgCoordinates: 60.56666666666667, 26.733333333333334",
+            "method": "method_4"
+        }
+    }
+]
