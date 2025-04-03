@@ -154,20 +154,6 @@
 },
 {
   "_id": {
-    "$oid": "67e1055c9b29afec97a7c563"
-  },
-  "name": "Good Stone",
-  "coordinates": {
-    "lat": 60.214182,
-    "lon": 24.990067
-  },
-  "url": "",
-  "quests": "fi_type",
-  "category": "sight",
-  "description": "Based on the search results, there are a few interpretations of \"Good Stone\" in the Helsinki area. One could be Kivilähde (Stone Academy), a company specializing in gravestones and countertops with a location in Helsinki. The name \"Kivilähde\" translates to \"stone spring,\" originating from a factory built in Ylöjärvi on a site with a stone-bordered spring. Another interpretation could be the \"Stone Ball Stairs\" in Helsinki, a tourist attraction that combines artistic expression with historical significance. The unique staircase, adorned with large stone balls, offers a visual appeal and serves as a testament to the city's rich cultural heritage.\n"
-},
-{
-  "_id": {
     "$oid": "67e1055c9b29afec97a7c564"
   },
   "name": "Pornaistenniemi Nature Trail",
@@ -206,7 +192,7 @@
   "url": "https://www.stadissa.fi/paikat/4064/koskipuisto",
   "quests": "fi_type",
   "category": "park",
-  "description": "Koskipuisto, meaning \"rapids park,\" is located in Kyttälä, Tampere, east of the Tammerkoski rapids. It's considered part of Finland's national landscapes, featuring many old trees, including white willows planted in the early 20th century. A tradition involves dipping first-year technology students into the water on International Workers' Day. The park's construction began in the 1890s. In the 1930s, it was renovated and expanded with the building of a power plant. The park features the sculpture \"The Shepherd\" by Yrjö Liipola. The Pikku Kakkonen play park is also located within Koskipuisto.\n"
+  "description": "Koskipuisto, located in the Vanhakaupunki district of Helsinki, sits at the lower reaches of the rapids. The park lies adjacent to the grounds of the Museum of Technology, the Turpiini pump station, and the Steam Power Plant, specifically on the Hämeentie side of the western branch of the rapids. Koskipuisto provides a place to enjoy the outdoors and connect with the industrial history of the area, offering a unique blend of nature and urban landscape.\n"
 },
 {
   "_id": {
@@ -332,7 +318,7 @@
   "url": "",
   "quests": "fi_type",
   "category": "bridge",
-  "description": "Vaskipellon silta is mentioned in several contexts, mainly related to Vantaa and nearby areas. In Vantaa, there's a plan from 2021 to possibly design a bridge in Vaskipelto for shared use as a skiing and outdoor recreation bridge, in collaboration with the city of Helsinki. There is also a white arch bridge in Vaskipelto. In the Mätäoja nature reserve in Vantaa, there are several bridges along the walking paths, with one area having a sign about Vaskipellon niityt (meadows). It is known that the area of Myyrmäki was inhabited already in the Stone Age.\n"
+  "description": "Vaskipellon silta is located in Vantaa, specifically in the area of Vaskipelto. It's a place where people gather, as evidenced by a walking event starting from the bridge. The bridge is near Touhula kindergarten, where people can park their cars before setting off for a walk. The area includes Mätäoja, a stream that is especially interesting in the spring. The bridge is one of several along the Mätäoja nature conservation area, which features easy-to-walk gravel paths and varied scenery.\n"
 },
 {
   "_id": {
@@ -402,7 +388,7 @@
   "url": "",
   "quests": "fi_type",
   "category": "park",
-  "description": "Kumpulanpuisto can refer to multiple locations. There is a park with that name in Helsinki, specifically in the Peltola area. It is a small park but has basic equipment for kids such as seesaws, a slide and a sandbox. There is also Asunto Oy Riihimäen Kumpulanpuisto in Riihimäki, which is a housing complex. Additionally, Kumpulanpuisto in Kälviä is undergoing renovations. Kumpulanpuisto in Jyväskylä is also mentioned as part of a larger green services program.\n"
+  "description": "Kumpulanpuisto is a park located in Helsinki. It's a green area offering opportunities for outdoor activities. Nearby are Kumpulan siirtopuutarha (allotment garden) and Kumpulan maauimala (outdoor swimming pool), both within walking distance. The park's name comes from the old place name Gumtäkt.\n"
 },
 {
   "_id": {
@@ -416,21 +402,7 @@
   "url": "",
   "quests": "fi_type",
   "category": "exhibition",
-  "description": "Messukeskus Grove is most likely a part of the Messukeskus Helsinki, Expo and Convention Centre. Messukeskus Helsinki is the largest and best-known convention center in Finland, located in Pasila, Helsinki. It hosts around hundred trade shows and public fairs and over 2,200 meetings and congresses annually, attracting over one million visitors. The premises include seven exhibition halls, 40 meeting rooms, and a 4,400-seat auditorium. The Holiday Inn hotel is located next to the center. Messukeskus Helsinki is a pioneer in sustainable event organization.\n"
-},
-{
-  "_id": {
-    "$oid": "67e1055c9b29afec97a7c576"
-  },
-  "name": "Rauninkallio",
-  "coordinates": {
-    "lat": 60.210324,
-    "lon": 24.937272
-  },
-  "url": "",
-  "quests": "fi_type",
-  "category": "forest",
-  "description": "Rauninkallio is a place located in Helsinki, specifically on Rauninkuja street. It is accessible by public transportation, including bus lines 506, 57, 611, 623, and 66, train lines I and L, metro lines M1 and M2, and tram line 1T. The closest stations to Rauninkallio are Kimmontie, Käpylänaukio, Mäkelänkatu and Kalervonkatu. A resident survey describes it as a quiet and peaceful place, noting the calm, quiet wooden house area, which has a soothing atmosphere when walking between the houses.\n"
+  "description": "Messukeskus, also known as the Helsinki Expo and Convention Centre, is Finland's largest and most versatile event venue. It's located in Helsinki and serves as a vibrant hub for various events.\n\nMessukeskus hosts over 50 premier trade shows annually, covering diverse industries. With over 58,000 square meters of exhibit space, it's well-equipped for large conventions, meetings, banquets, and public events. The venue is easily accessible by trams, buses, and trains, with the Pasila railway station just a short walk away.\n\nAs Finland's leading event venue, Messukeskus offers comprehensive services for event organizers, providing expertise and facilities for live, hybrid, and virtual events.\n"
 },
 {
   "_id": {
@@ -490,34 +462,6 @@
 },
 {
   "_id": {
-    "$oid": "67e1055c9b29afec97a7c57b"
-  },
-  "name": "Kotikallio",
-  "coordinates": {
-    "lat": 60.160119,
-    "lon": 24.894393
-  },
-  "url": "",
-  "quests": "fi_type",
-  "category": "beach",
-  "description": "Kotikallio appears to be the name of multiple locations in Helsinki.\n\nOne Kotikallio is Rinnekodit Kotikallio, a nursing home located in Pitäjänmäki, Helsinki, at Kyläkirkontie 6-10. It specializes in 24/7 care for elderly residents, particularly those with memory disorders, with a capacity of 23 residents. The facility aims to create a safe and supportive environment where individual needs are met.\n\nAnother Kotikallio is a daycare center located at Saarenkatu 4, 00550 Helsinki. The daycare center provides meals and pre-primary education in Finnish. A senior citizen's building is located in Kotikallio at Kyläkirkontie 6-10.\n"
-},
-{
-  "_id": {
-    "$oid": "67e1055c9b29afec97a7c57c"
-  },
-  "name": "Itälahti",
-  "coordinates": {
-    "lat": 60.145894,
-    "lon": 24.880137
-  },
-  "url": "",
-  "quests": "fi_type",
-  "category": "bay",
-  "description": "Itälahti can refer to a few different places in Finland. In Helsinki, Itälahti is located in Lauttasaari. Veijarivuoren puisto, a winter swimming spot, is located in Itälahti, Helsinki. Humaus ry, a winter swimming club, is also located there. In Espoo, Kiinteistö Oy Itälahti is a real estate company. Further away from Helsinki, in Enonkoski, there is Holiday Home Itälahti by Interhome and a cottage called Itälahti, near lake Saimaa. It is a charming log cabin that offers a perfect vacation spot. Itälahti is also a locality in Valtimo, North Karelia.\n"
-},
-{
-  "_id": {
     "$oid": "67e1055c9b29afec97a7c57d"
   },
   "name": "Kokkokallio",
@@ -528,7 +472,7 @@
   "url": "",
   "quests": "fi_type",
   "category": "cliff",
-  "description": "Kokkokallio is an area located in Helsinki, Espoo and Vantaa, with Kokkokalliontie being a street name found in Helsinki (Pitäjänmäki, Konala) and Vantaa. Kokkokallio in Helsinki is a residential area with apartment buildings, including Asunto Oy Helsingin Kokkokallionkoti. There is a playground called Leikkipaikka Kokkokallio in Helsinki. Kokkokallio in Espoo also refers to a public transportation stop. In Vantaa, Asunto Oy Vantaan Kokkokallio is an apartment building completed in 2020. Apartments in Kokkokallio are located close to services like shops, libraries, schools and public transportation. The area offers green spaces and sports facilities.\n"
+  "description": "Kokkokallio is a rocky hill located in Lauttasaari, Helsinki. It's known for its scenic views and serves as a popular spot for recreational activities. The area features walking paths and provides opportunities for enjoying nature within the city. Kokkokallio is a notable landmark in the area, offering a peaceful escape and a place to appreciate the surrounding landscape. It is easily accessible and often visited by locals and tourists alike. The hill's natural beauty and convenient location make it a valuable green space in the urban environment. Kokkokallio provides a great place to enjoy the outdoors.\n"
 },
 {
   "_id": {
@@ -1284,7 +1228,7 @@
   "url": "https://fi.wikipedia.org/wiki/Korkeasaari",
   "quests": "fi_type",
   "category": "zoo",
-  "description": "Karhulinna is not located in Helsinki or its neighboring cities. Karhulinna is located in Rauma. It is a cliff in the district of Merirauma, north of Syväraumanlahti. The place is unknown to many locals. Karhulinna dates back to World War I, when battle trenches were carved into the rock, some as deep as two meters, totaling about 160 meters. The walls are reinforced with cement mortar and wedge stones, and partly with concrete. In the middle of the trenches are two gun emplacements. Shelters are located at both ends of the trenches. The defense is directed towards the west. A good path leads to the site from Järvikatu, where there is also a Karhulinna sign.\n"
+  "description": "Karhulinna is a small, rocky island located off the coast of Helsinki. The island features a modest building. It is situated near other small islands and the Suomenlinna sea fortress. The area is known for its natural beauty and maritime environment.\n"
 },
 {
   "_id": {
@@ -1327,20 +1271,6 @@
   "quests": "fi_type",
   "category": "pier",
   "description": "Katajanokan mattolaituri is a public carpet washing place located in the Katajanokka district of Helsinki, specifically at Katajanokanranta 21, at the end of Laivastokatu. It is situated by the sea, near the Laivastonpuisto park and close to where icebreakers are often docked. This pier is a popular spot for locals to wash their carpets during the summer months, typically from May to September, and enjoy the sunny weather and company of others. The pier also serves as a social gathering place, where people come to chat, sunbathe, fish, and even hold small celebrations. Stara, the city's public works department, maintains the pier, ensuring it is in good condition and safe for public use.\n"
-},
-{
-  "_id": {
-    "$oid": "67e1055c9b29afec97a7c5b7"
-  },
-  "name": "Onkilaituri",
-  "coordinates": {
-    "lat": 60.24129229999999,
-    "lon": 24.9731694
-  },
-  "url": "",
-  "quests": "fi_type",
-  "category": "pier",
-  "description": "Onkilaituri refers to a fishing pier or a fishing platform. Several locations in the Helsinki metropolitan area feature these, including one in Savelanpuisto, located in the Malmi district along the Vantaanjoki river. This particular onkilaituri was built following a proposal from residents in the OmaStadi participatory budgeting initiative. Another accessible fishing pier can be found by Kirkas-Soljanen lake in Ylöjärvi, near Helsinki. These piers provide a dedicated and safe space for fishing enthusiasts, enhancing recreational opportunities along the waterfronts. There is also an onkilaituri in Viikinmäki.\n"
 },
 {
   "_id": {
@@ -1680,20 +1610,6 @@
 },
 {
   "_id": {
-    "$oid": "67e1055c9b29afec97a7c5d0"
-  },
-  "name": "The Skin Sculptor",
-  "coordinates": {
-    "lat": 60.158238,
-    "lon": 24.9103718
-  },
-  "url": "",
-  "quests": "fi_type",
-  "category": "sight",
-  "description": "The Skin Sculptor is a skin clinic located in Jätkäsaari, Helsinki. It's easily accessible by tram. The clinic focuses on providing individual service with natural and safe results. They offer a wide range of treatments, including laser hair removal and facial treatments. They also use high-quality, plant-based ingredients that work in harmony with the skin's biochemistry. The goal is to help clients achieve their dream skin, leaving them glowing, relaxed, and pampered. The clinic also has an online store.\n"
-},
-{
-  "_id": {
     "$oid": "67e1055c9b29afec97a7c5d1"
   },
   "name": "Paavo Nurmi Statue",
@@ -1704,7 +1620,7 @@
   "url": "https://en.wikipedia.org/wiki/Paavo_Nurmi_statue",
   "quests": "fi_type",
   "category": "sight",
-  "description": "The Paavo Nurmi statue, created by Wäinö Aaltonen in 1925, is a bronze sculpture depicting the legendary Finnish runner Paavo Nurmi. It's not a realistic portrait but rather an idealized monument to the Finnish runner. Five full-size casts, measuring 2.2 meters in height, were created. One statue is located in front of the Helsinki Olympic Stadium, unveiled for the 1952 Helsinki Olympics, and is part of the Helsinki City Art Collection. Other casts are in various locations, including the Ateneum Art Museum, Turku, Lausanne in Switzerland, and Jyväskylä. The statue has become a symbol of Finnish sport and national identity.\n"
+  "description": "The Paavo Nurmi statue, created by Wäinö Aaltonen in 1925, depicts the legendary Finnish runner Paavo Nurmi. It's not a naturalistic portrait but rather an idealized monument to a Finnish runner. Nurmi himself posed for Aaltonen, but they agreed on a more symbolic representation. The statue emphasizes dynamic lines, showing Nurmi on the balls of his feet. It quickly became a symbol of Finnish sport and national identity, widely used to promote Finland. There are five full-size bronze casts of the statue. The one located at the Helsinki Olympic Stadium was unveiled for the 1952 Olympic Games.\n"
 },
 {
   "_id": {
@@ -2082,7 +1998,7 @@
   "url": "https://fi.wikipedia.org/wiki/Iso_Vasikkasaari",
   "quests": "fi_type",
   "category": "sight",
-  "description": "It seems there might be multiple places named \"Poseidonin Temppeli\" (Temple of Poseidon) in Finland.\n\nOne is located on Iso Vasikkasaari island in Espoo, near Helsinki. It is not actually a temple, but a private building built in the late 19th century as a villa in the style of a Greek temple. A municipal counselor built it for his son-in-law, a professor of the Greek language. Today, the \"temple\" is used as a fishing lodge and was once the workspace of the sociologist Erik Allardt.\n\nAnother \"Poseidonin Temppeli\" is a bus/metro station in Helsinki.\n\nThere is also the actual Temple of Poseidon, located in Sounion, near Athens, Greece. It was built in 444–440 BC, featuring 42 white marble columns, and housed a six-meter bronze statue of Poseidon.\n"
+  "description": "The Poseidon Temple, located on Iso Vasikkasaari island near Helsinki, is a unique structure. It was built in the 19th century by municipal councilor Abel Landén for his son-in-law, Ivar A. Heikel, a professor of Greek. Constructing a Greek temple at that time signified wealth and status.\n\nToday, the temple serves as a fishing lodge and was inherited by the renowned sociologist Erik Allardt. In the past, the temple functioned as Allardt's study. Light enters the building only through the doorway.\n"
 },
 {
   "_id": {
@@ -2110,21 +2026,7 @@
   "url": "",
   "quests": "fi_type",
   "category": "forest",
-  "description": "Helsinki offers many scenic viewpoints. One popular spot is Malminkartanonhuippu, the highest point in Helsinki, created from landfill. Climbing its 426 steps rewards you with panoramic city views. Another option is the tower of the Helsinki Olympic Stadium, standing at 72 meters, it provides a historical perspective of the city. For a different experience, visit Ateljee Bar on top of Hotel Torni, offering stunning views of the coastline and city center from a rooftop terrace. Kaivopuisto Park also provides scenic ocean cliffs overlooking the southern coast and archipelago."
-},
-{
-  "_id": {
-    "$oid": "67e1055c9b29afec97a7c5ef"
-  },
-  "name": "Salapaikka",
-  "coordinates": {
-    "lat": 60.1957163,
-    "lon": 24.7429255
-  },
-  "url": "",
-  "quests": "fi_type",
-  "category": "forest",
-  "description": "\"Salapaikka\" translates to \"secret place\" or \"hideout\" in Finnish. It can refer to a favorite, personal spot where one can relax and contemplate. However, \"Salapaikka\" is also the name of a shop, Salakauppa (Secret Shop), located in Helsinki. Salakauppa is a shop run by COMPANY (Aamu Song & Johan Olin) that sells unique items and has a history of art installations and special events. The shop's interior has a mural painting filled with workshops, factories and travel stories. The shop also has a small studio in the back where they make more products.\n"
+  "description": "Lookout Point in Espoo offers a serene escape into nature. It's located near the Finnish Nature Centre Haltia and Nuuksio National Park. This accessible viewpoint provides breathtaking views of the surrounding landscapes. It’s a place where you can immerse yourself in the tranquility of the Finnish wilderness. The area features hiking trails suitable for both experienced hikers and beginners. You can enjoy the beauty of nature independently or on a guided tour. It's an ideal spot for those seeking peace and stunning scenery.\n"
 },
 {
   "_id": {
