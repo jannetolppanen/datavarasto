@@ -1,453 +1,697 @@
-[
-    {
-        "name": "Etelä-Konneveden kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Etel%C3%A4-Konneveden_kansallispuisto",
-        "coordinates": {
-            "lat": 62.55,
-            "lon": 26.633333333333333,
-            "format": "decimal",
-            "original": "wgCoordinates: 62.55, 26.633333333333333",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Helvetinjärven kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Helvetinj%C3%A4rven_kansallispuisto",
-        "coordinates": {
-            "lat": 62.03333333333333,
-            "lon": 23.85,
-            "format": "decimal",
-            "original": "wgCoordinates: 62.03333333333333, 23.85",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Hiidenportin kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hiidenportin_kansallispuisto",
-        "coordinates": {
-            "lat": 63.87277777777778,
-            "lon": 29.058611111111112,
-            "format": "DMS",
-            "original": "63°52′22″N, 029°03′31″E",
-            "method": "method_1"
-        }
-    },
-    {
-        "name": "Hossan kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Hossan_kansallispuisto",
-        "coordinates": {
-            "lat": 65.48972222222223,
-            "lon": 29.32361111111111,
-            "format": "DMS",
-            "original": "65°29′23″N, 029°19′25″E",
-            "method": "method_1"
-        }
-    },
-    {
-        "name": "Isojärven kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Isoj%C3%A4rven_kansallispuisto",
-        "coordinates": {
-            "lat": 61.69833333333333,
-            "lon": 25.010833333333334,
-            "format": "DMS",
-            "original": "61°41′54″N, 025°00′39″E",
-            "method": "method_1"
-        }
-    },
-    {
-        "name": "Itäisen Suomenlahden kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/It%C3%A4isen_Suomenlahden_kansallispuisto",
-        "coordinates": {
-            "lat": 60.25,
-            "lon": 27.166666666666668,
-            "format": "decimal",
-            "original": "wgCoordinates: 60.25, 27.166666666666668",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Kauhanevan–Pohjankankaan kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kauhanevan%E2%80%93Pohjankankaan_kansallispuisto",
-        "coordinates": {
-            "lat": 62.18333333333333,
-            "lon": 22.4,
-            "format": "decimal",
-            "original": "wgCoordinates: 62.18333333333333, 22.4",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Kolin kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kolin_kansallispuisto",
-        "coordinates": {
-            "lat": 63.0575,
-            "lon": 29.88722222,
-            "format": "decimal",
-            "original": "map element: data-lat=63.0575, data-lon=29.88722222",
-            "method": "method_6"
-        }
-    },
-    {
-        "name": "Koloveden kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Koloveden_kansallispuisto",
-        "coordinates": {
-            "lat": 62.24305555555556,
-            "lon": 28.83611111111111,
-            "format": "DMS",
-            "original": "62°14′35″N, 028°50′10″E",
-            "method": "method_1"
-        }
-    },
-    {
-        "name": "Kurjenrahkan kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Kurjenrahkan_kansallispuisto",
-        "coordinates": {
-            "lat": 60.733333333333334,
-            "lon": 22.416666666666668,
-            "format": "decimal",
-            "original": "wgCoordinates: 60.733333333333334, 22.416666666666668",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Lauhanvuoren kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lauhanvuoren_kansallispuisto",
-        "coordinates": {
-            "lat": 62.151944444444446,
-            "lon": 22.175,
-            "format": "DMS",
-            "original": "62°09′07″N, 022°10′30″E",
-            "method": "method_1"
-        }
-    },
-    {
-        "name": "Leivonmäen kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Leivonm%C3%A4en_kansallispuisto",
-        "coordinates": {
-            "lat": 61.93333333333333,
-            "lon": 26.033333333333335,
-            "format": "decimal",
-            "original": "wgCoordinates: 61.93333333333333, 26.033333333333335",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Lemmenjoen kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Lemmenjoen_kansallispuisto",
-        "coordinates": {
-            "lat": 68.5,
-            "lon": 25.5,
-            "format": "decimal",
-            "original": "wgCoordinates: 68.5, 25.5",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Liesjärven kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Liesj%C3%A4rven_kansallispuisto",
-        "coordinates": {
-            "lat": 60.68055556,
-            "lon": 23.85833333,
-            "format": "decimal",
-            "original": "map element: data-lat=60.68055556, data-lon=23.85833333",
-            "method": "method_6"
-        }
-    },
-    {
-        "name": "Linnansaaren kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Linnansaaren_kansallispuisto",
-        "coordinates": {
-            "lat": 62.109722222222224,
-            "lon": 28.519444444444442,
-            "format": "DMS",
-            "original": "62°06′35″N, 028°31′10″E",
-            "method": "method_1"
-        }
-    },
-    {
-        "name": "Nuuksion kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Nuuksion_kansallispuisto",
-        "coordinates": {
-            "lat": 60.31666666666667,
-            "lon": 24.466666666666665,
-            "format": "DMS",
-            "original": "60°19′00″N, 024°28′00″E",
-            "method": "method_1"
-        }
-    },
-    {
-        "name": "Oulangan kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Oulangan_kansallispuisto",
-        "coordinates": {
-            "lat": 66.36666666666666,
-            "lon": 29.333333333333332,
-            "format": "decimal",
-            "original": "wgCoordinates: 66.36666666666666, 29.333333333333332",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Pallas-Yllästunturin kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pallas-Yll%C3%A4stunturin_kansallispuisto",
-        "coordinates": {
-            "lat": 68.07,
-            "lon": 24.05,
-            "format": "decimal",
-            "original": "68.07°N, 24.05°E",
-            "method": "method_1"
-        }
-    },
-    {
-        "name": "Patvinsuon kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Patvinsuon_kansallispuisto",
-        "coordinates": {
-            "lat": 63.11138889,
-            "lon": 30.70444444,
-            "format": "decimal",
-            "original": "map element: data-lat=63.11138889, data-lon=30.70444444",
-            "method": "method_6"
-        }
-    },
-    {
-        "name": "Perämeren kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Per%C3%A4meren_kansallispuisto",
-        "coordinates": {
-            "lat": 65.61666666666666,
-            "lon": 24.316666666666666,
-            "format": "decimal",
-            "original": "wgCoordinates: 65.61666666666666, 24.316666666666666",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Petkeljärven kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Petkelj%C3%A4rven_kansallispuisto",
-        "coordinates": {
-            "lat": 62.583333333333336,
-            "lon": 31.183333333333334,
-            "format": "decimal",
-            "original": "wgCoordinates: 62.583333333333336, 31.183333333333334",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Puurijärven ja Isosuon kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Puurij%C3%A4rven_ja_Isosuon_kansallispuisto",
-        "coordinates": {
-            "lat": 61.24916666666667,
-            "lon": 22.566944444444445,
-            "format": "DMS",
-            "original": "61°14′57″N, 22°34′01″E",
-            "method": "method_1"
-        }
-    },
-    {
-        "name": "Pyhä-Häkin kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4-H%C3%A4kin_kansallispuisto",
-        "coordinates": {
-            "lat": 62.845555555555556,
-            "lon": 25.472499999999997,
-            "format": "DMS",
-            "original": "62°50′44″N, 025°28′21″E",
-            "method": "method_1"
-        }
-    },
-    {
-        "name": "Pyhä-Luoston kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4-Luoston_kansallispuisto",
-        "coordinates": {
-            "lat": 67.06638889,
-            "lon": 26.97361111,
-            "format": "decimal",
-            "original": "map element: data-lat=67.06638889, data-lon=26.97361111",
-            "method": "method_6"
-        }
-    },
-    {
-        "name": "Päijänteen kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/P%C3%A4ij%C3%A4nteen_kansallispuisto",
-        "coordinates": {
-            "lat": 61.36666666666667,
-            "lon": 25.45,
-            "format": "decimal",
-            "original": "wgCoordinates: 61.36666666666667, 25.45",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Repoveden kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Repoveden_kansallispuisto",
-        "coordinates": {
-            "lat": 61.18333333333333,
-            "lon": 26.883333333333333,
-            "format": "decimal",
-            "original": "wgCoordinates: 61.18333333333333, 26.883333333333333",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Riisitunturin kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Riisitunturin_kansallispuisto",
-        "coordinates": {
-            "lat": 66.23333333333333,
-            "lon": 28.5,
-            "format": "decimal",
-            "original": "wgCoordinates: 66.23333333333333, 28.5",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Rokuan kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Rokuan_kansallispuisto",
-        "coordinates": {
-            "lat": 64.55611111111111,
-            "lon": 26.51,
-            "format": "DMS",
-            "original": "64°33′22″N, 026°30′36″E",
-            "method": "method_1"
-        }
-    },
-    {
-        "name": "Saaristomeren kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Saaristomeren_kansallispuisto",
-        "coordinates": {
-            "lat": 59.916666666666664,
-            "lon": 21.7,
-            "format": "DMS",
-            "original": "59°55′00″N, 021°42′00″E",
-            "method": "method_1"
-        }
-    },
-    {
-        "name": "Salamajärven kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Salamaj%C3%A4rven_kansallispuisto",
-        "coordinates": {
-            "lat": 63.266666666666666,
-            "lon": 24.75,
-            "format": "decimal",
-            "original": "wgCoordinates: 63.266666666666666, 24.75",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Sallan kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sallan_kansallispuisto",
-        "coordinates": {
-            "lat": 66.78333333333333,
-            "lon": 28.866666666666667,
-            "format": "decimal",
-            "original": "wgCoordinates: 66.78333333333333, 28.866666666666667",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Seitsemisen kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Seitsemisen_kansallispuisto",
-        "coordinates": {
-            "lat": 61.916666666666664,
-            "lon": 23.433333333333334,
-            "format": "decimal",
-            "original": "wgCoordinates: 61.916666666666664, 23.433333333333334",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Selkämeren kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Selk%C3%A4meren_kansallispuisto",
-        "coordinates": {
-            "lat": 60.979,
-            "lon": 21.0986,
-            "format": "decimal",
-            "original": "map element: data-lat=60.979, data-lon=21.0986",
-            "method": "method_6"
-        }
-    },
-    {
-        "name": "Sipoonkorven kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sipoonkorven_kansallispuisto",
-        "coordinates": {
-            "lat": 60.315,
-            "lon": 25.21888889,
-            "format": "decimal",
-            "original": "map element: data-lat=60.315, data-lon=25.21888889",
-            "method": "method_6"
-        }
-    },
-    {
-        "name": "Syötteen kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Sy%C3%B6tteen_kansallispuisto",
-        "coordinates": {
-            "lat": 65.70138888888889,
-            "lon": 27.572222222222223,
-            "format": "DMS",
-            "original": "65°42′05″N, 027°34′20″E",
-            "method": "method_1"
-        }
-    },
-    {
-        "name": "Tammisaaren saariston kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tammisaaren_saariston_kansallispuisto",
-        "coordinates": {
-            "lat": 59.82277778,
-            "lon": 23.45416667,
-            "format": "decimal",
-            "original": "map element: data-lat=59.82277778, data-lon=23.45416667",
-            "method": "method_6"
-        }
-    },
-    {
-        "name": "Teijon kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Teijon_kansallispuisto",
-        "coordinates": {
-            "lat": 60.223888888888894,
-            "lon": 22.960277777777776,
-            "format": "DMS",
-            "original": "60°13′26″N, 022°57′37″E",
-            "method": "method_1"
-        }
-    },
-    {
-        "name": "Tiilikkajärven kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Tiilikkaj%C3%A4rven_kansallispuisto",
-        "coordinates": {
-            "lat": 63.666666666666664,
-            "lon": 28.3,
-            "format": "decimal",
-            "original": "wgCoordinates: 63.666666666666664, 28.3",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Torronsuon kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Torronsuon_kansallispuisto",
-        "coordinates": {
-            "lat": 60.733333333333334,
-            "lon": 23.616666666666667,
-            "format": "decimal",
-            "original": "wgCoordinates: 60.733333333333334, 23.616666666666667",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Urho Kekkosen kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Urho_Kekkosen_kansallispuisto",
-        "coordinates": {
-            "lat": 68.33333333333333,
-            "lon": 28.0,
-            "format": "decimal",
-            "original": "wgCoordinates: 68.33333333333333, 28.0",
-            "method": "method_4"
-        }
-    },
-    {
-        "name": "Valkmusan kansallispuisto",
-        "wikipedia_link": "https://fi.wikipedia.org/wiki/Valkmusan_kansallispuisto",
-        "coordinates": {
-            "lat": 60.56666666666667,
-            "lon": 26.733333333333334,
-            "format": "decimal",
-            "original": "wgCoordinates: 60.56666666666667, 26.733333333333334",
-            "method": "method_4"
-        }
-    }
-]
+[{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d6f2"
+  },
+  "name": "Etelä-Konneveden kansallispuisto",
+  "coordinates": {
+    "lat": 62.55,
+    "lon": 26.633333333333333,
+    "format": "decimal",
+    "original": "wgCoordinates: 62.55, 26.633333333333333",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Etel%C3%A4-Konneveden_kansallispuisto",
+  "description": "Southern Konnevesi National Park, established in 2014, is located on the border of Central Finland and Northern Savonia. The park covers approximately 15 square kilometers and features rugged cliffs and extensive lake views.\n\nThe park is known for its clear waters, rocky shores and untouched rocky areas. Visitors can enjoy boating on open lakes or canoeing through labyrinthine archipelagos. Hiking trails lead from lush groves to high rocky slopes, where you can admire the views. Kalajanvuori is a well-known hiking and scenic spot rising 115 meters above Lake Kalajanjärvi. The area also has diverse birdlife, including species such as the osprey and black-throated loon.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d6f3"
+  },
+  "name": "Helvetinjärven kansallispuisto",
+  "coordinates": {
+    "lat": 62.03333333333333,
+    "lon": 23.85,
+    "format": "decimal",
+    "original": "wgCoordinates: 62.03333333333333, 23.85",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Helvetinj%C3%A4rven_kansallispuisto",
+  "description": "Helvetinjärvi National Park, located in the Pirkanmaa region, represents Finland's rugged wilderness with deep gorges and diverse forests. Established in 1982, the park spans approximately 50 square kilometers. A prominent feature is Helvetinkolu, a narrow gorge popular among visitors, with a rest hut nearby. The park's geology showcases faults in the bedrock, with cliffs rising steeply from the lakes. Hiking trails connect to other parks, and the sandy shores of Lake Haukkajärvi provide a place to relax. Visitors can explore the \"East of Hell\" nature trail and enjoy the natural scenery.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d6f4"
+  },
+  "name": "Hiidenportin kansallispuisto",
+  "coordinates": {
+    "lat": 63.87277777777778,
+    "lon": 29.058611111111112,
+    "format": "DMS",
+    "original": "63°52′22″N, 029°03′31″E",
+    "method": "method_1"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Hiidenportin_kansallispuisto",
+  "description": "Hiidenportti National Park, located in Sotkamo, Kainuu, was established in 1982 to preserve the wilderness. The park's landscape is characterized by a mosaic of mires and dry forests, covering an area of 45 square kilometers. Its main attraction is the Hiidenportti gorge, a canyon with steep cliffs reaching up to 20 meters high.\n\nThe forests are nearly natural state, with an average age of 100-150 years. Hiking trails, including the popular Hiidenkierros trail, allow visitors to explore the area. The park is home to diverse wildlife, including various bird species, butterflies, and mammals such as bears and lynx.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d6f5"
+  },
+  "name": "Hossan kansallispuisto",
+  "coordinates": {
+    "lat": 65.48972222222223,
+    "lon": 29.32361111111111,
+    "format": "DMS",
+    "original": "65°29′23″N, 029°19′25″E",
+    "method": "method_1"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Hossan_kansallispuisto",
+  "description": "Hossa National Park, established in 2017, is located in Suomussalmi. It is known for its beautiful nature and activities. The area's trails guide you through pine forests and crystal-clear waters.\n\nThe Värikallio cliffs display ancient rock paintings, and Julma-Ölkky canyon lake adds to the mystical scenery. Hossa has long been a favorite for hikers seeking peace. In the summer, it offers hiking trails, clear waters for water activities like canoeing and fishing and cycling routes. In winter, you can enjoy skiing, snowshoeing and ice fishing. The park also has wilderness cabins and campfire sites.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d6f6"
+  },
+  "name": "Isojärven kansallispuisto",
+  "coordinates": {
+    "lat": 61.69833333333333,
+    "lon": 25.010833333333334,
+    "format": "DMS",
+    "original": "61°41′54″N, 025°00′39″E",
+    "method": "method_1"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Isoj%C3%A4rven_kansallispuisto",
+  "description": "Isojärvi National Park, located in Central Finland, was established in 1982 and covers 19 square kilometers. The park's scenery is diverse, featuring Scots pine and Norway spruce forests, as well as bogs. It is located by Lake Isojärvi, from which it gets its name.\n\nThe area has a rich history, with imprints of early human settlement and cultivation. Today, visitors can explore over 30 kilometers of marked trails, ranging in length and difficulty, perfect for hiking and enjoying the rugged landscape. Canoeing is also a popular activity on Lake Isojärvi. Traces of past logging activities can be found throughout the park, and the only loggers working there now are beavers.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d6f7"
+  },
+  "name": "Itäisen Suomenlahden kansallispuisto",
+  "coordinates": {
+    "lat": 60.25,
+    "lon": 27.166666666666668,
+    "format": "decimal",
+    "original": "wgCoordinates: 60.25, 27.166666666666668",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/It%C3%A4isen_Suomenlahden_kansallispuisto",
+  "description": "The Eastern Gulf of Finland National Park is located in the outer archipelago of the Kymenlaakso region, encompassing areas of Kotka, Hamina, Pyhtää and Virolahti. Established in 1982, it covers approximately 6.7 square kilometers of land. It consists of over a hundred islands and islets.\n\nThe park offers a unique combination of natural beauty, diverse birdlife, and fascinating military history. Ulko-Tammio, the main island, features a well-preserved World War II-era fortress. Visitors can enjoy boating, fishing, diving, and birdwatching. The archipelago villages of Kaunissaari, Haapasaari and Tammio were once vibrant centers for fishing, seal hunting, and small-scale agriculture, with trade connections to Estonia and Russia. Access to the park is only by sea, either with a private boat or a water taxi.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d6f8"
+  },
+  "name": "Kauhanevan–Pohjankankaan kansallispuisto",
+  "coordinates": {
+    "lat": 62.18333333333333,
+    "lon": 22.4,
+    "format": "decimal",
+    "original": "wgCoordinates: 62.18333333333333, 22.4",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Kauhanevan%E2%80%93Pohjankankaan_kansallispuisto",
+  "description": "Kauhanevan–Pohjankangas National Park is located in the municipalities of Kauhajoki and Karvia, in the regions of Southern Ostrobothnia and Satakunta, Finland. Established in 1982, it covers 57 square kilometers and primarily consists of swamp areas, most notably the Kauhaneva bog.\n\nThe park is a significant wetland, included in the Ramsar Convention and the Natura 2000 network. It offers diverse landscapes, from open bogs with pools and ponds to pine forests. Kyrönkangas road passes through the park. Visitors can explore the area via marked trails, including the accessible Kauhalammi trail, and enjoy birdwatching from the observation tower. The park showcases the beautiful southern swamp nature and is part of the Lauhanvuori-Hämeenkangas UNESCO Global Geopark.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d6f9"
+  },
+  "name": "Kolin kansallispuisto",
+  "coordinates": {
+    "lat": 63.0575,
+    "lon": 29.88722222,
+    "format": "decimal",
+    "original": "map element: data-lat=63.0575, data-lon=29.88722222",
+    "method": "method_6"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Kolin_kansallispuisto",
+  "description": "Koli National Park, situated in North Karelia, Finland, encompasses 30 square kilometers of forested hills along Lake Pielinen's western shore. Established in 1991, it showcases Finland's traditional agricultural heritage.\n\nThe park was once a pagan sacrificial site and later used for slash-and-burn agriculture. Nowadays, the park maintains traditional landscapes through methods like grazing by Finnish breeds of cows and sheep, and annual hay cutting. Koli is divided into three zones, with stringent protection for the mountaintop's natural landscape, a culture zone that maintains traditional landscapes, and a nature zone that protects the forest landscape. The terrain varies widely, creating diverse biotopes and supporting a variety of species.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d6fa"
+  },
+  "name": "Koloveden kansallispuisto",
+  "coordinates": {
+    "lat": 62.24305555555556,
+    "lon": 28.83611111111111,
+    "format": "DMS",
+    "original": "62°14′35″N, 028°50′10″E",
+    "method": "method_1"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Koloveden_kansallispuisto",
+  "description": "Kolovesi National Park protects the wilderness archipelagos of Saimaa and the forests that are over a century old. Ancient rock paintings tell stories of the relationship between nature and humans over thousands of years. It is a paradise for canoeists and kayakers, as motorboats are mostly prohibited.\n\nSteep cliffs rise majestically from Lake Saimaa, creating a stunning landscape. In the maze of islands, you might encounter the endangered Saimaa ringed seal. Kolovesi is best seen from the water, offering spectacular nature experiences with its cliffs and peacefulness.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d6fb"
+  },
+  "name": "Kurjenrahkan kansallispuisto",
+  "coordinates": {
+    "lat": 60.733333333333334,
+    "lon": 22.416666666666668,
+    "format": "decimal",
+    "original": "wgCoordinates: 60.733333333333334, 22.416666666666668",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Kurjenrahkan_kansallispuisto",
+  "description": "Kurjenrahka National Park, located in Southwest Finland, is characterized by its extensive bogs, forests and lakes. Established in 1998, it spans 29 square kilometers and is known as the largest protected natural bog area in the region. The park's landscape features primeval forests, some untouched for over 150 years, as well as marshy lakes.\n\nThe park is home to diverse flora and fauna, including the Eurasian lynx, with occasional sightings of brown bears and gray wolves. Kurjenrahka is also a haven for birdwatchers, with numerous species inhabiting the area. Marked trails, extending over 300 km, allow visitors to explore the natural beauty, including the famous Kuhankuono hiking trail network.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d6fc"
+  },
+  "name": "Lauhanvuoren kansallispuisto",
+  "coordinates": {
+    "lat": 62.151944444444446,
+    "lon": 22.175,
+    "format": "DMS",
+    "original": "62°09′07″N, 022°10′30″E",
+    "method": "method_1"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Lauhanvuoren_kansallispuisto",
+  "description": "Lauhanvuori National Park is located in Southern Ostrobothnia, on the border of Kauhajoki and Isojoki. Established in 1982, it covers 53 square kilometers. The park's landscape features pine forests, springs, and swamps. Lauhanvuori is a 231-meter-high moraine hill, one of the highest points in Western Finland.\n\nThe summit was uncovered around 9500 BCE and was once an island in the Ancylus Lake. The summit has retained its soil and nutrients, allowing lush vegetation. Barren and infertile hillsides surround it. The park offers about fifteen kilometers of marked trails. It is part of the Lauhanvuori-Hämeenkangas Geopark, recognized by UNESCO for its unique geological features.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d6fd"
+  },
+  "name": "Leivonmäen kansallispuisto",
+  "coordinates": {
+    "lat": 61.93333333333333,
+    "lon": 26.033333333333335,
+    "format": "decimal",
+    "original": "wgCoordinates: 61.93333333333333, 26.033333333333335",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Leivonm%C3%A4en_kansallispuisto",
+  "description": "Leivonmäki National Park, located in Joutsa, offers diverse terrain, beautiful landscapes, and trails of varying difficulty, making it an excellent destination for all hikers. Established in 2003, the park covers over 30 square kilometers and features ridges, lakes, and swamps.\n\nVisitors can explore nature trails, enjoy picking berries and mushrooms, and even mountain bike. The park's network of well-marked trails and rest stops makes it accessible for nature enthusiasts of all levels. Haapasuo in the southern part of the park is the most significant natural open swamp in southern Central Finland.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d6fe"
+  },
+  "name": "Lemmenjoen kansallispuisto",
+  "coordinates": {
+    "lat": 68.5,
+    "lon": 25.5,
+    "format": "decimal",
+    "original": "wgCoordinates: 68.5, 25.5",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Lemmenjoen_kansallispuisto",
+  "description": "Lemmenjoki National Park, located in Lapland, Northern Finland, is the largest national park in Finland. It was established in 1956 and has been expanded twice since. The park features a golden river valley, fell highlands, and old-growth forests.\n\nVisitors can experience the wilderness by taking a riverboat guided tour or hiking independently on marked trails. The area is also home to the Sámi people, and visitors can learn about their culture and heritage. Remnants of Stone Age, Sámi culture, and gold digging can be seen in the park.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d6ff"
+  },
+  "name": "Liesjärven kansallispuisto",
+  "coordinates": {
+    "lat": 60.68055556,
+    "lon": 23.85833333,
+    "format": "decimal",
+    "original": "map element: data-lat=60.68055556, data-lon=23.85833333",
+    "method": "method_6"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Liesj%C3%A4rven_kansallispuisto",
+  "description": "Liesjärvi National Park, located in the Tavastia Proper region of Finland, covers 22 square kilometers. Established in 1956, the park features old-growth forests, bright lingonberry heaths, eskers, and beautiful lake scenery. Although the lake itself isn't part of the park, its shoreline adds to the natural charm.\n\nKey attractions include the Kyynäränharju esker, the Ahonnokka old-growth forest, and the Korteniemi Heritage Farm. Visitors can explore versatile services, campfire sites, and reservable huts. With around 30 kilometers of trails, hikers can enjoy the diverse nature. Korteniemi Heritage Farm offers a glimpse into the past with its old buildings and traditional agricultural practices.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d700"
+  },
+  "name": "Linnansaaren kansallispuisto",
+  "coordinates": {
+    "lat": 62.109722222222224,
+    "lon": 28.519444444444442,
+    "format": "DMS",
+    "original": "62°06′35″N, 028°31′10″E",
+    "method": "method_1"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Linnansaaren_kansallispuisto",
+  "description": "Linnansaari National Park, located in the heart of Finnish Lakeland, is a paradise of green islands and open waters. It is known as one of the most important habitats for the Saimaa ringed seal, a critically endangered species. The park's landscape varies from deciduous forests and sun-kissed rocks to meadows.\n\nVisitors can explore the park by boat in the summer and, conditions permitting, by ice skating in the winter. Marked trails on the main island offer hikers a chance to experience the diverse nature, while the Linnansaari Croft showcases traditional slash-and-burn farming practices. The park teems with wildlife, including ospreys, and is a haven for nature enthusiasts.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d701"
+  },
+  "name": "Nuuksion kansallispuisto",
+  "coordinates": {
+    "lat": 60.31666666666667,
+    "lon": 24.466666666666665,
+    "format": "DMS",
+    "original": "60°19′00″N, 024°28′00″E",
+    "method": "method_1"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Nuuksion_kansallispuisto",
+  "description": "Nuuksio National Park, located near Helsinki, is a stunning natural area with diverse landscapes. It features forests, lakes, and rocky terrain, offering numerous hiking trails for all skill levels.\n\nThe park is known for its biodiversity, home to species like the Siberian flying squirrel. Visitors can enjoy activities like hiking, camping, canoeing, and biking. With its accessible trails and proximity to the capital, Nuuksio provides a perfect escape into Finnish nature. The Finnish Nature Centre Haltia, located nearby, offers exhibits about the park's flora and fauna.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d702"
+  },
+  "name": "Oulangan kansallispuisto",
+  "coordinates": {
+    "lat": 66.36666666666666,
+    "lon": 29.333333333333332,
+    "format": "decimal",
+    "original": "wgCoordinates: 66.36666666666666, 29.333333333333332",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Oulangan_kansallispuisto",
+  "description": "Oulanka National Park, located in Kuusamo and Salla, in northeastern Finland, is a diverse combination of northern, eastern, and southern nature. Its landscape is characterized by pine forests, river valleys with rapids and sandy banks, and extensive mires in the northern part. The park is known for its rich and varied flora and fauna, including several threatened species.\n\nEstablished in 1956, it covers an area of 270 square kilometers. The Karhunkierros Trail, one of Finland's most famous hiking trails, passes through Oulanka, showcasing the area's stunning scenery. Oulanka also cooperates with the Paanajärvi National Park in Russia. The park's symbol, the lady's slipper orchid, is an endangered species that is common in the park.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d703"
+  },
+  "name": "Pallas-Yllästunturin kansallispuisto",
+  "coordinates": {
+    "lat": 68.07,
+    "lon": 24.05,
+    "format": "decimal",
+    "original": "68.07°N, 24.05°E",
+    "method": "method_1"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Pallas-Yll%C3%A4stunturin_kansallispuisto",
+  "description": "Pallas-Yllästunturi National Park, located in Western Lapland, is one of Finland's largest national parks, covering 1,020 square kilometers. The landscape is dominated by a chain of fells stretching for about 100 kilometers and taiga forests of the northern coniferous zone.\n\nThe park's diverse nature includes mires, heath forests, old-growth forests, and open fells. The silhouette of the Pallas fells is considered one of Finland's national landscapes. It's a popular destination for hiking, with marked trails, and cross-country skiing in winter. Visitors can enjoy the pure air, wilderness, and views from the fell slopes. The park also offers opportunities for biking and snowshoeing.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d704"
+  },
+  "name": "Patvinsuon kansallispuisto",
+  "coordinates": {
+    "lat": 63.11138889,
+    "lon": 30.70444444,
+    "format": "decimal",
+    "original": "map element: data-lat=63.11138889, data-lon=30.70444444",
+    "method": "method_6"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Patvinsuon_kansallispuisto",
+  "description": "Patvinsuo National Park, established in 1982, is situated in the North Karelia region of Finland. It is known as one of the most remote national parks in the country, encompassing 105 square kilometers. It is a significant area for the preservation and study of Finnish swamp landscapes.\n\nThe park's gem is Lake Suomunjärvi, characterized by its beauty and extensive white sandy beaches stretching for 24 kilometers of its 34-kilometer shoreline. The area features diverse flora and fauna, including old-growth forests, bogs, and various bird species. Hiking trails, totaling 80 kilometers, including boardwalks, make the park accessible for exploration. Visitors can also observe wildlife like bears, wolves, lynx and beavers.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d705"
+  },
+  "name": "Perämeren kansallispuisto",
+  "coordinates": {
+    "lat": 65.61666666666666,
+    "lon": 24.316666666666666,
+    "format": "decimal",
+    "original": "wgCoordinates: 65.61666666666666, 24.316666666666666",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Per%C3%A4meren_kansallispuisto",
+  "description": "The Perämeri National Park is located in the outer archipelago of Kemi and Tornio, in the Bothnian Bay. Established in 1991, it covers 157 square kilometers, of which 2.5 square kilometers is land. The area is managed by Metsähallitus.\n\nThe islands in the national park have emerged due to land uplift, and the landscape is constantly changing. The first island rose from the sea about a thousand years ago. Today, there are around thirty shallow islands and islets, and new ones are continuously forming. Rocky islets, flowering coastal meadows, and juniper heaths provide nesting grounds for abundant birdlife.\n\nFor centuries, the area has been used for fishing and seal hunting. Fishermen populated the fishing villages of Perämeri National Park from the 16th to the early 20th century. Well-preserved fishing bases can be admired in Selkä-Sarvi and Pensaskari. The park is accessible by boat, but it is recommended only for experienced small boaters.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d706"
+  },
+  "name": "Petkeljärven kansallispuisto",
+  "coordinates": {
+    "lat": 62.583333333333336,
+    "lon": 31.183333333333334,
+    "format": "decimal",
+    "original": "wgCoordinates: 62.583333333333336, 31.183333333333334",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Petkelj%C3%A4rven_kansallispuisto",
+  "description": "Petkeljärvi National Park, located in Ilomantsi, North Karelia, is a small but beautiful park established in 1956. It is known for its esker ridges formed during the Ice Age and clear lakes, which create a wilderness-like atmosphere.\n\nThe park features pine-dominated forests, with some trees over 200 years old, and valuable eskers. Fortifications from the Continuation War, some of which have been renovated, add historical interest. Hiking is popular here, with trails that feel like walking through a postcard. The park also offers opportunities for canoeing and exploring Karelian culture. Petkeljärvi, along with Patvinsuo National Park, is part of the North Karelian Biosphere Reserve, recognized by UNESCO.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d707"
+  },
+  "name": "Puurijärven ja Isosuon kansallispuisto",
+  "coordinates": {
+    "lat": 61.24916666666667,
+    "lon": 22.566944444444445,
+    "format": "DMS",
+    "original": "61°14′57″N, 22°34′01″E",
+    "method": "method_1"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Puurij%C3%A4rven_ja_Isosuon_kansallispuisto",
+  "description": "Puurijärvi-Isosuo National Park is located in the regions of Pirkanmaa and Satakunta. It was established in 1993 and encompasses 27 square kilometers. The park protects wild marshlands and lakeshores, and is known as a bird paradise. Lake Puurijärvi is one of Finland's most abundant bird lakes. Together with Isosuo, it forms a diverse bird area with many natural habitats, providing living environments for wetland insects and birds. The park is easily accessible, with several bird watching towers. The Kärjenkallio bird watching tower is one of the largest in the Nordic countries. Visitors can also explore the park by canoeing along the Kokemäenjoki and Ala-Kauvatsanjoki rivers.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d708"
+  },
+  "name": "Pyhä-Häkin kansallispuisto",
+  "coordinates": {
+    "lat": 62.845555555555556,
+    "lon": 25.472499999999997,
+    "format": "DMS",
+    "original": "62°50′44″N, 025°28′21″E",
+    "method": "method_1"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Pyh%C3%A4-H%C3%A4kin_kansallispuisto",
+  "description": "Pyhä-Häkki National Park, located in Saarijärvi, Central Finland, is the oldest national park in the region, established in 1956. It is known for its old-growth forests, some trees dating back over 500 years. The park also encompasses large swamp areas, which can be explored via duckboards.\n\nWith over 20 kilometers of marked and easily accessible trails, it's ideal for day trips. These trails, ranging from 1.4 to 17 kilometers, wind through the ancient forests. The park is suitable for hiking and biking in the snow-free months, and in winter, a 1.5-kilometer ski track is available.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d709"
+  },
+  "name": "Pyhä-Luoston kansallispuisto",
+  "coordinates": {
+    "lat": 67.06638889,
+    "lon": 26.97361111,
+    "format": "decimal",
+    "original": "map element: data-lat=67.06638889, data-lon=26.97361111",
+    "method": "method_6"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Pyh%C3%A4-Luoston_kansallispuisto",
+  "description": "Pyhä-Luosto National Park, located in the heart of Lapland, is one of Finland's most magnificent national parks. It is easily accessible and offers stunning landscapes throughout the year. The park is formed by the union of Pyhätunturi National Park, established in 1938, and the Luosto area, joined in 2005.\n\nThe park features Finland's southernmost fell chain, serving conservation, local communities, hikers, and tourists alike. Ukko-Luosto rises in the northwest, while Pyhä fell stands in the southeast. Expansive trails connect these fells and their tourist centers.\n\nVisitors can explore old-growth pine forests, deep gorges, and open aapa mires. The area offers diverse activities such as hiking, nature photography, skiing, and snowshoeing. Isokuru, one of Lapland's most impressive gorges, is a must-see.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d70a"
+  },
+  "name": "Päijänteen kansallispuisto",
+  "coordinates": {
+    "lat": 61.36666666666667,
+    "lon": 25.45,
+    "format": "decimal",
+    "original": "wgCoordinates: 61.36666666666667, 25.45",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/P%C3%A4ij%C3%A4nteen_kansallispuisto",
+  "description": "Päijänne National Park is located in the southern part of Lake Päijänne, spread across the areas of Padasjoki, Asikkala and Sysmä. It was established in 1993 to protect the beautiful and valuable archipelago nature of Lake Päijänne. The park consists of around 50 undeveloped islands and islets.\n\nThe park is ideal for those who enjoy paddling, swimming with interesting islands and hidden lagoons. Hikers can also find trails, the most unique of which is the long Kelvenne island with campfire sites, forest trails and beaches. The park offers the feel of untouched wilderness.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d70b"
+  },
+  "name": "Repoveden kansallispuisto",
+  "coordinates": {
+    "lat": 61.18333333333333,
+    "lon": 26.883333333333333,
+    "format": "decimal",
+    "original": "wgCoordinates: 61.18333333333333, 26.883333333333333",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Repoveden_kansallispuisto",
+  "description": "Repovesi National Park, located northeast of Helsinki in the Kouvola and Mäntyharju region, is a pristine natural area. It showcases rugged forests interspersed with lakes and ponds, offering adventures for all skill levels. The park features hills and cliffs that challenge hikers and climbers, with highlights such as the Lapinsalmi bridge and the hand-operated Fox's Ferry. It's known for its diverse wildlife, including bears, deer, various bird species, and the Eurasian lynx. Visitors can enjoy hiking on marked trails, canoeing, and exploring observation towers, with options for day trips and weekend treks.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d70c"
+  },
+  "name": "Riisitunturin kansallispuisto",
+  "coordinates": {
+    "lat": 66.23333333333333,
+    "lon": 28.5,
+    "format": "decimal",
+    "original": "wgCoordinates: 66.23333333333333, 28.5",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Riisitunturin_kansallispuisto",
+  "description": "Riisitunturi National Park, located in Finnish Lapland in the municipality of Posio, is known for its hillside swamps and snowy trees. Established in 1982, the park covers 77 square kilometers in a mountainous area. During winter, the trees are covered with snow and ice, creating unique and majestic formations. In summer, the landscape is characterized by open fells, vast forests and hillside swamps. The park offers hiking trails, with the Riisitunturi Fell offering views over Lake Kitkajärvi and the surrounding wilderness. It's a popular destination for hikers, photographers, and nature lovers.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d70d"
+  },
+  "name": "Rokuan kansallispuisto",
+  "coordinates": {
+    "lat": 64.55611111111111,
+    "lon": 26.51,
+    "format": "DMS",
+    "original": "64°33′22″N, 026°30′36″E",
+    "method": "method_1"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Rokuan_kansallispuisto",
+  "description": "Rokua National Park, established in 1956, protects unique geological features and natural lichen heaths. It's one of Finland's oldest national parks. The park features diverse landscapes including dunes, kettle hole marshes, and clear lakes, remnants of the ice age.\n\nLocated on the southern end of a ridge, it showcases old pine forests and clean air. Marked trails and campfire sites are available for hikers. Visitors can stay at the Pitkäjärvi camping area or the Pookivaara wilderness hut. Rokua is considered Finland's most important barren heath protection area, offering a wonderful setting for outdoor activities.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d70e"
+  },
+  "name": "Saaristomeren kansallispuisto",
+  "coordinates": {
+    "lat": 59.916666666666664,
+    "lon": 21.7,
+    "format": "DMS",
+    "original": "59°55′00″N, 021°42′00″E",
+    "method": "method_1"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Saaristomeren_kansallispuisto",
+  "description": "The Archipelago National Park is located in the southwestern part of Finland, in the Archipelago Sea. It's known for having more islands and islets than any other archipelago in the world. Established in 1983, the park covers 500 square kilometers in the municipalities of Parainen and Kemiönsaari.\n\nThe park showcases a diverse landscape of bare rocky islets, wooded islands, and open sea. It's a realm of rugged beauty, offering a blend of wilderness and traditional cultural landscapes. The Archipelago National Park is a haven for wildlife, including various mammal and fish species. It's managed by Metsähallitus, like other national parks in Finland.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d70f"
+  },
+  "name": "Salamajärven kansallispuisto",
+  "coordinates": {
+    "lat": 63.266666666666666,
+    "lon": 24.75,
+    "format": "decimal",
+    "original": "wgCoordinates: 63.266666666666666, 24.75",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Salamaj%C3%A4rven_kansallispuisto",
+  "description": "Salamajärvi National Park is located in the regions of Central Ostrobothnia and Central Finland. It is known for its diverse and rugged landscape, particularly its extensive mires and wilderness character. The park offers visitors the chance to see Finnish forest reindeer.\n\nThere are approximately 60 km of marked trails within the park, some challenging due to rocky terrain, while others are accessible and suitable for children. Koirasalmi Nature Information Hut provides information and services to visitors.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d710"
+  },
+  "name": "Sallan kansallispuisto",
+  "coordinates": {
+    "lat": 66.78333333333333,
+    "lon": 28.866666666666667,
+    "format": "decimal",
+    "original": "wgCoordinates: 66.78333333333333, 28.866666666666667",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Sallan_kansallispuisto",
+  "description": "Salla National Park is located in the eastern part of Lapland, in the municipality of Salla. Established in 2022, the park covers an area of approximately 100 square kilometers. The landscape features old-growth forests, extensive aapa mires, wooded swamps, ridges, and landforms shaped by the Ice Age and erosion.\n\nIso Pyhätunturi and Pieni Pyhätunturi, also known as Sallatunturit, offer views of the surrounding fell landscape. Kaunisharju features natural forests of varying ages, with some spruce trees over 200 years old. The Julmoiva area boasts lush, leafy forests. The park has several trails suitable for day trips, and the national UKK hiking route passes through it. There are five lean-to shelters and two Lappish huts in the national park, with more in the surrounding area.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d711"
+  },
+  "name": "Seitsemisen kansallispuisto",
+  "coordinates": {
+    "lat": 61.916666666666664,
+    "lon": 23.433333333333334,
+    "format": "decimal",
+    "original": "wgCoordinates: 61.916666666666664, 23.433333333333334",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Seitsemisen_kansallispuisto",
+  "description": "Seitseminen National Park, located an hour's drive from Tampere, offers a genuine wilderness experience. The park features old-growth forests, quiet bogs, and esker landscapes. Visitors can explore Kovero, an old farm carefully restored to its 1930s style.\n\nSeitseminen has many trails for both experienced hikers and novice nature lovers. There are nature trails like Runopolku and Harjopolku, as well as the almost 30-kilometer-long Virkatie trail. Some partially accessible trails are suitable for strollers and wheelchairs. The Seitseminen Nature Center provides information, route recommendations, and a café-restaurant. There are campfire sites and cooking shelters but no waste recycling points. Camping areas are available, and accommodation can be found at the Nature Center or in rental cabins.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d712"
+  },
+  "name": "Selkämeren kansallispuisto",
+  "coordinates": {
+    "lat": 60.979,
+    "lon": 21.0986,
+    "format": "decimal",
+    "original": "map element: data-lat=60.979, data-lon=21.0986",
+    "method": "method_6"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Selk%C3%A4meren_kansallispuisto",
+  "description": "The Bothnian Sea National Park is located off the coast of southwestern Finland, stretching as a narrow zone for about 160 km from Merikarvia to Kustavi. Established in 2011, it protects the unique marine environment and archipelago.\n\nOver 90% of the park is water, showcasing the rugged outer archipelago's islets and islands. Visitors can explore former fortress islands and lighthouses. The park's nature is significantly impacted by land uplift. Short-term camping is allowed on the islands.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d713"
+  },
+  "name": "Sipoonkorven kansallispuisto",
+  "coordinates": {
+    "lat": 60.315,
+    "lon": 25.21888889,
+    "format": "decimal",
+    "original": "map element: data-lat=60.315, data-lon=25.21888889",
+    "method": "method_6"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Sipoonkorven_kansallispuisto",
+  "description": "Sipoonkorpi National Park, established in 2011, is located in the municipalities of Helsinki, Vantaa, and Sipoo. It offers a unique opportunity to experience diverse southern Finnish forest nature close to the capital region. The park features forests, swamps, cultural landscapes, and rugged cliffs.\n\nSpruce is the dominant tree species, and the varying terrain creates diverse forests. The Byabäcken river flows through the park, supporting a rich bird population. It's one of the most visited national parks in Finland, offering hiking trails and a chance to see wildlife like the lynx and eagle-owl. The park also has geological formations, including rock areas and glacial erratics.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d714"
+  },
+  "name": "Syötteen kansallispuisto",
+  "coordinates": {
+    "lat": 65.70138888888889,
+    "lon": 27.572222222222223,
+    "format": "DMS",
+    "original": "65°42′05″N, 027°34′20″E",
+    "method": "method_1"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Sy%C3%B6tteen_kansallispuisto",
+  "description": "Syöte National Park, established in 2000, protects valuable old-growth forests. It's located in Northern Ostrobothnia region. Endangered species like the Siberian flying squirrel, golden eagle, and large carnivores thrive there.\n\nThe park offers hundreds of kilometers of hiking trails for all seasons. The Syöte Visitor Centre provides maps and hiking tips. The trails allow visitors to explore the beautiful landscapes. There are also wilderness cafes during the hiking season. There are lean-to shelters where hikers can rest. During winter, there are designated snowshoeing and winter cycling routes as well.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d715"
+  },
+  "name": "Tammisaaren saariston kansallispuisto",
+  "coordinates": {
+    "lat": 59.82277778,
+    "lon": 23.45416667,
+    "format": "decimal",
+    "original": "map element: data-lat=59.82277778, data-lon=23.45416667",
+    "method": "method_6"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Tammisaaren_saariston_kansallispuisto",
+  "description": "Tammisaaren saariston kansallispuisto extends from the inner archipelago to the open sea. Nearly 90% of the park consists of water, and the park protects both the underwater and above-water nature. It's a popular destination for sailors, motorboaters, and kayakers in the summer. Divers can also find interesting sights almost year-round with varying seabed formations and shipwrecks.\n\nPopular destinations for hikers include the islands of Fladalandet, Modermagan, Älgö and Jussarö. The most significant attraction of the national park is its diverse nature. The large islands of the inner archipelago have wilderness lakes, lush forests, and rocky shores. In the outer archipelago, thousands of seabirds nest on the islets. You might even spot grey seals or ringed seals in the southern parts of the park.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d716"
+  },
+  "name": "Teijon kansallispuisto",
+  "coordinates": {
+    "lat": 60.223888888888894,
+    "lon": 22.960277777777776,
+    "format": "DMS",
+    "original": "60°13′26″N, 022°57′37″E",
+    "method": "method_1"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Teijon_kansallispuisto",
+  "description": "Teijo National Park combines peaceful nature with the modern life and handicraft traditions of historical ironworks villages. From the villages of Mathildedal, Teijo and Kirjakkala, you can directly access the park's diverse lake and swamp landscapes for hiking, paddling, fishing and cycling.\n\nThe trails in Teijo are suitable for day trips, but by combining them, you can hike for a whole weekend. The nature in Teijo is diverse, featuring forests, mires, and ancient shores. The park offers routes and activities for the whole family and good fishing opportunities. The park also has marked routes of about 50 kilometers in total.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d717"
+  },
+  "name": "Tiilikkajärven kansallispuisto",
+  "coordinates": {
+    "lat": 63.666666666666664,
+    "lon": 28.3,
+    "format": "decimal",
+    "original": "wgCoordinates: 63.666666666666664, 28.3",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Tiilikkaj%C3%A4rven_kansallispuisto",
+  "description": "Tiilikkajärvi National Park, established in 1982, is located in both Rautavaara, North Savonia and Sotkamo, Kainuu. It covers 71 square kilometers and is known for its diverse landscape of wilderness-like lake, river, and esker ecosystems, as well as aapa bogs surrounding Lake Tiilikka.\n\nThe park is a mixture of southern and northern natural features, creating an ecotone of forests and swamp types. It features the barren Lake Tiilikkajärvi with beaches and esker capes. Northern bird species like brambling and rustic bunting are common in the park's forests, while the yellow wagtail is the most common bird on the bogs.\n\nVisitors can explore approximately 27 km of marked trails. A notable site within the park is Venäjänhiekka (Russian Sands), a beach named after the Treaty of Teusina in 1595.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d718"
+  },
+  "name": "Torronsuon kansallispuisto",
+  "coordinates": {
+    "lat": 60.733333333333334,
+    "lon": 23.616666666666667,
+    "format": "decimal",
+    "original": "wgCoordinates: 60.733333333333334, 23.616666666666667",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Torronsuon_kansallispuisto",
+  "description": "Torronsuo National Park, located in the Tavastia Proper region of Finland, is known as the largest raised bog area in southern Finland. Established in 1990 to protect this near-natural swamp, it covers 25.5 square kilometers. The bog features a thick turf layer, up to 12 meters in some places, with its middle section rising above the edges.\n\nThis national park is home to diverse bird and butterfly species, including those typically found in northern regions but less common in southern Finland. Visitors can explore the area via duckboard trails, with routes of 1.5 km, 8.5 km and 10 km, starting from the Kiljamo parking area. There is also a nature tower offering excellent views. In winter, ski trails are maintained on the bog.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d719"
+  },
+  "name": "Urho Kekkosen kansallispuisto",
+  "coordinates": {
+    "lat": 68.33333333333333,
+    "lon": 28,
+    "format": "decimal",
+    "original": "wgCoordinates: 68.33333333333333, 28.0",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Urho_Kekkosen_kansallispuisto",
+  "description": "Urho Kekkonen National Park, established in 1983, is situated in the municipalities of Savukoski, Sodankylä, and Inari, in Lapland, Finland. With an area of 2,549 square kilometers, it's the second-largest national park in Finland. The park protects the forest, swamp, and fell nature of Forest Lapland and Perä-Pohjola, and secures the preconditions for natural means of livelihood, especially reindeer husbandry, and traditional hiking.\n\nThe area offers landscapes unknown to many Finns, featuring the breathtaking beauty of Paratiisikuru, the sacredness of Nattaset, and the winding Luiro river. Visitors can enjoy short day trips near Tankavaara, Kiilopää, or Saariselkä or seek deeper wilderness experiences in the eastern and southeastern parts of the park near Kemihaara.\n"
+},
+{
+  "_id": {
+    "$oid": "67eb8aabfcd6b6e00e14d71a"
+  },
+  "name": "Valkmusan kansallispuisto",
+  "coordinates": {
+    "lat": 60.56666666666667,
+    "lon": 26.733333333333334,
+    "format": "decimal",
+    "original": "wgCoordinates: 60.56666666666667, 26.733333333333334",
+    "method": "method_4"
+  },
+  "category": "national_park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Valkmusan_kansallispuisto",
+  "description": "Valkmusa National Park, established in 1996, is located in the Kymenlaakso region of Finland. Covering approximately 17 square kilometers, it's known for its diverse and extensive swamplands, a rare sight in southern Finland, resembling a \"piece of Lapland.\"\n\nThe park features around 30 different types of bogs, fens, and swamps. Marked causeway routes and trails make the swamp accessible, including a 2.3 km loop trail to the birdwatching tower and a 2 km trail to Moronvuori day hut.\n\nValkmusa is also a haven for birdwatchers, with a mix of southern and northern species, serving as an important resting place for migratory birds. The area also boasts diverse butterfly species, including endangered ones.\n"
+}]
