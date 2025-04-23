@@ -1,0 +1,1219 @@
+[{
+  "_id": {
+    "$oid": "6800a44c0670089e3180113e"
+  },
+  "name": "Aimo Tukiaisen puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.151666666666664,
+    "lon": 24.888333333333332,
+    "format": "decimal",
+    "original": "wgCoordinates: 60.151666666666664, 24.888333333333332",
+    "method": "method_4"
+  },
+  "description": "Aimo Tukiainen Park is located in Vattuniemi, Lauttasaari, Helsinki. The park is named after the sculptor Aimo Tukiainen. It was renovated in 2016–2017.\n\nThe park features a protected earthwork from the Crimean War. To the east of the park is the home port of HSK (Helsinki Sailing Club). The park also includes a playground and an old linden alley, which has been preserved and renovated as needed. The total area of Aimo Tukiainen Park is 8228 m2. In the northern part, the park borders Veneentekijänkuja and an LPA area, to the west Veneentekijäntie, to the south apartment buildings and Vattuniemen puistotie, and to the east a light traffic route Veneentekijänkaari and the sea.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Aimo_Tukiaisen_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180113f"
+  },
+  "name": "Alli Tryggin puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.18294,
+    "lon": 24.95616,
+    "format": "decimal",
+    "original": "60.18294°N, 24.95616°E",
+    "method": "method_1"
+  },
+  "description": "Alli Tryggin puisto is a park located in the Torkkelinmäki neighborhood of Kallio, Helsinki. Established in 1939, the park covers an area of approximately 0.6 hectares. It is built on a slope rising northwest from Hämeentie towards Porthaninkatu. Pengerkatu street divides the rectangular park into two roughly equal parts. The park serves as a green corridor, bordered by apartment buildings built in the early 20th century.\n\nThe park gets direct sunlight, especially in the mornings and evenings during the summer. Between Hämeentie and Pengerkatu, there is a pedestrian axis ending at a monument. Between Pengerkatu and Porthaninkatu, the park consists of a steep grassy slope. Tree species in Alli Tryggin puisto include linden, Swedish whitebeam, maple, and elm. There is also an enclosure for guide dogs in the park.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Alli_Tryggin_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801140"
+  },
+  "name": "Alppipuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.19011111111111,
+    "lon": 24.93611111111111,
+    "format": "DMS",
+    "original": "60°11′24.4″N, 024°56′10.0″E",
+    "method": "method_1"
+  },
+  "description": "Alppipuisto is a park located in Helsinki. It is a popular recreational area known for its lawns, ponds with fountains, a small dance stage, a viewing terrace, cherry trees, and rugged rock formations. The park's history dates back to the 1800s.\n\nThe park is characterized by a landscape style from the early 1900s, featuring duck ponds and winding paths. Cliffs rise up to 30 meters high, adding to the scenic beauty. There's also a flat valley area nestled among the cliffs which makes it perfect for leisure and games. In the middle of Alppipuisto, on the high Vesilinnanmäki, there used to be a summer theater and a popular dance stage. The Linnanmäki amusement park was established in 1950, taking up a portion of Alppipuisto.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Alppipuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801141"
+  },
+  "name": "Asentajanpuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Asentajanpuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801142"
+  },
+  "name": "Dallapénpuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.189722222222215,
+    "lon": 24.958333333333332,
+    "format": "DMS",
+    "original": "60°11′23″N, 024°57′30″E",
+    "method": "method_1"
+  },
+  "description": "Dallapénpuisto is a park located in the Vallila district of Helsinki, between Aleksis Kiven katu and Teollisuuskatu streets. It's named after the famous Dallapé orchestra, founded in the 1920s, as many of its members lived near Aleksis Kiven katu in Vallila and Kallio.\n\nThe park was built on the site of a former railway yard, where transports to Malmi cemetery were made. Today, the grassy slopes of the park are a popular place for sunbathers and picnics during summer days. It is a beloved recreational spot for the residents of the area. In the 1800s, the area was still part of Lake Sörnäinen.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Dallapénpuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801143"
+  },
+  "name": "Eläintarha",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.191191,
+    "lon": 24.930126,
+    "format": "decimal",
+    "original": "60.191191°N, 24.930126°E",
+    "method": "method_1"
+  },
+  "description": "Eläintarha is a large park located in central Helsinki. It acts as a divider between the Töölö district to the west, and the Hakaniemi and Kallio districts to the east. The park features two bays of the Baltic Sea, Töölönlahti and Eläintarhanlahti, bisected by railroad tracks leading from Helsinki Central Station.\n\nWithin Eläintarha park is the Eläintarha sports field, completed in 1910. It has served as a venue for significant athletic events, including Finland's first world records in athletics.\n\nVilla Eläintarha, situated by Töölönlahti bay, is an artist residency in a wooden villa. It provides living facilities for artists working in Helsinki and is near the city center, while still maintaining a tranquil atmosphere.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Eläintarha_(Helsinki)"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801144"
+  },
+  "name": "Esplanadin puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.1675,
+    "lon": 24.947777777777777,
+    "format": "DMS",
+    "original": "60°10′03″N, 24°56′52″E",
+    "method": "method_1"
+  },
+  "description": "Esplanadin puisto, often called Espa, is Finland's most famous park and the green heart of Helsinki. It's a popular place to see and be seen, relax, listen to music, watch performances, and enjoy picnics. Carl Ludvig Engel, Helsinki's head architect, outlined the park's location.\n\nThe park's design represents an architectural style with straight tree lines and plantings. Rows of linden trees border the park, creating a hall-like space. In the middle of the park is a statue of national poet Johan Ludvig Runeberg. At the Market Square end of the park is one of Helsinki's historical restaurants, Restaurant Kappeli. Opposite Kappeli is the Espan lava, built in the 1930s, which hosts music performances.",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Esplanadin_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801145"
+  },
+  "name": "Haagan Alppiruusupuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.2219,
+    "lon": 24.8932,
+    "format": "decimal",
+    "original": "60.2219°N, 24.8932°E",
+    "method": "method_1"
+  },
+  "description": "Haaga Rhododendron Park is a public park in the Haaga district of Helsinki, Finland. It features various rhododendron varieties and is a popular attraction.\n\nOriginally, it served as a breeding and research site. The first rhododendrons were planted in 1975 as part of the University of Helsinki's breeding program. Wooden walkways were built to allow visitors to explore without disturbing the plants. Initially, 3,000 specimens, bred from Japanese Rhododendron, were planted to adapt to the Finnish climate. In 1996, it expanded with 1,500 azalea specimens from Japan. The park has produced eight cultivars for commercial use, named after the park, university, and people involved. It's most visited in early summer during the blooming season.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Haagan_Alppiruusupuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801146"
+  },
+  "name": "Helsingin keskuspuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.223055555555554,
+    "lon": 24.91916666666667,
+    "format": "DMS",
+    "original": "60°13′23″N, 024°55′09″E",
+    "method": "method_1"
+  },
+  "description": "Helsingin Keskuspuisto, or Central Park, is a large green area in Helsinki, Finland. The park is about 10 square kilometers in size and stretches 10 kilometers from Töölönlahti Bay to the border of Helsinki and Vantaa. It's not a gardened park, but a lightly managed woodland with gravel paths.\n\nThe park offers diverse flora and fauna and serves as a recreational area for the city. It has trails for walking, cycling, and skiing, and also sports facilities. The park's origins trace back to 1911, with a master plan ratified in 1978. Today, it's a popular outdoor area for locals and visitors alike.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Helsingin_keskuspuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801147"
+  },
+  "name": "Hesperian esplanadi",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.177,
+    "lon": 24.92338888888889,
+    "format": "DMS",
+    "original": "60°10′37.2″N, 024°55′24.2″E",
+    "method": "method_1"
+  },
+  "description": "Hesperian Esplanadi is an esplanade that divides the Töölö district into two parts, Etu-Töölö and Taka-Töölö, situated between Mannerheimintie and Taivallahti Bay. The esplanade is known for its diverse sections featuring different plants. A prominent feature is its horse chestnut alley, considered the largest of its kind in Finland and possibly Europe.\n\nOriginally, the area was a street in the 1700s and later a road leading to a poorhouse. In the early 1900s, it housed villas and vegetable gardens tended by Russian gardeners. The current design was part of a city plan approved in 1906. Today, Hesperian Esplanadi is a celebrated green space.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Hesperian_esplanadi"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801148"
+  },
+  "name": "Hesperianpuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.179944444444445,
+    "lon": 24.93025,
+    "format": "DMS",
+    "original": "60°10′47.8″N, 024°55′48.9″E",
+    "method": "method_1"
+  },
+  "description": "Hesperianpuisto is a park located on the western shore of Töölönlahti Bay in Helsinki. It's situated between Mannerheimintie street, Finlandia Hall, and the Finnish National Opera. The park offers a pleasant environment for outdoor activities, with a 2.2 km route around the bay designed to be accessible for everyone.\n\nIn the 1800s, the area was home to the Töölö farmlands, and later a villa and restaurant called Hesperia. Originally, there were plans to construct office buildings, but citizens opposed this, leading to the area becoming a park in 1985. The park features walking routes, grassy areas, and is a popular spot for outdoor exercise. You can find monuments like the statue of Larin Paraske and the Urho Kekkonen Memorial within the park.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Hesperianpuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801149"
+  },
+  "name": "Hyväntoivonpuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.15689722222222,
+    "lon": 24.916619444444443,
+    "format": "DMS",
+    "original": "60°09′24.83″N, 24°54′59.83″E",
+    "method": "method_1"
+  },
+  "description": "Hyväntoivonpuisto is a public park located in Jätkäsaari, Helsinki. It's still under construction, but when completed, it will be about one kilometer long, stretching from Välimerenkatu to the Melkinlaituri seashore. The park, 88 meters wide, is as wide as Esplanadi Park in the city center.\n\nRunning between residential buildings, it serves as a vital route for cyclists, with paths leading to the buildings' courtyards. The park features urban squares, playgrounds, recreational areas, sports fields, a dog park, and a kindergarten yard. Hundreds of trees have been planted, aiming to create a \"park forest\". In 2020, it won the \"Environmental Structure of the Year\" award, described as \"the heart of Jätkäsaari and the residents' living room, full of life.\"\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Hyväntoivonpuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180114a"
+  },
+  "name": "Ilolanpuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Ilolanpuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180114b"
+  },
+  "name": "Josafatin kalliot",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.1868,
+    "lon": 24.9449,
+    "format": "decimal",
+    "original": "60.1868°N, 24.9449°E",
+    "method": "method_1"
+  },
+  "description": "Josafatin kalliot is a rocky green area located in Harju, Helsinki, north of Helsinginkatu street. In the first town plan of the area from 1901, the current park area was marked as a building block, but despite the plan, nothing was built in this block for decades.\n\nThe area became famous in the 1970s when Urheiluhallit Oy planned to expand the sports hall in the adjacent block to the rock area. The Josafatin puistoliike (park movement) was founded to oppose the project.\n\nThe valley, where Helsinginkatu now runs and whose northern slope is formed by Josafatin kalliot, was called Josafatsdal (Josafat Valley) in the 19th century. The name of the valley, and thus also of the rocks, comes from the biblical Valley of Josafat.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Josafatin_kalliot"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180114c"
+  },
+  "name": "Kaisaniemen puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.17472222222222,
+    "lon": 24.945833333333333,
+    "format": "DMS",
+    "original": "60°10′29″N, 024°56′45″E",
+    "method": "method_1"
+  },
+  "description": "Kaisaniemi Park is Helsinki's oldest urban park, established for public use in 1812. It's conveniently located near the city center, behind the Railway Station and the National Theatre. The park was named after Catharina \"Cajsa\" Wahllund, who managed the Kaisaniemi restaurant.\n\nIt's a popular venue for various events, including outdoor concerts and festivals. The park also offers recreational facilities such as tennis, basketball, and football fields. Situated in the northern part of the park is the Kaisaniemi Botanic Garden, managed by the University of Helsinki, featuring diverse plant collections and greenhouses. However, in recent years, the park has faced challenges with safety and security, particularly at night.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Kaisaniemen_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180114d"
+  },
+  "name": "Kaivantopuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.25333333333333,
+    "lon": 25.068666666666665,
+    "format": "decimal",
+    "original": "wgCoordinates: 60.25333333333333, 25.068666666666665",
+    "method": "method_4"
+  },
+  "description": "Kaivantopuisto is a park located in Helsinki, specifically in the Jakomäki area. It's known for having some World War I fortifications. The park provides recreational space for the surrounding residential areas. It's situated in a neighborhood in the northeastern part of Helsinki, near the Helsinki–Lahti Highway and Helsinki–Malmi Airport.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Kaivantopuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180114e"
+  },
+  "name": "Kaivopuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.15694444444444,
+    "lon": 24.956944444444442,
+    "format": "DMS",
+    "original": "60°09′25″N, 024°57′25″E",
+    "method": "method_1"
+  },
+  "description": "Kaivopuisto is one of the oldest and most well-known parks in Helsinki, Finland. Located in the southern part of the city center, right at the tip of the Helsinki peninsula by the sea, it's a popular recreational area. In the 19th century, the area was home to a spa and well facility.\n\nToday, Kaivopuisto offers a variety of activities and attractions. There's a playground for children, a dog park, and a chess-playing area. In the winter, its gentle slopes are popular for sledding. The park also has the Ursan tähtitorni (observatory). From the shore, you can catch a boat to nearby islands such as Särkkä, Harakka and Uunisaari. Several cafes and restaurants can be found by the beach and on the nearby islands.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Kaivopuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180114f"
+  },
+  "name": "Kalasatamanpuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.184475,
+    "lon": 24.976758333333333,
+    "format": "DMS",
+    "original": "60°11′04.11″N, 24°58′36.33″E",
+    "method": "method_1"
+  },
+  "description": "Kalasatamanpuisto is a park located in the Kalasatama district. It serves as a recreational area with maritime influences, offering diverse leisure activities. Next to the park, you can find a skate park, a playground, and a large lawn. The park is situated near Suvilahti, before the Isoisän silta bridge and Mustikkamaa island, and is easily accessible from the Kalasatama metro station.\n\nThe park reflects Kalasatama's history as an archipelago and industrial port, aiming to create a unique identity for the area through landscape architecture and art. The park includes a wooden observation deck with views, coastal vegetation, and a water runoff area. A central feature is an ice-skating field used by the adjacent school. An event square at the park's south end incorporates old harbor elements and is accompanied by a playground, fitness area and grills.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Kalasatamanpuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801150"
+  },
+  "name": "Karhupuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.18388888888889,
+    "lon": 24.952222222222222,
+    "format": "DMS",
+    "original": "60°11′02″N, 024°57′08″E",
+    "method": "method_1"
+  },
+  "description": "Karhupuisto, also known as Bear Park, is a triangular park located in the Kallio district of Helsinki. Situated next to the Kallio Library and Kallio Church, it's a popular green space in the area.\n\nThe park gets its name from the red granite statue \"Mesikämmen muurahaispesällä\" (The Bear on the Anthill) by Jussi Mäntynen, which depicts a bear on an anthill. This sculpture has been in the park since 1931. In summertime the park is known for its colorful flower arrangements. Karhupuisto also has two kiosks, one of them is summer cafe and another one sells barbeque. There is also a sand field suitable for playing petanque.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Karhupuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801151"
+  },
+  "name": "Katri Valan puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.18647,
+    "lon": 24.9642,
+    "format": "decimal",
+    "original": "60.18647°N, 24.96420°E",
+    "method": "method_1"
+  },
+  "description": "Katri Vala Park is located in Sörnäinen, Helsinki. It was named after the poet Katri Vala in 1953. Vala lived near the park with her husband in the 1930s.\n\nThe park has a memorial plaque for Katri Vala, and her ashes are buried in the park's stone wall. The park is currently undergoing renovations which started in late 2024 and will continue into 2025. The renovations include a new playground with a climbing structure and a fitness area. The goal is to make the park more attractive and peaceful for families and those who exercise.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Katri_Valan_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801152"
+  },
+  "name": "Kirsikkapuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.19661111111111,
+    "lon": 25.049111111111113,
+    "format": "DMS",
+    "original": "60°11′47.8″N, 025°02′56.8″E",
+    "method": "method_1"
+  },
+  "description": "Kirsikkapuisto, or Cherry Tree Park, is located in the Roihuvuori district of Helsinki. Opened in 2007, it is part of the larger Roihuvuori green area. The park is home to over 150 cherry trees, gifted by the Japanese community in Helsinki as a thank you for the city.\n\nEvery spring, the park bursts into a spectacle of pink blossoms. During this time, the Japanese festival of Hanami is celebrated. People gather to picnic, enjoy music and performances, and admire the fleeting beauty of the cherry blossoms. The park also includes a fenced dog park. Although some wooden statues formerly in the dog park are being removed, Kirsikkapuisto remains a popular place for both locals and tourists.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Kirsikkapuisto_(Helsinki)"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801153"
+  },
+  "name": "Kirurgisen sairaalan veistospuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.1608,
+    "lon": 24.9492,
+    "format": "decimal",
+    "original": "60.1608°N, 24.9492°E",
+    "method": "method_1"
+  },
+  "description": "The Kirurgisen sairaalan veistospuisto, or Surgical Hospital Sculpture Park, is located in Ullanlinna, Helsinki, south of the Surgical Hospital area, near the intersection of Kasarmikatu and Tähtitorninkatu. The park was inaugurated on June 6, 2022.\n\nThe sculpture park features works by top Finnish artists, with sculptures dating from 1983 to 2021. The oldest is Voitto Kantokorpi's \"Kunnianosoitus\" (Homage) and the newest is Matti Peltokangas' \"La Strada\". Information about the works in the park is engraved in granite near them. The works were moved from the Orton Hospital sculpture park in Ruskeasuo after it was closed due to additional construction. The park is open to everyone and the works can be viewed free of charge.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Kirurgisen_sairaalan_veistospuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801154"
+  },
+  "name": "Kolmikulma",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.165,
+    "lon": 24.943333333333335,
+    "format": "DMS",
+    "original": "60°09′54″N, 024°56′36″E",
+    "method": "method_1"
+  },
+  "description": "Kolmikulma, also known as Diana Park, is a small, triangular park located in the heart of Helsinki, Finland. It's situated in the Kaartinkaupunki district and bordered by Yrjönkatu, Uudenmaankatu, and Erottajankatu streets. The park's name, \"Kolmikulma,\" means \"Triangle\" in Finnish, reflecting its shape.\n\nA notable feature of the park is the sculpture \"Tellervo, Tapio's Daughter\" by Yrjö Liipola, depicting the goddess of the forest, Tellervo, throwing a spear. This statue is also referred to as Diana, after the Roman goddess, hence the park's alternative name. Kolmikulma provides a green space in the city center, offering a spot for relaxation and a connection to Finnish mythology. The park was renovated in 2006 and 2007.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Kolmikulma_(Helsinki)"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801155"
+  },
+  "name": "Konepajanpuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "address": "Vallila, Helsinki",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Konepajanpuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801156"
+  },
+  "name": "Kontulan kelkkapuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Kontulan_kelkkapuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801157"
+  },
+  "name": "Kumtähden kenttä",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.20413333333334,
+    "lon": 24.967302777777775,
+    "format": "DMS",
+    "original": "60°12′14.88″N, 24°58′2.29″E",
+    "method": "method_1"
+  },
+  "description": "Kumtähden kenttä is a small park in Toukola, Helsinki. It's located between Hämeentie and Kustaa Vaasan tie, about three kilometers northeast of the city center.\n\nIn the 1800s, the field was outside the city, where students often celebrated the spring festival on Flora Day, May 13th. The most famous celebration was in 1848 when the Finnish national anthem, \"Maamme,\" was performed publicly for the first time. A monument commemorating this event was erected in 1948.\n\nTraditional park trees like lindens, maples and oaks can be found there. The park also features magnificent fir trees, and two large old poplars stand in the center.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Kumtähden_kenttä"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801158"
+  },
+  "name": "Lapinlahden puistikko",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.1662,
+    "lon": 24.9314,
+    "format": "decimal",
+    "original": "60.1662°N, 24.9314°E",
+    "method": "method_1"
+  },
+  "description": "Lapinlahden puistikko is a small, triangular park located in Helsinki, Finland, between Lapinlahdenkatu, Eerikinkatu, and Albertinkatu streets. In 2001, a statue by Latvian artist Oskars Mikans was erected in the park. The statue, titled \"Man Emerging from a Garbage Can,\" depicts Arvo Parkkila. The park provides a green space in the Kamppi neighborhood of Helsinki.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Lapinlahden_puistikko"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801159"
+  },
+  "name": "Lastenlehto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.16638888888889,
+    "lon": 24.928055555555556,
+    "format": "DMS",
+    "original": "60°09′59″N, 024°55′41″E",
+    "method": "method_1"
+  },
+  "description": "Lastenlehto, also known as Kolmiopuisto (Triangle Park), is a triangular park in the Kamppi district of Helsinki. Bounded by Lapinlahdenkatu, Lapinrinne and Ruoholahdenkatu streets, its name originates from a former orphanage nearby. The park features a children's playground and a bronze replica of Emil Cedercreutz's sculpture \"Arcum Tendit Apollo\".\n\nThe area of Lastenlehto used to be part of a block, and the park in its current size was established in the 1970s. A maintenance tunnel construction in the 2000s led to a redesign, giving it its current appearance. You can also find Lastenlehto / Tekonurmikenttä (artificial turf field), which functions as a ball games court.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Lastenlehto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180115a"
+  },
+  "name": "Leikkipuisto Tuhkimo",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.198055555555555,
+    "lon": 25.052777777777777,
+    "format": "DMS",
+    "original": "60°11′53″N, 25°03′10″E",
+    "method": "method_1"
+  },
+  "description": "Leikkipuisto Tuhkimo, also known as Playground Tuhkimo, is a public park located in the Roihuvuori district of Helsinki. It's a free park open to everyone and has been a popular recreational spot for families.\n\nThe playground is situated in a sheltered area surrounded by forest, specifically in a valley between metamorphic rocks. The park's name, Tuhkimo, comes from the Finnish name for Cinderella. In 2024, a skate park was added to the playground, built in the former paddling pool area, featuring skate elements such as a \"Cinderella's shoe\". The playground also has playground equipment, games, swings and slides.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Leikkipuisto_Tuhkimo"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180115b"
+  },
+  "name": "Lenininpuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.19000555555555,
+    "lon": 24.942977777777777,
+    "format": "DMS",
+    "original": "60°11′24.02″N, 24°56′34.72″E",
+    "method": "method_1"
+  },
+  "description": "Lenininpuisto, also known as Lenin Park, is located next to Linnanmäki in Helsinki. The small park boasts a diverse collection of plants originating from a garden exhibition held in 1961-62. It's a popular spot for sunbathing and picnics, valued for its tranquility.\n\nIn the 1960s, locals knew it as the \"flower park.\" It received its current name in 1970 to commemorate the 100th anniversary of Vladimir Ilyich Lenin's birth, when it was separated from Alppipuisto. The park features a small stream flowing into a basin and paths made of slate slabs.\n\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Lenininpuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180115c"
+  },
+  "name": "Leppisaaren puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.19,
+    "lon": 25.06,
+    "format": "decimal",
+    "original": "geo microformat: 60.19; 25.06",
+    "method": "method_5"
+  },
+  "description": "Leppisaaren puisto, located in Tammisalo, Helsinki, is a park where Elisa Oyj has been granted permission to place private structures in a public area. It appears to be near Vanhaväylä 1-5c. While details on specific features are scarce in the search results, the park is administered by the City of Helsinki. Additional research might reveal more about its amenities, landscape design, or historical significance as well as specific features of the park.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Leppisaaren_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180115d"
+  },
+  "name": "Liisanpuistikko",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.17382,
+    "lon": 24.96055,
+    "format": "decimal",
+    "original": "60.17382°N, 24.96055°E",
+    "method": "method_1"
+  },
+  "description": "Liisanpuistikko is one of the oldest parks in Helsinki, located in the Kruununhaka district. For over 180 years, this green space, adorned with flowers and plants, has served as an important area for local residents. Originally known as Elisabetstorget, it was named after Empress Elisabeth, the wife of Tsar Alexander I.\n\nIn the 1870s, city engineer C.E. Reuter designed it as an oval-shaped scenic park with a network of paths, trees, and shaped lawns. Renovated in the early 2000s and reopened in 2009, the park's oval shape was restored, and it received a makeover that also considered children's needs. Within the park is a monument commemorating those who fled Helsinki during the Finnish Civil War and perished on the ice near Pellinge.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Liisanpuistikko"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180115e"
+  },
+  "name": "Makasiinipuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.174641666666666,
+    "lon": 24.937183333333333,
+    "format": "DMS",
+    "original": "60°10′28.71″N, 24°56′13.86″E",
+    "method": "method_1"
+  },
+  "description": "Makasiinipuisto is a public park located in the Kluuvi district in central Helsinki. It sits between Kansalaistori square, the Helsinki Music Centre, Töölönlahdenkatu street, and the Helsinki Central Library Oodi. North of Töölönlahdenkatu street, the park area continues as the Töölönlahti park towards the Töölönlahti bay.\n\nThe park was opened in June 2019 on the former site of the Töölö freight station, after the last remaining part of the VR warehouses was demolished in 2018. Makasiinipuisto includes a work of environmental art called \"Massa\" by Akseli Leinonen, intended as a memorial to the warehouses. In addition to the art installation, the park features a climbing frame and a sand-covered artificial turf playing field suitable for basketball, football, and floorball.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Makasiinipuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180115f"
+  },
+  "name": "Maria Hammarénin mäki",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.19611111111111,
+    "lon": 25.051666666666666,
+    "format": "DMS",
+    "original": "60°11′46″N, 25°03′06″E",
+    "method": "method_1"
+  },
+  "description": "Maria Hammarénin mäki, also known as Tuhkimontien puisto, is a park located in Roihuvuori, Helsinki. It is separate from the larger Roihuvuori area parks to the west. The park is named after Maria Hammarén, who lived in the area with her family for nearly a century.\n\nThe area was historically a farm belonging to the Herttoniemi manor and later to the City of Helsinki. In May 2005, a memorial was unveiled to commemorate Maria Hammarén. The park is located at Tuhkimontie 8-10.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Maria_Hammarénin_mäki"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801160"
+  },
+  "name": "Matti Heleniuksen puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.18394,
+    "lon": 24.95385,
+    "format": "decimal",
+    "original": "60.18394°N, 24.95385°E",
+    "method": "method_1"
+  },
+  "description": "Matti Heleniuksen puisto is located in the Kallio district of Helsinki. The park is situated on a northeastern slope behind the Kallio Library. It is bordered by Fleminginkatu street to the west, Agricolankatu street to the north, Porthaninkatu street to the east, and the library to the south.\n\nThe park covers an area of 0.4 hectares and was named in 1963 after Matti Helenius-Seppälä, a Finnish temperance activist. The park has a natural feel, featuring exposed rock surfaces and unpaved paths. Wooden houses once stood in the area, but they were demolished after the Kallio Library was completed in 1912. A temporary playground was built in the 1930s. A black chain railing, supported by granite blocks, was installed between Fleminginkatu street and the park and is still there today. The park was extensively renovated in the 1960s.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Matti_Heleniuksen_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801161"
+  },
+  "name": "Merikylpylän puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.155277777777776,
+    "lon": 24.874444444444446,
+    "format": "DMS",
+    "original": "60°09′19″N, 24°52′28″E",
+    "method": "method_1"
+  },
+  "description": "Merikylpylän puisto is a park located in Lauttasaari, Helsinki, on the shore of Hevosenkenkälahti. The park is situated on the border of the Myllykallio and Vattuniemi sub-areas.\n\nThe park extends to the southern tip of the island, forming an unbroken park area along the shore. A pedestrian bridge connects Merikylpylän puisto to Hevosenkenkäpuisto, together forming the Lauttasaari local exercise area, Nuori Suomi -puisto (Young Finland Park).\n\nMerikylpylän puisto also has one of Lauttasaari's two beaches, officially named Lauttasaari beach but commonly known as Kasinonranta. The name comes from the Lauttasaari Casino, a wooden summer restaurant built in the area in 1913.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Merikylpylän_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801162"
+  },
+  "name": "Meripuisto)",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.15496666666667,
+    "lon": 24.945408333333333,
+    "format": "DMS",
+    "original": "60°9′17.88″N, 24°56′43.47″E",
+    "method": "method_1"
+  },
+  "description": "Meripuisto is a park located in southern Helsinki. It's divided into functional areas and open park space. On the Merikatu side, there are charming seating areas adorned with peonies, lilies, and blooming cherry trees. A popular playground within the park features maritime-themed equipment. The park provides a sea-side recreational area for locals and tourists alike. In August 2025, Meripuisto will host \"A la Park\", a festival that combines music, food and drinks.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Meripuisto_(Helsinki)"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801163"
+  },
+  "name": "Merisatama",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Merisatama"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801164"
+  },
+  "name": "Micropolis",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.19179444444444,
+    "lon": 24.928427777777777,
+    "format": "DMS",
+    "original": "60°11′30.46″N, 24°55′42.34″E",
+    "method": "method_1"
+  },
+  "description": "Micropolis is a skateboard park located in Helsinki, Finland, specifically in the Eläintarha Park area. Situated between the districts of Töölö, Hakaniemi, and Kallio, it's near the Olympic Stadium and other sports facilities. Designed by landscape architect Janne Saario, the park features a concrete skate area with street-style obstacles and a bowl, blending seamlessly into the natural park environment.\n\nMicropolis is known for its durable construction using materials like concrete and stone, avoiding the typical plywood seen in other skateparks. It is designed to minimize environmental impact and maximize longevity. The park is a popular spot for skateboarders of all ages and skill levels, and also hosts events like the Finnish Skateboarding Championship.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Micropolis"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801165"
+  },
+  "name": "Munkinpuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.200833333333335,
+    "lon": 24.86916666666667,
+    "format": "DMS",
+    "original": "60°12′03″N, 024°52′09″E",
+    "method": "method_1"
+  },
+  "description": "Munkinpuisto is a versatile park actively used by local residents, a daycare center, and cyclists traveling between Espoo and Helsinki. It features renovated ponds for stormwater management, an improved playground, a dog park, and a frisbee golf course with enhanced safety. The park also includes a parkour area and a section for roller skating that doubles as a wading pool in the summer with a hand-operated water pump.\n\nThe park's vegetation is diverse, ranging from natural forests in the west and south to a large meadow in the center and a fully constructed park area near the playground. Paved and gravel paths wind through the park, and the Sri Chinmoy Marathon Team organizes 2-mile races there. Munkinpuisto also has a soccer field and bike path.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Munkinpuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801166"
+  },
+  "name": "Mustikkamaa",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.18055555555555,
+    "lon": 24.991666666666667,
+    "format": "DMS",
+    "original": "60°10′50″N, 24°59′30″E",
+    "method": "method_1"
+  },
+  "description": "Mustikkamaa is an island located about 5 kilometers east of Helsinki city center. It's a popular recreational area known as \"blueberry land\". You can get there by bridge from Kulosaari or by a pedestrian and bicycle bridge from Kalasatama. It's also a route to Korkeasaari Zoo.\n\nThe island offers various outdoor activities year-round, including jogging and skiing tracks, beaches, and playgrounds. There are heath forests and seascapes to enjoy, and even free tennis courts. In the summer, a floating water park provides additional fun. Mustikkamaa is also known for its summer theater and Midsummer dances.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Mustikkamaa"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801167"
+  },
+  "name": "Mäntymäki",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.183611111111105,
+    "lon": 24.929444444444446,
+    "format": "DMS",
+    "original": "60°11′01″N, 24°55′46″E",
+    "method": "method_1"
+  },
+  "description": "Mäntymäki is a rocky and forested hill located in Helsinki, near Töölönlahti bay. Helsinginkatu street runs along its south and east sides, and Mäntymäentie road is to the north. To the west of the hill is a large open field called Mäntymäen kenttä.\n\nMäntymäki has been a gathering place for the labor movement and social democrats since the early 20th century, and May Day celebrations have been held there. During the Finnish Civil War in 1918, a cemetery was established on Mäntymäki for Red Guard soldiers who fell in battle. However, the remains were later moved to a mass grave in Malmi Cemetery.\n\nMäntymäen kenttä, formerly known as Messukenttä, is a large open area to the west of Mäntymäki, between the hill and Töölö Sports Hall. Paavo Nurmi road, leading to the Olympic Stadium, runs along its western edge. The field is used as a parking area for nearby public buildings such as the Stadium, Töölö Sports Hall, and the Opera House. Occasionally, public events like circuses and funfairs are held there.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Mäntymäki_(Helsinki)"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801168"
+  },
+  "name": "Otto-Iivari Meurmanin puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.216972222222225,
+    "lon": 24.955694444444443,
+    "format": "DMS",
+    "original": "60°13′01.1″N, 024°57′20.5″E",
+    "method": "method_1"
+  },
+  "description": "Otto-Iivari Meurmanin puisto is a park and a schoolyard in Käpylä, Helsinki. The park covers approximately 1.2 hectares and is bordered by Pohjolankatu and Kullervonkatu streets. The Käpylä fire station is located southeast of the park. It's named after Otto-Iivari Meurman, a professor of urban planning. Behind the perennial area of the park is Kottby lågstadieskola, with a playground in between. To the right of the school, there is access to a pine-covered hill. The buildings surrounding the park in the old center of Käpylä were built in the 1950s. The park was renovated in the mid-2000s in a style that complements its surroundings.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Otto-Iivari_Meurmanin_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801169"
+  },
+  "name": "Paasivuorenpuistikko",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.17827777777777,
+    "lon": 24.947666666666667,
+    "format": "DMS",
+    "original": "60°10′41.8″N, 024°56′51.6″E",
+    "method": "method_1"
+  },
+  "description": "Paasivuorenpuistikko is a park located in the Siltasaari district of Helsinki. It is situated near Hakaniemi market square. The park is known for the sculpture \"The Boxers\" by Johannes Haapasalo. In 2020, the park was selected as the Environmental Structure of the Year. Paasivuorenkatu 3, which is next to Paasitalo, offers office space with views to the park. The location has excellent transport links to the developing Hakaniemi area, and parking is available in the nearby parking hall.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Paasivuorenpuistikko"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180116a"
+  },
+  "name": "Pakilanpuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.24277777777778,
+    "lon": 24.93166666666667,
+    "format": "DMS",
+    "original": "60°14′34″N, 024°55′54″E",
+    "method": "method_1"
+  },
+  "description": "Pakilanpuisto is a park located in Pakila, Helsinki. It covers an area of approximately ten hectares and stretches as a narrow strip, about a hundred meters wide, north of Ring I road. The park includes Pakilanpuisto's swamp, which is classified as a significantly valuable area.\n\nThe swamp is remarkably lush, home to various trees and plants, including regionally endangered species like *harajuuri* and *mesimarja*. Other plants include spruce, birch, aspen, black alder, grey alder, bird cherry, maple, and various shrubs and herbs. The Good Shepherd Church of Pakila, Pakila Elementary School, and Pakila Upper School are located near Pakilanpuisto. The name Pakilanpuisto was proposed on June 18, 1959, and confirmed on April 4, 1979.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Pakilanpuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180116b"
+  },
+  "name": "Pengerpuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.18517,
+    "lon": 24.95735,
+    "format": "decimal",
+    "original": "60.18517°N, 24.95735°E",
+    "method": "method_1"
+  },
+  "description": "Pengerpuisto is a park located in the Kallio district of Helsinki, specifically in the Torkkelinmäki area. The area is characterized by low apartment buildings from the 1920s on one side and taller buildings on the other. Pengerpuisto functions as an event area and provides green space for recreation. The park is easily accessible and serves as a focal point within its urban setting.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Pengerpuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180116c"
+  },
+  "name": "Porolahdenpuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Porolahdenpuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180116d"
+  },
+  "name": "Roihuvuoren aluepuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Roihuvuoren_aluepuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180116e"
+  },
+  "name": "Roihuvuoren japanilaistyylinen puutarha",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.19916666666666,
+    "lon": 25.056944444444444,
+    "format": "DMS",
+    "original": "60°11′57″N, 025°03′25″E",
+    "method": "method_1"
+  },
+  "description": "The Roihuvuori Japanese-style garden is located among apartment buildings and was constructed almost entirely by hand. It's built on a terraced slope that was once a slate quarry. The garden includes a moon gate, bamboo fences, shingle shelters and stone arrangements. Sand waves and a rocky creek are also featured and represent the sea of life. Nearby, there is also a cherry tree park. The Roihuvuori district in East Helsinki is home to the Japanese garden, which is a popular attraction. In springtime, a breathtaking cherry tree orchard flowers on the slope.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Roihuvuoren_japanilaistyylinen_puutarha"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180116f"
+  },
+  "name": "Savelanpuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Savelanpuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801170"
+  },
+  "name": "Sibeliuksen puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.181666666666665,
+    "lon": 24.913333333333334,
+    "format": "decimal",
+    "original": "wgCoordinates: 60.181666666666665, 24.913333333333334",
+    "method": "method_4"
+  },
+  "description": "Sibelius Park is located in the Töölö district of Helsinki. This park was named in 1945 to honor the composer Jean Sibelius on his 80th birthday. A major attraction within the park is the Sibelius Monument, crafted by Eila Hiltunen. This modern sculpture resembles organ pipes and has sparked debate since its unveiling. To appease critics, a bust of Sibelius was added to the monument.\n\nBesides the monument, the park also features a grove of birch trees that were planted to celebrate President Mauno Koivisto's 60th birthday. The park borders Merikannontie road, where Toivo Kuula Park and the Helsinki Rowing Stadium are located. Mechelininkatu divides the park into two sections.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Sibeliuksen_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801171"
+  },
+  "name": "Sinebrychoffin puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.1625,
+    "lon": 24.9325,
+    "format": "DMS",
+    "original": "60°09′45″N, 24°55′57″E",
+    "method": "method_1"
+  },
+  "description": "Sinebrychoff Park, also known as \"Koff Park\", is a popular park located in Punavuori, Helsinki. It was established by Nikolai Sinebrychoff, a businessman of Russian origin, who founded a brewery in the area. The park was originally a private garden next to his brewery and residence.\n\nIn 1835, the park was opened to the public and quickly became a favorite leisure spot for the residents of Helsinki. The park features an English-style landscape garden. Over the years, it has undergone several changes, including the construction of the Mallaskatu tunnel underneath it in the 1960s. The Sinebrychoff Art Museum is located at the edge of the park. Today, the park is a green oasis in the densely built urban environment, offering a playground, public restroom, and café.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Sinebrychoffin_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801172"
+  },
+  "name": "Syötävä Puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Syötävä_Puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801173"
+  },
+  "name": "Taivallahden sotilashautausmaa",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.175926,
+    "lon": 24.916182,
+    "format": "decimal",
+    "original": "60.175926°N, 24.916182°E",
+    "method": "method_1"
+  },
+  "description": "Taivallahden sotilashautausmaa, also known as the Töölö military hospital cemetery, was a military cemetery of the Russian Imperial Army in Etu-Töölö, Helsinki, which operated from 1826 to 1918. Today, the area is mainly a park bordering Eteläinen Hesperiankatu, Hietakannaksentie, the Helsinki Jewish Cemetery and Hiekkarannantie.\n\nThe cemetery was granted to the city of Helsinki on the condition that it be used for its original purpose. Preserved gravestones and a red granite obelisk, which serves as a memorial stone, can still be found in the area. The Pyhän Nikolauksen seurakunta cemetery is also located in the former area of the Taivallahden sotilashautausmaa.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Taivallahden_sotilashautausmaa"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801174"
+  },
+  "name": "Talinhuippu",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.212,
+    "lon": 24.847666666666665,
+    "format": "decimal",
+    "original": "wgCoordinates: 60.212, 24.847666666666665",
+    "method": "method_4"
+  },
+  "description": "Talinhuippu is a former landfill located on the border of Helsinki and Espoo. It operated from 1963 to 1979 and was one of Helsinki's \"big three\" dumping grounds. Today, it appears as a regular, grassy hill, indistinguishable from natural hills due to tree growth. \n\nIt's situated between Talinranta, the Tali Golf Course, and the Vermo harness racing track, on the northern shore of Laajalahti Bay. The area features recreational paths, a frisbee golf course, and a dog training field used by various associations. In winter, the Tali Golf Course's ski tracks extend to and beyond Talinhuippu. While gas emissions have ceased, allowing vegetation to flourish, waste still causes emissions into the sea.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Talinhuippu"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801175"
+  },
+  "name": "Tapio Wirkkalan puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.2074,
+    "lon": 24.9784,
+    "format": "decimal",
+    "original": "60.2074°N, 24.9784°E",
+    "method": "method_1"
+  },
+  "description": "Tapio Wirkkala Park is an art park located in the Arabianranta district of Helsinki. It was opened on October 22, 2012, and named after designer Tapio Wirkkala. The park was designed by American artist Robert Wilson and consists of nine room-like spaces formed by hedges.\n\nInside these \"rooms,\" you'll find various elements such as stones of different shapes and sizes, benches, gates, and horses. The flooring materials include illuminated glass tiles (symbolizing water), gravel, and wood. Lighting plays a particularly important role in the park's design. The total area of the park is 2,361 square meters. The park is part of the Helsinki Art Museum's public art collection.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Tapio_Wirkkalan_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801176"
+  },
+  "name": "Tarja Halosen puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.182046,
+    "lon": 24.941026,
+    "format": "decimal",
+    "original": "60.182046°N, 24.941026°E",
+    "method": "method_1"
+  },
+  "description": "Tarja Halonen Park is a small park located in Kallio, Helsinki, in front of the Helsinki City Theatre. It was named in honor of President Tarja Halonen's 70th birthday in December 2013.\n\nThe park is an integral part of the theater environment and seamlessly connects to Ilola Park and Tokoinranta. A large sculpture by Kari Juva named Thalia and Pegasos (1970) is located in the park. Helsinki has a tradition of naming a street, square, or park after each president.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Tarja_Halosen_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801177"
+  },
+  "name": "Tauno Palon puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.18604194444444,
+    "lon": 24.947109444444443,
+    "format": "DMS",
+    "original": "60°11′9.751″N, 24°56′49.594″E",
+    "method": "method_1"
+  },
+  "description": "Tauno Palon puisto is a park in Helsinki, located in the Kallio district. It's a memorial park dedicated to the famous Finnish actor Tauno Palo. The park was created through collaboration between Lars Liljefors, a park designer, and sculptor Kain Tapper.\n\nThe park features a granite base, a bronze portrait relief, plantings, and a water basin. Kain Tapper described the granite as representing Palo's sturdy figure, while the roses and flowing water symbolize the artist's sensitivity. Originally roses were planted by the pond to represent Tauno Palo's sensitivity but they did not survive and were replaced with perennials. A small stream trickles down the rock into the pond. The park is a small, calm oasis featuring a maple tree, lilacs, yews and bird cherry trees.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Tauno_Palon_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801178"
+  },
+  "name": "Tehtaanpuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.15871111111111,
+    "lon": 24.940144444444446,
+    "format": "DMS",
+    "original": "60°9′31.36″N, 24°56′24.52″E",
+    "method": "method_1"
+  },
+  "description": "Tehtaanpuisto is a park located in the Punavuori neighborhood of Helsinki. It's a relatively small park, covering just over 5 acres, but it offers various amenities and features. The park is suitable for families and individuals alike, providing opportunities for walking, sports, and relaxation.\n\nWithin Tehtaanpuisto, you can find a soccer field and a bike path for sports enthusiasts. For families with children, there's a playground available. The park is also dog-friendly, offering a designated dog park area. Essential amenities like restrooms are also present. Tehtaanpuisto is near the Mikael Agricola Church.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Tehtaanpuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801179"
+  },
+  "name": "Tokoinranta",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.18003196,
+    "lon": 24.94095076,
+    "format": "decimal",
+    "original": "60.18003196°N, 24.94095076°E",
+    "method": "method_1"
+  },
+  "description": "Tokoinranta is a park located in Kallio, Helsinki, on the shore of Eläintarhanlahti bay. It's situated to the west of Hakaniemi market square. The Helsinki City Theatre is located on the northern side of the park.\n\nIn the eastern part of Tokoinranta, there is a small playground for children and a bronze memorial, \"Soihtu\" (The Torch), created in 1968 to honor Miina Sillanpää. On the park's western side, you'll find the former Café Piritta building. During late summer, the Huvila tent is erected in the park for concerts during the Helsinki Festival.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Tokoinranta"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180117a"
+  },
+  "name": "Torkkelinpuistikko",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.18561666666666,
+    "lon": 24.955391666666667,
+    "format": "DMS",
+    "original": "60°11′8.22″N, 24°57′19.41″E",
+    "method": "method_1"
+  },
+  "description": "Torkkelinpuistikko is a small and peaceful park located in Torkkelinmäki, in the Kallio district of Helsinki. Elisabeth Koch designed the park, and it exemplifies the regular and symmetrical park ideals of the 1920s. A playground is also present in the park.\n\nOld stone buildings and a hawthorn hedge surround Torkkelinpuistikko, which creates a more peaceful and secluded environment. The park's appearance was improved in the summer of 2002, with enhancements to the vegetation, new furniture, and a more open aspect. During summer days, the park is a popular place for city dwellers to enjoy the sun and the tranquility it offers.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Torkkelinpuistikko"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180117b"
+  },
+  "name": "Tove Janssonin puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.168055555555554,
+    "lon": 24.961305555555555,
+    "format": "DMS",
+    "original": "60°10′5″N, 024°57′40.7″E",
+    "method": "method_1"
+  },
+  "description": "Tove Janssonin puisto is a triangular park located in Katajanokka, Helsinki, below the Uspenski Cathedral. Established in 1897, the park was designed by city gardener Svante Olsson, featuring plantings on three levels. In the upper section, there's a fenced playground for children, while the lower part offers a dog park.\n\nThe park also features the bronze sculpture \"Water Carrier\" by Viktor Malmberg, depicting a young woman in antique clothing. Originally, a road divided the park, but it was closed to traffic in 1977. The park was renamed in 2014 to honor Tove Jansson, the creator of the Moomins, whose childhood home was nearby. The park offers a beautiful view of the Uspenski Cathedral.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Tove_Janssonin_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180117c"
+  },
+  "name": "Tullisaari",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.17872,
+    "lon": 25.03054,
+    "format": "decimal",
+    "original": "geo microformat: 60.17872; 25.03054",
+    "method": "method_5"
+  },
+  "description": "Tullisaari is a verdant area in Helsinki, specifically a sub-district of the Laajasalo district. It's known for its significant parkland, including the Tullisaari Manor Park, a nationally significant cultural and historical environment. The area's history dates back to the 16th century.\n\nHistorically, Tullisaari has been owned by notable figures such as Henrik Borgström, who contributed to the park's design with inspiration from English landscapes. The park features winding paths and viewpoints overlooking the sea. Tullisaari also contains the Aino Ackté villa, a historically valuable building that hosted prominent figures in Finnish culture. Today, it serves as a recreational area with beautiful scenery, cliffs, and views towards Herttoniemi and Kulosaari.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Tullisaari"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180117d"
+  },
+  "name": "Tähtitornin vuori",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.161833333333334,
+    "lon": 24.954722222222223,
+    "format": "DMS",
+    "original": "60°9′42.6″N, 024°57′17″E",
+    "method": "method_1"
+  },
+  "description": "Tähtitorninvuori, also known as Observatory Hill, is a rocky hill located in Ullanlinna, Helsinki, near the South Harbor. Rising approximately 30 meters high, it mainly serves as a park, incorporating a few public buildings.\n\nThe Helsinki University Observatory, completed in 1834, sits atop the hill at the southern end of Unioninkatu. While named for its original purpose, the observatory now functions as a public astronomy center, as city lights have made astronomical observations impractical.\n\nRobert Stigell's sculpture \"Shipwrecked\" (Haaksirikkoiset), created in 1897, is situated on the park's edge facing the South Harbor, positioned on a plateau above a cliff.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Tähtitornin_vuori"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180117e"
+  },
+  "name": "Töölönlahden puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.17684166666666,
+    "lon": 24.93659166666667,
+    "format": "DMS",
+    "original": "60°10′36.63″N, 24°56′11.73″E",
+    "method": "method_1"
+  },
+  "description": "Töölönlahti Park is a green oasis in the heart of Helsinki. Historically, the area was a bay that transformed into a rail yard before becoming a park. It's designed as a leisure space for residents, featuring an \"activity arch\" that connects different sections.\n\nThe park boasts the longest park benches in Helsinki, measuring 154 meters. You can find a playground, exercise stations, and lounging areas along the activity arch. The park also has a small sandy beach where you can rent equipment for paddling, rowing, or stand-up paddleboarding.\n\nTöölönlahti Park is also an event venue with electricity points and water connections. The park aims to blend nature, culture, and urban life, serving both locals and tourists.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Töölönlahden_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e3180117f"
+  },
+  "name": "Vallilanlaakso",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Vallilanlaakso"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801180"
+  },
+  "name": "Vanha kirkkopuisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.16611111111111,
+    "lon": 24.939722222222223,
+    "format": "DMS",
+    "original": "60°09′58″N, 024°56′23″E",
+    "method": "method_1"
+  },
+  "description": "Vanha kirkkopuisto, also known as \"Ruttopuisto,\" is a park and historical cemetery located in Kamppi, Helsinki. It surrounds the Old Church and covers a city block. The park is bordered by Lönnrotinkatu, Annankatu, Bulevardi, and Yrjönkatu streets.\n\nAfter its use as a cemetery ended in the autumn of 1829, the area was transformed into a park maintained by the Helsinki parish. Initially, only the main path from the gate to the church was maintained, while the rest of the area was left to grow wild. Later, the park was better cared for due to citizen initiatives, with new trees and ornamental plants being planted in the 1850s.\n\nThe park's nickname, Ruttopuisto, refers to the victims of the plague epidemic. The name originated from the youth in the 1960s.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Vanha_kirkkopuisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801181"
+  },
+  "name": "Vanhanväylän puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Vanhanväylän_puisto"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801182"
+  },
+  "name": "Varsapuistikko",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.17333333333333,
+    "lon": 24.95,
+    "format": "decimal",
+    "original": "wgCoordinates: 60.17333333333333, 24.95",
+    "method": "method_4"
+  },
+  "description": "Varsapuistikko is a small park located in Kluuvi, Helsinki. It's situated in the triangle between Kaisaniemenkatu, Yrjö-Koskisen katu, and Unioninkatu, near the Metsätalo building. Originally, it was part of Kaisaniemi Park, but it became separated when Kaisaniemenkatu was built through the park.\n\nThe park's name comes from the \"Mother's Love\" statue by Emil Cedercreutz, installed in 1928, which depicts a mare and her foal. The statue is the park's most notable feature, reflecting Cedercreutz's admiration for horses. The city commissioned the statue based on Cedercreutz's sketch, initially suggesting Eira Park as a location, but the small park in Kaisaniemi was chosen instead.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Varsapuistikko"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801183"
+  },
+  "name": "Vartiokylän kaatopaikka",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.21888888888889,
+    "lon": 25.071666666666665,
+    "format": "DMS",
+    "original": "60°13′08″N, 025°04′18″E",
+    "method": "method_1"
+  },
+  "description": "The Vartiokylä landfill, also known as \"Alakiventie area,\" operated in Helsinki's Vartiokylä district from 1954 to 1962. It was located in the current Myllypuro area. The landfill was created in a former gravel pit and received municipal waste, industrial waste, and waste oil.\n\nEven during its operation, the landfill caused environmental problems. Waste oil leaked through the sand ridge, polluting the forest and nearby fields, eventually reaching the Marjaniemi beach. The landfill was closed in 1962 because it was full, not due to environmental concerns.\n\nIn the 1970s, apartment buildings and a daycare center were constructed on top of the landfill. Residents were exposed to hazardous materials, leading to the demolition of the buildings in the early 2000s. The contaminated soil was then encapsulated within a cone-shaped structure. Today, the area is a park with a distinctive \"cone\" in the middle, marking the location of the former landfill.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Vartiokylän_kaatopaikka"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801184"
+  },
+  "name": "Viikin arboretum",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Viikin_arboretum"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801185"
+  },
+  "name": "Vuosaarenhuippu",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.22694444444445,
+    "lon": 25.162777777777777,
+    "format": "DMS",
+    "original": "60°13′37″N, 025°09′46″E",
+    "method": "method_1"
+  },
+  "description": "Vuosaarenhuippu is a recreational area in Vuosaari, eastern Helsinki. It's a unique environment created through ecological restoration on a former dumping ground. The area boasts diverse flora and fauna, with over 400 plant species.\n\nRecreational routes cater to all hikers, and nature trails have information boards, although paths are not maintained during winter. From the highest point, at 65 meters, you can enjoy views of Helsinki and Vuosaari Harbour. The area includes interesting features like a marsh-like pond, rocky gorge, and planted foliage. It's home to various bird species and other wildlife, so visitors are encouraged to stay on marked paths, especially during nesting season.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Vuosaarenhuippu"
+},
+{
+  "_id": {
+    "$oid": "6800a44c0670089e31801186"
+  },
+  "name": "Väinö Valveen puisto",
+  "source": "https://fi.wikipedia.org/wiki/Luokka:Helsingin_puistot",
+  "coordinates": {
+    "lat": 60.20590833333333,
+    "lon": 25.043236111111113,
+    "format": "DMS",
+    "original": "60°12′21.27″N, 25°2′35.65″E",
+    "method": "method_1"
+  },
+  "description": "Väinö Valveen puisto is a park located in eastern Helsinki, next to the Siilitie metro station. The area was previously known as Siilitien aseman puistometsä. A distinctive feature is a steep park walkway leading down to Siilitie, nicknamed Häntäluunmäki.\n\nThe park is named after Väinö Valve, a Finnish Jäger General and Minister of Defence. A memorial to Valve is located within the park. Valve spent the last years of his life residing near the park on Oravatie street.\n",
+  "category": "park",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Väinö_Valveen_puisto"
+}]

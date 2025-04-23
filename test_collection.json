@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Åbo Akademi",
+        "url": "https://fi.wikipedia.org/wiki/%C3%85bo_Akademi",
+        "coordinates": {
+            "lat": 60.451097222222224,
+            "lon": 22.27746111111111,
+            "format": "DMS",
+            "original": "60°27′3.95″N, 22°16′38.86″E",
+            "method": "method_1"
+        }
+    },
+    {
+        "name": "Maanpuolustuskorkeakoulu",
+        "url": "https://fi.wikipedia.org/wiki/Maanpuolustuskorkeakoulu",
+        "coordinates": {
+            "lat": 60.1536,
+            "lon": 25.0547,
+            "format": "decimal",
+            "original": "geo microformat: 60.1536; 25.0547",
+            "method": "method_5"
+        }
+    },
+    {
+        "name": "Tampereen yliopisto",
+        "url": "https://fi.wikipedia.org/wiki/Tampereen_yliopisto",
+        "coordinates": {
+            "lat": 61.494166666666665,
+            "lon": 23.778055555555554,
+            "format": "DMS",
+            "original": "61°29′39″N, 023°46′41″E",
+            "method": "method_1"
+        }
+    }
+]

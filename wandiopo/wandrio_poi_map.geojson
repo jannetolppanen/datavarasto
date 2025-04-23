@@ -1,0 +1,784 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.63333333,
+          62.55
+        ]
+      },
+      "properties": {
+        "name": "Etelä-Konneveden kansallispuisto",
+        "category": "National park",
+        "description": "Karuja kallioita ja laajoja järvimaisemia. Sopii patikointiin ja melontaan, reittejä 15 km. Perustettu 2014.",
+        "link": "https://fi.wikipedia.org/wiki/Etel%C3%A4-Konneveden_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "czNTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85,
+          62.03333333
+        ]
+      },
+      "properties": {
+        "name": "Helvetinjärven kansallispuisto",
+        "category": "National park",
+        "description": "Jylhiä rotkoja ja järvimaisemia. Helvetinkolu on suosittu nähtävyys. Reittejä 40 km, sopii päiväretkille.",
+        "link": "https://fi.wikipedia.org/wiki/Helvetinj%C3%A4rven_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "YwMjc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.05861111,
+          63.87277778
+        ]
+      },
+      "properties": {
+        "name": "Hiidenportin kansallispuisto",
+        "category": "National park",
+        "description": "Erämainen metsä- ja suomaisema. Hiidenportin rotko on puiston sydän. Reittejä 30 km, rauhallinen retkikohde.",
+        "link": "https://fi.wikipedia.org/wiki/Hiidenportin_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "c3ODY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.32361111,
+          65.48972222
+        ]
+      },
+      "properties": {
+        "name": "Hossan kansallispuisto",
+        "category": "National park",
+        "description": "Kirkkaat vedet ja kalliomaalaukset. Julma-Ölkyn kanjonijärvi on kohokohta. Reittejä 90 km, sopii melontaan.",
+        "link": "https://fi.wikipedia.org/wiki/Hossan_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "M1NzM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.01083333,
+          61.69833333
+        ]
+      },
+      "properties": {
+        "name": "Isojärven kansallispuisto",
+        "category": "National park",
+        "description": "Harju- ja järvimaisemia, majavien elinympäristö. Monipuoliset reitit, 20 km. Sopii perheille ja patikoijille.",
+        "link": "https://fi.wikipedia.org/wiki/Isoj%C3%A4rven_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "U0NjI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.16666667,
+          60.25
+        ]
+      },
+      "properties": {
+        "name": "Itäisen Suomenlahden kansallispuisto",
+        "category": "National park",
+        "description": "Saaristomaisemia ja lintuparatiisi. Keväisin muuttolintuja. Saavutettavissa veneellä, sopii lintubongareille.",
+        "link": "https://fi.wikipedia.org/wiki/It%C3%A4isen_Suomenlahden_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "YxMjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4,
+          62.18333333
+        ]
+      },
+      "properties": {
+        "name": "Kauhanevan–Pohjankankaan kansallispuisto",
+        "category": "National park",
+        "description": "Avara suo ja lintutorni. Osa UNESCO:n geoparkia. Reittejä 10 km, sopii lyhyille retkille.",
+        "link": "https://fi.wikipedia.org/wiki/Kauhanevan%E2%80%93Pohjankankaan_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "YxNDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.88722222,
+          63.0575
+        ]
+      },
+      "properties": {
+        "name": "Kolin kansallispuisto",
+        "category": "National park",
+        "description": "Suomen tunnetuin kansallismaisema. Ukko-Kolin vaarat ja Pielisen näkymät. Reittejä 80 km, myös talviaktiviteetteja.",
+        "link": "https://fi.wikipedia.org/wiki/Kolin_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "M2OTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.83611111,
+          62.24305556
+        ]
+      },
+      "properties": {
+        "name": "Koloveden kansallispuisto",
+        "category": "National park",
+        "description": "Saimaan järvimaisemia ja kalliomaalauksia. Ihanteellinen melontaan, moottoriveneily kielletty. Reittejä 40 km.",
+        "link": "https://fi.wikipedia.org/wiki/Koloveden_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "M2NDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.41666667,
+          60.73333333
+        ]
+      },
+      "properties": {
+        "name": "Kurjenrahkan kansallispuisto",
+        "category": "National park",
+        "description": "Suo- ja metsämaisemia lähellä Turkua. Savojärven kierros suosittu. Reittejä 50 km, sopii päiväretkille.",
+        "link": "https://fi.wikipedia.org/wiki/Kurjenrahkan_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "YxNTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.175,
+          62.15194444
+        ]
+      },
+      "properties": {
+        "name": "Lauhanvuoren kansallispuisto",
+        "category": "National park",
+        "description": "Muinaisia merenpohjia ja kivijatoja. Osa UNESCO:n geoparkia. Reittejä 20 km, sopii geologiasta kiinnostuneille.",
+        "link": "https://fi.wikipedia.org/wiki/Lauhanvuoren_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "E0OTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.03333333,
+          61.93333333
+        ]
+      },
+      "properties": {
+        "name": "Leivonmäen kansallispuisto",
+        "category": "National park",
+        "description": "Harju-, suo- ja järvimaisemia. Monipuoliset reitit, 20 km. Sopii perheille ja aloittelijoille.",
+        "link": "https://fi.wikipedia.org/wiki/Leivonm%C3%A4en_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "E0Njc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5,
+          68.5
+        ]
+      },
+      "properties": {
+        "name": "Lemmenjoen kansallispuisto",
+        "category": "National park",
+        "description": "Suurin kansallispuisto, erämainen tundra. Ravadasköngäs-putous on nähtävyys. Reittejä 60 km, vaelluksille.",
+        "link": "https://fi.wikipedia.org/wiki/Lemmenjoen_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "I4ODU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85833333,
+          60.68055556
+        ]
+      },
+      "properties": {
+        "name": "Liesjärven kansallispuisto",
+        "category": "National park",
+        "description": "Järvi- ja metsämaisemia. Kyynäränharjun näkymät suosittuja. Reittejä 20 km, sopii lyhyille retkille.",
+        "link": "https://fi.wikipedia.org/wiki/Liesj%C3%A4rven_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "k0MDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.51944444,
+          62.10972222
+        ]
+      },
+      "properties": {
+        "name": "Linnansaaren kansallispuisto",
+        "category": "National park",
+        "description": "Saimaan saaristomaisemia, norpan koti. Melonta ja retkiluistelu suosittuja. Reittejä 40 km.",
+        "link": "https://fi.wikipedia.org/wiki/Linnansaaren_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "kzNzM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.46666667,
+          60.31666667
+        ]
+      },
+      "properties": {
+        "name": "Nuuksion kansallispuisto",
+        "category": "National park",
+        "description": "Metsiä, järviä ja rotkoja lähellä Helsinkiä. Reittejä 33 km, sopii päiväretkille. Luontokeskus Haltia.",
+        "link": "https://fi.wikipedia.org/wiki/Nuuksion_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "g4MjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.33333333,
+          66.36666667
+        ]
+      },
+      "properties": {
+        "name": "Oulangan kansallispuisto",
+        "category": "National park",
+        "description": "Jylhiä koskia ja riippusiltoja. Karhunkierros (82 km) on kuuluisa. Reittejä 150 km, myös melontaan.",
+        "link": "https://fi.wikipedia.org/wiki/Oulangan_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "U5OTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.45,
+          61.36666667
+        ]
+      },
+      "properties": {
+        "name": "Päijänteen kansallispuisto",
+        "category": "National park",
+        "description": "Suosituin puisto, tunturimaisemia. Hetta-Pallas-reitti (55 km) on klassikko. Reittejä 500 km.",
+        "link": "https://fi.wikipedia.org/wiki/P%C3%A4ij%C3%A4nteen_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "IxNjk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.05,
+          68.07
+        ]
+      },
+      "properties": {
+        "name": "Pallas-Yllästunturin kansallispuisto",
+        "category": "National park",
+        "description": "Suo- ja metsämaisemia, karhujen elinympäristö. Suomunkierros (15 km) suosittu. Reittejä 80 km.",
+        "link": "https://fi.wikipedia.org/wiki/Pallas-Yll%C3%A4stunturin_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "AwODk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.70444444,
+          63.11138889
+        ]
+      },
+      "properties": {
+        "name": "Patvinsuon kansallispuisto",
+        "category": "National park",
+        "description": "Matalia saaria ja merimaisemia. Sopii veneilyyn ja lintubongaukseen. Saavutettavissa veneellä.",
+        "link": "https://fi.wikipedia.org/wiki/Patvinsuon_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "g3NDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.31666667,
+          65.61666667
+        ]
+      },
+      "properties": {
+        "name": "Perämeren kansallispuisto",
+        "category": "National park",
+        "description": "Pienin puisto, harjumaisemia. Taipaleen kierto (6 km) on suosittu. Sopii lyhyille retkille.",
+        "link": "https://fi.wikipedia.org/wiki/Per%C3%A4meren_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "E5NDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.18333333,
+          62.58333333
+        ]
+      },
+      "properties": {
+        "name": "Petkeljärven kansallispuisto",
+        "category": "National park",
+        "description": "Lintuparatiisi ja avaria soita. Lintutorni suosittu. Reittejä 10 km, sopii lintuharrastajille.",
+        "link": "https://fi.wikipedia.org/wiki/Petkelj%C3%A4rven_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "MwMzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.56694444,
+          61.24916667
+        ]
+      },
+      "properties": {
+        "name": "Puurijärven ja Isosuon kansallispuisto",
+        "category": "National park",
+        "description": "Ikivanhoja metsiä, 500-vuotias honka. Helppokulkuiset polut, 10 km. Sopii luonnon rauhaan.",
+        "link": "https://fi.wikipedia.org/wiki/Puurij%C3%A4rven_ja_Isosuon_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "EyODQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4725,
+          62.84555556
+        ]
+      },
+      "properties": {
+        "name": "Pyhä-Häkin kansallispuisto",
+        "category": "National park",
+        "description": "Tunturimaisemia ja saamelaiskulttuuria. Noitatunturi ja Ukko-Luosto suosittuja. Reittejä 200 km.",
+        "link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4-H%C3%A4kin_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "A3NTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.97361111,
+          67.06638889
+        ]
+      },
+      "properties": {
+        "name": "Pyhä-Luoston kansallispuisto",
+        "category": "National park",
+        "description": "Järvimaisemia ja saaria. Sopii melontaan ja veneilyyn. Reittejä 20 km, myös talviaktiviteetteja.",
+        "link": "https://fi.wikipedia.org/wiki/Pyh%C3%A4-Luoston_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "U3OTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.88333333,
+          61.18333333
+        ]
+      },
+      "properties": {
+        "name": "Repoveden kansallispuisto",
+        "category": "National park",
+        "description": "Monipuoliset järvi- ja metsämaisemat. Olhavanvuori ja riippusilta suosittuja. Reittejä 40 km.",
+        "link": "https://fi.wikipedia.org/wiki/Repoveden_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "k4NjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5,
+          66.23333333
+        ]
+      },
+      "properties": {
+        "name": "Riisitunturin kansallispuisto",
+        "category": "National park",
+        "description": "Tunturimaisemia ja rinnesuo. Riisin rääpäsy (10 km) on suosittu. Reittejä 30 km, myös talvella.",
+        "link": "https://fi.wikipedia.org/wiki/Riisitunturin_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "AwMDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.51,
+          64.55611111
+        ]
+      },
+      "properties": {
+        "name": "Rokuan kansallispuisto",
+        "category": "National park",
+        "description": "Harjumaisemia ja jäkäläkankaita. Osa UNESCO:n geoparkia. Reittejä 20 km, sopii geologiasta kiinnostuneille.",
+        "link": "https://fi.wikipedia.org/wiki/Rokuan_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "kzNDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7,
+          59.91666667
+        ]
+      },
+      "properties": {
+        "name": "Saaristomeren kansallispuisto",
+        "category": "National park",
+        "description": "Ainutlaatuinen saaristo, monipuolinen eliöstö. Sopii veneilyyn ja melontaan. UNESCO:n biosfäärialue.",
+        "link": "https://fi.wikipedia.org/wiki/Saaristomeren_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "YyOTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75,
+          63.26666667
+        ]
+      },
+      "properties": {
+        "name": "Salamajärven kansallispuisto",
+        "category": "National park",
+        "description": "Suo- ja metsämaisemia, Peuran polku (115 km). Sopii vaelluksille. Reittejä 70 km.",
+        "link": "https://fi.wikipedia.org/wiki/Salamaj%C3%A4rven_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "MzMjk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.86666667,
+          66.78333333
+        ]
+      },
+      "properties": {
+        "name": "Sallan kansallispuisto",
+        "category": "National park",
+        "description": "Itä-Lapin erämaamaisemia. Perustettu 2022, sopii patikointiin ja hiihtoon. Reittejä 100 km.",
+        "link": "https://fi.wikipedia.org/wiki/Sallan_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "I1MjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.43333333,
+          61.91666667
+        ]
+      },
+      "properties": {
+        "name": "Seitsemisen kansallispuisto",
+        "category": "National park",
+        "description": "Karuja saaria ja majakoita. Sopii veneilyyn ja lintubongaukseen. Saavutettavissa veneellä.",
+        "link": "https://fi.wikipedia.org/wiki/Seitsemisen_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "M3MTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0986,
+          60.979
+        ]
+      },
+      "properties": {
+        "name": "Selkämeren kansallispuisto",
+        "category": "National park",
+        "description": "Metsä- ja suomaisemia, monipuoliset reitit. Pitkäjärven kierros (20 km) suosittu. Reittejä 60 km.",
+        "link": "https://fi.wikipedia.org/wiki/Selk%C3%A4meren_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "kxODM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.21888889,
+          60.315
+        ]
+      },
+      "properties": {
+        "name": "Sipoonkorven kansallispuisto",
+        "category": "National park",
+        "description": "Metsiä ja niittyjä lähellä Helsinkiä. Sopii päiväretkille, reittejä 30 km. Monipuolinen eliöstö.",
+        "link": "https://fi.wikipedia.org/wiki/Sipoonkorven_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "MyMDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57222222,
+          65.70138889
+        ]
+      },
+      "properties": {
+        "name": "Syötteen kansallispuisto",
+        "category": "National park",
+        "description": "Kumpuilevia vaaroja ja metsiä. Ahmatupa on suosittu tukikohta. Reittejä 120 km, myös talvella.",
+        "link": "https://fi.wikipedia.org/wiki/Sy%C3%B6tteen_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "M3NDU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.45416667,
+          59.82277778
+        ]
+      },
+      "properties": {
+        "name": "Tammisaaren saariston kansallispuisto",
+        "category": "National park",
+        "description": "Saaristomaisemia ja lintuparatiisi. Sopii veneilyyn ja melontaan. Monipuolinen kasvillisuus.",
+        "link": "https://fi.wikipedia.org/wiki/Tammisaaren_saariston_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "c3ODE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.96027778,
+          60.22388889
+        ]
+      },
+      "properties": {
+        "name": "Teijon kansallispuisto",
+        "category": "National park",
+        "description": "Järvi- ja metsämaisemia, vanhoja ruukkeja. Reittejä 50 km, sopii perheille ja pyöräilyyn.",
+        "link": "https://fi.wikipedia.org/wiki/Teijon_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "MzNjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3,
+          63.66666667
+        ]
+      },
+      "properties": {
+        "name": "Tiilikkajärven kansallispuisto",
+        "category": "National park",
+        "description": "Hiekkarantoja ja suomaisemia. Venäjänsärkkä on kohokohta. Reittejä 20 km, sopii melontaan.",
+        "link": "https://fi.wikipedia.org/wiki/Tiilikkaj%C3%A4rven_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "Q2Njg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.61666667,
+          60.73333333
+        ]
+      },
+      "properties": {
+        "name": "Torronsuon kansallispuisto",
+        "category": "National park",
+        "description": "Laaja suo ja lintutorni. Sopii lyhyille retkille, reittejä 10 km. Kaunis syksyisin.",
+        "link": "https://fi.wikipedia.org/wiki/Torronsuon_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "gxNjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28,
+          68.33333333
+        ]
+      },
+      "properties": {
+        "name": "Urho Kekkosen kansallispuisto",
+        "category": "National park",
+        "description": "Laaja erämaa, tuntureita ja aapasuo. Sopii vaelluksille, reittejä 200 km. Itäkaira on rauhallinen.",
+        "link": "https://fi.wikipedia.org/wiki/Urho_Kekkosen_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "cxNTQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.73333333,
+          60.56666667
+        ]
+      },
+      "properties": {
+        "name": "Valkmusan kansallispuisto",
+        "category": "National park",
+        "description": "Suo- ja metsämaisemia, lintuparatiisi. Reittejä 10 km, sopii lintuharrastajille ja rauhallisiin retkiin.",
+        "link": "https://fi.wikipedia.org/wiki/Valkmusan_kansallispuisto",
+        "rarity": "nan",
+        "quests": "nan"
+      },
+      "id": "EwNzY"
+    }
+  ]
+}
