@@ -3,23 +3,26 @@
     "$oid": "680891aba389362bcf5ee5af"
   },
   "name": "Helsingin yliopisto",
-  "wikipedia_link": "https://fi.wikipedia.org/wiki/Helsingin_yliopisto",
-  "address": "Helsinki, Suomi"
+  "address": "Helsinki, Suomi",
+  "category": "university",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Helsingin_yliopisto"
 },
 {
   "_id": {
     "$oid": "680891aba389362bcf5ee5b0"
   },
   "name": "Svenska handelshögskolan",
-  "wikipedia_link": "https://fi.wikipedia.org/wiki/Hanken_Svenska_handelsh%C3%B6gskolan",
-  "address": "Helsinki ja Vaasa,"
+  "address": "Helsinki ja Vaasa,",
+  "category": "university",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Hanken_Svenska_handelsh%C3%B6gskolan"
 },
 {
   "_id": {
     "$oid": "680891aba389362bcf5ee5b1"
   },
   "name": "Åbo Akademi",
-  "wikipedia_link": "https://fi.wikipedia.org/wiki/%C3%85bo_Akademi",
   "coordinates": {
     "lat": 60.451097222222224,
     "lon": 22.27746111111111,
@@ -27,14 +30,16 @@
     "original": "60°27′3.95″N, 22°16′38.86″E",
     "method": "method_1"
   },
-  "description": "Åbo Akademi is a Swedish-language university primarily located in Turku, Finland. It was founded in 1918 with private funding, being the second university established in Finland. Åbo Akademi has four faculties, with some operations in Vaasa. Education and social sciences are partly taught in Vaasa. The university's strategic research areas include minority studies, molecular process and materials engineering, drug development and diagnostics, and the sea and maritime affairs. Around 5,500 students attend Åbo Akademi, and it employs approximately 1,100 staff members. Åbo Akademi was privatized until 1981, when it became the last Finnish university to be nationalized. The Åbo Akademi Foundation still owns and maintains a significant portion of the university's properties.\n"
+  "description": "Åbo Akademi is a Swedish-language university primarily located in Turku, Finland. It was founded in 1918 with private funding, being the second university established in Finland. Åbo Akademi has four faculties, with some operations in Vaasa. Education and social sciences are partly taught in Vaasa. The university's strategic research areas include minority studies, molecular process and materials engineering, drug development and diagnostics, and the sea and maritime affairs. Around 5,500 students attend Åbo Akademi, and it employs approximately 1,100 staff members. Åbo Akademi was privatized until 1981, when it became the last Finnish university to be nationalized. The Åbo Akademi Foundation still owns and maintains a significant portion of the university's properties.\n",
+  "category": "university",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/%C3%85bo_Akademi"
 },
 {
   "_id": {
     "$oid": "680891aba389362bcf5ee5b2"
   },
   "name": "Turun yliopisto",
-  "wikipedia_link": "https://fi.wikipedia.org/wiki/Turun_yliopisto",
   "coordinates": {
     "lat": 60.45416666666667,
     "lon": 22.284722222222225,
@@ -42,14 +47,16 @@
     "original": "60°27′15″N, 22°17′5″E",
     "method": "method_1"
   },
-  "description": "The University of Turku (Turun yliopisto in Finnish) is a public university located in Turku, Finland. It was founded in 1920 as the first completely Finnish-speaking university in the country. The university has approximately 22,000 students and 3,500 staff members.\n\nThe University of Turku is a multidisciplinary research university with eight faculties, offering a wide range of programs. Its campus is situated near Yliopistonmäki in the city center. In addition to Turku, the university has facilities in Rauma and Pori. The University of Turku Library is one of Finland's most significant research libraries.\n"
+  "description": "The University of Turku (Turun yliopisto in Finnish) is a public university located in Turku, Finland. It was founded in 1920 as the first completely Finnish-speaking university in the country. The university has approximately 22,000 students and 3,500 staff members.\n\nThe University of Turku is a multidisciplinary research university with eight faculties, offering a wide range of programs. Its campus is situated near Yliopistonmäki in the city center. In addition to Turku, the university has facilities in Rauma and Pori. The University of Turku Library is one of Finland's most significant research libraries.\n",
+  "category": "university",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Turun_yliopisto"
 },
 {
   "_id": {
     "$oid": "680891aba389362bcf5ee5b3"
   },
   "name": "Jyväskylän yliopisto",
-  "wikipedia_link": "https://fi.wikipedia.org/wiki/Jyv%C3%A4skyl%C3%A4n_yliopisto",
   "coordinates": {
     "lat": 62.23638888888889,
     "lon": 25.731944444444444,
@@ -57,14 +64,16 @@
     "original": "62°14′11″N, 025°43′55″E",
     "method": "method_1"
   },
-  "description": "The University of Jyväskylä is one of the largest and most multidisciplinary universities in Finland. It is a human-centered community of nearly 2,800 experts and over 14,900 students seeking answers to tomorrow's questions. Founded in 1863, it has a long history of Finnish-language education.\n\nThe university combines high-quality expertise in education, natural sciences, humanities and social sciences, sports and health sciences, and business studies into a multidisciplinary whole. The campus architecture is notable, with early buildings dating back to the 1880s and later expansion designed by Alvar Aalto.\n"
+  "description": "The University of Jyväskylä is one of the largest and most multidisciplinary universities in Finland. It is a human-centered community of nearly 2,800 experts and over 14,900 students seeking answers to tomorrow's questions. Founded in 1863, it has a long history of Finnish-language education.\n\nThe university combines high-quality expertise in education, natural sciences, humanities and social sciences, sports and health sciences, and business studies into a multidisciplinary whole. The campus architecture is notable, with early buildings dating back to the 1880s and later expansion designed by Alvar Aalto.\n",
+  "category": "university",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Jyv%C3%A4skyl%C3%A4n_yliopisto"
 },
 {
   "_id": {
     "$oid": "680891aba389362bcf5ee5b4"
   },
   "name": "Oulun yliopisto",
-  "wikipedia_link": "https://fi.wikipedia.org/wiki/Oulun_yliopisto",
   "coordinates": {
     "lat": 65.05916666666667,
     "lon": 25.46611111111111,
@@ -72,22 +81,26 @@
     "original": "65°03′33″N, 025°27′58″E",
     "method": "method_1"
   },
-  "description": "The University of Oulu, founded in 1958, is an international science and innovation university located in Linnanmaa, Oulu. It is one of the largest universities in Finland, with approximately 13,000 students and 3,000 employees. The university focuses on multidisciplinary research and education to build future expertise, well-being, and culture.\n\nIt is an expert in new technology, health, culture, the environment, and Arctic conditions. The university has a strong emphasis on collaboration with the public sector, research institutions, and businesses, fostering a significant innovation hub in the Oulu region.\n"
+  "description": "The University of Oulu, founded in 1958, is an international science and innovation university located in Linnanmaa, Oulu. It is one of the largest universities in Finland, with approximately 13,000 students and 3,000 employees. The university focuses on multidisciplinary research and education to build future expertise, well-being, and culture.\n\nIt is an expert in new technology, health, culture, the environment, and Arctic conditions. The university has a strong emphasis on collaboration with the public sector, research institutions, and businesses, fostering a significant innovation hub in the Oulu region.\n",
+  "category": "university",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Oulun_yliopisto"
 },
 {
   "_id": {
     "$oid": "680891aba389362bcf5ee5b5"
   },
   "name": "Vaasan yliopisto",
-  "wikipedia_link": "https://fi.wikipedia.org/wiki/Vaasan_yliopisto",
-  "address": "Vaasa, Suomi"
+  "address": "Vaasa, Suomi",
+  "category": "university",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Vaasan_yliopisto"
 },
 {
   "_id": {
     "$oid": "680891aba389362bcf5ee5b6"
   },
   "name": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
-  "wikipedia_link": "https://fi.wikipedia.org/wiki/Lappeenrannan_teknillinen_yliopisto",
   "coordinates": {
     "lat": 61.0648,
     "lon": 28.0942,
@@ -95,14 +108,16 @@
     "original": "61.0648°N, 28.0942°E",
     "method": "method_1"
   },
-  "description": "LUT University, officially known as Lappeenranta-Lahti University of Technology, is a Finnish public research university established in 1969. It has two main campuses, one in Lappeenranta, situated on the shore of Lake Saimaa, and another in Lahti. LUT also has research units in Mikkeli and Kouvola, along with a Brussels office.\n\nLUT University combines technology, business, and social sciences, focusing on sustainable technologies like clean energy, water, and circular economy. The university has around 7,700 students and 1,380 staff members, with a significant international presence representing nearly 100 nationalities. LUT offers bachelor's, master's, and doctoral programs, emphasizing collaboration with industry and a commitment to addressing global challenges.\n"
+  "description": "LUT University, officially known as Lappeenranta-Lahti University of Technology, is a Finnish public research university established in 1969. It has two main campuses, one in Lappeenranta, situated on the shore of Lake Saimaa, and another in Lahti. LUT also has research units in Mikkeli and Kouvola, along with a Brussels office.\n\nLUT University combines technology, business, and social sciences, focusing on sustainable technologies like clean energy, water, and circular economy. The university has around 7,700 students and 1,380 staff members, with a significant international presence representing nearly 100 nationalities. LUT offers bachelor's, master's, and doctoral programs, emphasizing collaboration with industry and a commitment to addressing global challenges.\n",
+  "category": "university",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Lappeenrannan_teknillinen_yliopisto"
 },
 {
   "_id": {
     "$oid": "680891aba389362bcf5ee5b7"
   },
   "name": "Lapin yliopisto",
-  "wikipedia_link": "https://fi.wikipedia.org/wiki/Lapin_yliopisto",
   "coordinates": {
     "lat": 66.48527777777778,
     "lon": 25.715,
@@ -110,14 +125,16 @@
     "original": "66°29′07″N, 025°42′54″E",
     "method": "method_1"
   },
-  "description": "The University of Lapland, located in Rovaniemi, is the northernmost university in the European Union. It is a science and art university with approximately 4,800 students. The university has four faculties: Education, Law, Arts and Design, and Social Sciences.\n\nThe University of Lapland focuses on arctic issues, sustainable tourism, and the management of future services and distances. It emphasizes global arctic responsibility and promotes sustainable development and environmental responsibility, participating in the WWF's Green Office network. The campus is located near the Arctic Circle.\n"
+  "description": "The University of Lapland, located in Rovaniemi, is the northernmost university in the European Union. It is a science and art university with approximately 4,800 students. The university has four faculties: Education, Law, Arts and Design, and Social Sciences.\n\nThe University of Lapland focuses on arctic issues, sustainable tourism, and the management of future services and distances. It emphasizes global arctic responsibility and promotes sustainable development and environmental responsibility, participating in the WWF's Green Office network. The campus is located near the Arctic Circle.\n",
+  "category": "university",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Lapin_yliopisto"
 },
 {
   "_id": {
     "$oid": "680891aba389362bcf5ee5b8"
   },
   "name": "Maanpuolustuskorkeakoulu",
-  "wikipedia_link": "https://fi.wikipedia.org/wiki/Maanpuolustuskorkeakoulu",
   "coordinates": {
     "lat": 60.1536,
     "lon": 25.0547,
@@ -125,38 +142,46 @@
     "original": "geo microformat: 60.1536; 25.0547",
     "method": "method_5"
   },
-  "description": "The Maanpuolustuskorkeakoulu (MPKK), or the Finnish National Defence University, is a military university located in Helsinki and part of the Finnish Defence Forces. Its main campus is located in Santahamina. The MPKK provides scientific education in military science, from bachelor's to doctoral degrees. The university's core mission is to educate highly skilled personnel for the Defence Forces and the Border Guard. It also promotes military research and provides instruction based on research and best practices. Officer training includes scientific and professional studies, as well as officer training. The goal is to give students the skills to think scientifically and to act as experts and developers in their fields.\n"
+  "description": "The Maanpuolustuskorkeakoulu (MPKK), or the Finnish National Defence University, is a military university located in Helsinki and part of the Finnish Defence Forces. Its main campus is located in Santahamina. The MPKK provides scientific education in military science, from bachelor's to doctoral degrees. The university's core mission is to educate highly skilled personnel for the Defence Forces and the Border Guard. It also promotes military research and provides instruction based on research and best practices. Officer training includes scientific and professional studies, as well as officer training. The goal is to give students the skills to think scientifically and to act as experts and developers in their fields.\n",
+  "category": "university",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Maanpuolustuskorkeakoulu"
 },
 {
   "_id": {
     "$oid": "680891aba389362bcf5ee5b9"
   },
   "name": "Itä-Suomen yliopisto",
-  "wikipedia_link": "https://fi.wikipedia.org/wiki/It%C3%A4-Suomen_yliopisto",
-  "address": "Joensuu ja Kuopio, Suomi"
+  "address": "Joensuu ja Kuopio, Suomi",
+  "category": "university",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/It%C3%A4-Suomen_yliopisto"
 },
 {
   "_id": {
     "$oid": "680891aba389362bcf5ee5ba"
   },
   "name": "Aalto-yliopisto",
-  "wikipedia_link": "https://fi.wikipedia.org/wiki/Aalto-yliopisto",
-  "address": "Espoo, Suomi"
+  "address": "Espoo, Suomi",
+  "category": "university",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Aalto-yliopisto"
 },
 {
   "_id": {
     "$oid": "680891aba389362bcf5ee5bb"
   },
   "name": "Taideyliopisto",
-  "wikipedia_link": "https://fi.wikipedia.org/wiki/Taideyliopisto",
-  "address": "Helsinki, Kuopio, Seinäjoki, Suomi"
+  "address": "Helsinki, Kuopio, Seinäjoki, Suomi",
+  "category": "university",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Taideyliopisto"
 },
 {
   "_id": {
     "$oid": "680891aba389362bcf5ee5bc"
   },
   "name": "Tampereen yliopisto",
-  "wikipedia_link": "https://fi.wikipedia.org/wiki/Tampereen_yliopisto",
   "coordinates": {
     "lat": 61.494166666666665,
     "lon": 23.778055555555554,
@@ -164,5 +189,8 @@
     "original": "61°29′39″N, 023°46′41″E",
     "method": "method_1"
   },
-  "description": "Tampere University is one of the largest and most multidisciplinary universities in Finland, located in Tampere. It was established in 2019 through a merger of the University of Tampere and Tampere University of Technology. The university is known for its strengths in technology, health, and society, bringing together research and education in these fields.\n\nThe university has around 22,500 students and 4,200 staff members from over 80 countries. It has seven faculties covering a wide range of subjects, and offers various programs in English. Tampere University is also known for its collaboration with other universities and organizations worldwide, providing opportunities for internationalization through student exchange programs and internships.\n"
+  "description": "Tampere University is one of the largest and most multidisciplinary universities in Finland, located in Tampere. It was established in 2019 through a merger of the University of Tampere and Tampere University of Technology. The university is known for its strengths in technology, health, and society, bringing together research and education in these fields.\n\nThe university has around 22,500 students and 4,200 staff members from over 80 countries. It has seven faculties covering a wide range of subjects, and offers various programs in English. Tampere University is also known for its collaboration with other universities and organizations worldwide, providing opportunities for internationalization through student exchange programs and internships.\n",
+  "category": "university",
+  "quests": "fi_type",
+  "url": "https://fi.wikipedia.org/wiki/Tampereen_yliopisto"
 }]
